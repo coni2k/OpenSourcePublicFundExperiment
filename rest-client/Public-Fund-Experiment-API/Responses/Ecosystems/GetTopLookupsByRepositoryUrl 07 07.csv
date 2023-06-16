@@ -1,0 +1,53 @@
+repositoryUrl,ecosystem,registry_url,dependent_packages_count,downloads,downloads_period,dependent_repos_count,docker_dependents_count,docker_downloads_count,last_synced_at,status
+https://github.com/OpenMaine/maineballot,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/wayofdev/next-starter-tpl,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/health-care221/jetbrains_guide,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/thailand-geography-data/thailand-geography-json,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/RustMagazine/rust_magazine_2021,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/AlfaazPlus/QuranApp,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/jerlendds/osintbuddy,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/Breakthrough-Development/smtpts,npm,https://www.npmjs.com/package/smtpts,0,null,last-month,0,null,null,2023-05-22T00:54:09.847Z,OK
+https://github.com/watergis/mapbox-gl-export,npm,https://www.npmjs.com/package/@watergis/mapbox-gl-export,2,1546,last-month,11,null,null,2023-06-30T02:19:41.27Z,OK
+https://github.com/umap-project/umap,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/facing-dev/vue-facing-decorator,npm,https://www.npmjs.com/package/vue-facing-decorator,0,5946,last-month,6,null,null,2023-05-31T10:50:29.509Z,OK
+https://github.com/netsora/SoraBot,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/JuliaPlots/Plots.jl,julia,https://juliahub.com/ui/Packages/Plots/ld3vC/,317,null,last-month,172,null,null,2023-07-07T05:36:41.255Z,OK
+https://github.com/fobgochod/git-commit-message-format,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/lehcode/soakp,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/asciidwango/js-primer,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/eruption-project/eruption,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/DiscordBM/DiscordBM,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/rewardenv/reward,go,https://pkg.go.dev/github.com/rewardenv/reward,0,null,null,0,null,null,2023-06-30T07:51:34.424Z,OK
+https://github.com/override-sh/aetheria,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/trustless-engineering/sol-panel,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/Skoice/skoice,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/ahKevinXy/ahKevinXy.github.io,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/4awpawz/trio,npm,https://www.npmjs.com/package/@4awpawz/trio,1,54,last-month,0,null,null,2023-05-18T02:21:19.34Z,OK
+https://github.com/skiff-org/skiff-apps,npm,https://www.npmjs.com/package/@skiff-org/skiff-crypto,0,238,last-month,0,null,null,2023-07-06T22:24:48.161Z,OK
+https://github.com/goatui/components,npm,https://www.npmjs.com/package/@goatui/components,1,4718,last-month,1,null,null,2023-07-07T04:26:39.985Z,OK
+https://github.com/f-person/git-blame.nvim,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/Kurozora/laravel-cooldown,packagist,https://packagist.org/packages/kurozora/laravel-cooldown#,0,195,total,2,null,null,2023-04-22T17:09:00.235Z,OK
+https://github.com/italia-opensource/awesome-italia-opensource,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/actualbudget/actual,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/the-storm-mc/monorepo,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/TeamHarTex/HarTex,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/darekf77/ng2-logger,npm,https://www.npmjs.com/package/ng2-logger,84,5759,last-month,64,null,null,2023-07-02T07:09:26.223Z,OK
+https://github.com/lyralang/.github,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/planetary-social/planetary-ios,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/HugoFara/lwt,packagist,https://packagist.org/packages/hugofara/lwt#,0,10,total,0,null,null,2023-07-07T02:40:20.911Z,OK
+https://github.com/guilhermelinosp/api-login-form,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/malach-it/boruta-server,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/synt-way/sics,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/exeme-project/exeme-lang,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/142359/142359,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/nvimdev/lspsaga.nvim,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/mjest-js/mjest,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/Tresjs/tres,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/promptfoo/promptfoo,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/otsoft/myaac,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/LiberMall/tnt,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/Operaconga14/desktop,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/firstcontributions/first-contributions,pypi,https://pypi.org/project/hyundai-scs/,0,null,last-month,0,null,null,2023-07-04T09:36:28.537Z,OK
+https://github.com/nextapps-de/flexsearch,npm,https://www.npmjs.com/package/flexsearch,188,740892,last-month,3010,9,102092838,2023-07-06T09:37:20.054Z,OK
+https://github.com/kokonutkrew/kk-discord-bot-minecraft,null,null,null,null,null,null,null,null,null,No lookups
+https://github.com/FlashpointProject/launcher,null,null,null,null,null,null,null,null,null,No lookups

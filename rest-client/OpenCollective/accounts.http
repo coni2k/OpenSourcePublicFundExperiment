@@ -1,0 +1,632 @@
+### https://graphql-docs-v2.opencollective.com/queries/accounts
+POST https://api.opencollective.com/graphql/v2/{{$dotenv Token}}
+Content-Type: application/json
+X-REQUEST-TYPE: GraphQL
+
+query (
+  $limit: Int!
+  $offset: Int!
+  $searchTerm: String
+  $tag: [String]
+  $tagSearchOperator: TagSearchOperator!
+  # $includeArchived: Boolean
+  $isActive: Boolean
+  # $skipRecentAccounts: Boolean
+  # $country: [CountryISO]
+  # $host: [AccountReferenceInput]
+  $type: [AccountType]
+  # $isHost: Boolean
+  # $hasCustomContributionsEnabled: Boolean
+  $orderBy: OrderByInput
+  # $height: Int
+  # $format: ImageFormat
+  # $height2: Int
+  # $format2: ImageFormat
+  # $height3: Int
+  # $format3: ImageFormat
+  # $height4: Int
+  # $format4: ImageFormat
+  # $limit2: Int!
+  # $offset2: Int!
+  # $role: [MemberRole]
+  # $email: EmailAddress
+  # $accountType: [AccountType]
+  # $includeInherited: Boolean
+  # $role2: [MemberRole]
+  # $limit3: Int!
+  # $offset3: Int!
+  # $role3: [MemberRole]
+  # $isApproved: Boolean
+  # $isArchived: Boolean
+  # $accountType2: [AccountType]
+  # $account: AccountReferenceInput
+  # $orderBy2: OrderByInput!
+  # $orderByRoles: Boolean
+  # $limit4: Int!
+  # $offset4: Int!
+  # $type2: TransactionType
+  # $paymentMethodType: [PaymentMethodType]
+  # $fromAccount: AccountReferenceInput
+  # $host2: AccountReferenceInput
+  # $orderBy3: ChronologicalOrderInput!
+  # $dateFrom: DateTime
+  # $dateTo: DateTime
+  # $searchTerm2: String
+  # $hasExpense: Boolean
+  # $hasOrder: Boolean
+  # $includeRegularTransactions: Boolean!
+  # $includeIncognitoTransactions: Boolean!
+  # $includeChildrenTransactions: Boolean!
+  # $includeGiftCardTransactions: Boolean!
+  # $includeDebts: Boolean!
+  # $kind: [TransactionKind]
+  # $group: String
+  # $limit5: Int!
+  # $offset5: Int!
+  # $includeHostedAccounts: Boolean
+  # $paymentMethod: PaymentMethodReferenceInput
+  # $includeIncognito: Boolean
+  # $filter: AccountOrdersFilter
+  # $frequency: ContributionFrequency
+  # $status: [OrderStatus]
+  # $orderBy4: ChronologicalOrderInput!
+  # $minAmount: Int
+  # $maxAmount: Int
+  # $dateFrom2: DateTime
+  # $dateTo2: DateTime
+  # $searchTerm3: String
+  # $onlySubscriptions: Boolean
+  # $onlyActiveSubscriptions: Boolean
+  # $limit6: Int!
+  # $offset6: Int!
+  # $tag2: String
+  # $limit7: Int!
+  # $limit8: Int!
+  # $ignoreBlockedCurrencies: Boolean
+  # $type3: [PaymentMethodType]
+  # $service: [PaymentMethodService]
+  # $includeExpired: Boolean
+  # $limit9: Int!
+  # $offset7: Int!
+  # $dateFrom3: DateTime
+  # $dateTo3: DateTime
+  # $includeChildren: Boolean
+  # $dateFrom4: DateTime
+  # $dateTo4: DateTime
+  # $includeChildren2: Boolean
+  # $limit10: Int!
+  # $offset8: Int!
+  # $onlyPublishedUpdates: Boolean
+  # $onlyChangelogUpdates: Boolean
+  # $orderBy5: UpdateChronologicalOrderInput!
+  # $searchTerm4: String
+  # $limit11: Int!
+  # $offset9: Int!
+  # $state: String
+  # $merchantAccount: AccountReferenceInput
+  # $dateFrom5: DateTime
+  # $dateTo5: DateTime
+  # $orderBy6: ChronologicalOrderInput
+  # $limit12: Int!
+  # $offset10: Int!
+  # $limit13: Int!
+  # $offset11: Int!
+  # $accountType3: [AccountType]
+  # $channel: ActivityChannel
+) {
+  accounts(
+    limit: $limit
+    offset: $offset
+    searchTerm: $searchTerm
+    tag: $tag
+    tagSearchOperator: $tagSearchOperator
+    # includeArchived: $includeArchived
+    isActive: $isActive
+    # skipRecentAccounts: $skipRecentAccounts
+    # country: $country
+    # host: $host
+    type: $type
+    # isHost: $isHost
+    # hasCustomContributionsEnabled: $hasCustomContributionsEnabled
+    orderBy: $orderBy
+  ) {
+    offset
+    limit
+    totalCount
+    nodes {
+      id
+    #   legacyId
+      slug
+      type
+      name
+    #   legalName
+    #   description
+    #   longDescription
+      tags
+      # website
+      twitterHandle
+      # githubHandle
+      repositoryUrl
+      socialLinks {
+        type
+        url
+        createdAt
+        updatedAt
+      }
+    #   currency
+    #   expensePolicy
+    #   isIncognito
+    #   imageUrl(height: $height, format: $format)
+    #   backgroundImageUrl(height: $height2, format: $format2)
+      createdAt
+      updatedAt
+    # isArchived
+      isFrozen
+      isActive
+    # isHost
+    # isAdmin
+    #   parentAccount {
+    #     id
+    #     legacyId
+    #     slug
+    #     type
+    #     name
+    #     legalName
+    #     description
+    #     longDescription
+    #     tags
+    #     website
+    #     twitterHandle
+    #     githubHandle
+    #     repositoryUrl
+    #     currency
+    #     expensePolicy
+    #     isIncognito
+    #     imageUrl(height: $height3, format: $format3)
+    #     backgroundImageUrl(height: $height4, format: $format4)
+    #     createdAt
+    #     updatedAt
+    #     isArchived
+    #     isFrozen
+    #     isActive
+    #     isHost
+    #     isAdmin
+    #     emails
+    #     settings
+    #     supportedExpenseTypes
+    #     categories
+    #   }
+    #   members(
+    #     limit: $limit2
+    #     offset: $offset2
+    #     role: $role
+    #     email: $email
+    #     accountType: $accountType
+    #     includeInherited: $includeInherited
+    #   ) {
+    #     offset
+    #     limit
+    #     totalCount
+    #   }
+    #   memberInvitations(role: $role2) {
+    #     id
+    #     createdAt
+    #     role
+    #     description
+    #     since
+    #   }
+    #   memberOf(
+    #     limit: $limit3
+    #     offset: $offset3
+    #     role: $role3
+    #     isApproved: $isApproved
+    #     isArchived: $isArchived
+    #     accountType: $accountType2
+    #     account: $account
+    #     orderBy: $orderBy2
+    #     orderByRoles: $orderByRoles
+    #   ) {
+    #     offset
+    #     limit
+    #     totalCount
+    #   }
+    #   emails
+    #   transactions(
+    #     limit: $limit4
+    #     offset: $offset4
+    #     type: $type2
+    #     paymentMethodType: $paymentMethodType
+    #     fromAccount: $fromAccount
+    #     host: $host2
+    #     orderBy: $orderBy3
+    #     dateFrom: $dateFrom
+    #     dateTo: $dateTo
+    #     searchTerm: $searchTerm2
+    #     hasExpense: $hasExpense
+    #     hasOrder: $hasOrder
+    #     includeRegularTransactions: $includeRegularTransactions
+    #     includeIncognitoTransactions: $includeIncognitoTransactions
+    #     includeChildrenTransactions: $includeChildrenTransactions
+    #     includeGiftCardTransactions: $includeGiftCardTransactions
+    #     includeDebts: $includeDebts
+    #     kind: $kind
+    #     group: $group
+    #   ) {
+    #     offset
+    #     limit
+    #     totalCount
+    #     kinds
+    #     paymentMethodTypes
+    #   }
+    #   orders(
+    #     limit: $limit5
+    #     offset: $offset5
+    #     includeHostedAccounts: $includeHostedAccounts
+    #     paymentMethod: $paymentMethod
+    #     includeIncognito: $includeIncognito
+    #     filter: $filter
+    #     frequency: $frequency
+    #     status: $status
+    #     orderBy: $orderBy4
+    #     minAmount: $minAmount
+    #     maxAmount: $maxAmount
+    #     dateFrom: $dateFrom2
+    #     dateTo: $dateTo2
+    #     searchTerm: $searchTerm3
+    #     onlySubscriptions: $onlySubscriptions
+    #     onlyActiveSubscriptions: $onlyActiveSubscriptions
+    #   ) {
+    #     offset
+    #     limit
+    #     totalCount
+    #   }
+    #   settings
+    #   conversations(limit: $limit6, offset: $offset6, tag: $tag2) {
+    #     offset
+    #     limit
+    #     totalCount
+    #   }
+    #   conversationsTags(limit: $limit7) {
+    #     id
+    #     tag
+    #     count
+    #   }
+    #   expensesTags(limit: $limit8) {
+    #     id
+    #     tag
+    #     count
+    #   }
+    #   supportedExpenseTypes
+    #   transferwise {
+    #     id
+    #     availableCurrencies(ignoreBlockedCurrencies: $ignoreBlockedCurrencies)
+    #   }
+    #   payoutMethods {
+    #     id
+    #     type
+    #     name
+    #     isSaved
+    #     data
+    #   }
+    #   paymentMethods(
+    #     type: $type3
+    #     service: $service
+    #     includeExpired: $includeExpired
+    #   ) {
+    #     id
+    #     legacyId
+    #     name
+    #     service
+    #     type
+    #     providerType
+    #     data
+    #     expiryDate
+    #     createdAt
+    #   }
+    #   paymentMethodsWithPendingConfirmation {
+    #     id
+    #     legacyId
+    #     name
+    #     service
+    #     type
+    #     providerType
+    #     data
+    #     expiryDate
+    #     createdAt
+    #   }
+    #   connectedAccounts {
+    #     id
+    #     legacyId
+    #     createdAt
+    #     updatedAt
+    #     settings
+    #     service
+    #   }
+    #   oAuthApplications(limit: $limit9, offset: $offset7) {
+    #     offset
+    #     limit
+    #     totalCount
+    #   }
+      location {
+        id
+        name
+        address
+        country
+        lat
+        long
+        structured
+      }
+    #   categories
+        stats {
+          id
+          # balanceWithBlockedFunds {
+          #   value
+          #   currency
+          #   valueInCents
+          # }
+          # balance (
+          #   dateTo: $dateTo10
+          #   includeChildren: $includeChildren3
+          #   currency: $currency2
+          #   withBlockedFunds: $withBlockedFunds
+          # ) {
+          #   value
+          #   currency
+          #   valueInCents
+          # }
+          # consolidatedBalance {
+          #   value
+          #   currency
+          #   valueInCents
+          # }
+          # monthlySpending {
+          #   value
+          #   currency
+          #   valueInCents
+          # }
+          # totalAmountSpent(
+          #   net: $net
+          #   kind: $kind3
+          #   dateFrom: $dateFrom10
+          #   dateTo: $dateTo11
+          #   periodInMonths: $periodInMonths
+          #   includeChildren: $includeChildren4
+          #   currency: $currency3
+          #   includeGiftCards: $includeGiftCards
+          # ) {
+          #   value
+          #   currency
+          #   valueInCents
+          # }
+          # totalAmountReceived(
+          #   net: $net2
+          #   kind: $kind4
+          #   dateFrom: $dateFrom11
+          #   dateTo: $dateTo12
+          #   periodInMonths: $periodInMonths2
+          #   includeChildren: $includeChildren5
+          #   currency: $currency4
+          # ) {
+          #   value
+          #   currency
+          #   valueInCents
+          # }
+          # totalAmountReceivedTimeSeries(
+          #   dateFrom: $dateFrom12
+          #   dateTo: $dateTo13
+          #   timeUnit: $timeUnit
+          #   net: $net3
+          #   kind: $kind5
+          #   periodInMonths: $periodInMonths3
+          #   includeChildren: $includeChildren6
+          #   currency: $currency5
+          # )
+          # totalAmountReceivedTimeSeries {
+          #   dateFrom
+          #   dateTo
+          #   timeUnit
+          # }
+          # totalPaidExpenses(
+          #   dateFrom: $dateFrom13
+          #   dateTo: $dateTo14
+          #   currency: $currency6
+          #   expenseType: $expenseType
+          # ) {
+          #   value
+          #   currency
+          #   valueInCents
+          # }
+          yearlyBudget {
+            value
+            currency
+            # valueInCents
+          }
+          # yearlyBudgetManaged {
+          #   value
+          #   currency
+          #   valueInCents
+          # }
+          # totalNetAmountReceived(
+          #   kind: $kind6
+          #   dateFrom: $dateFrom14
+          #   dateTo: $dateTo15
+          #   periodInMonths: $periodInMonths4
+          #   includeChildren: $includeChildren7
+          # ) {
+          #   value
+          #   currency
+          #   valueInCents
+          # }
+          # totalNetAmountReceivedTimeSeries(
+          #   dateFrom: $dateFrom15
+          #   dateTo: $dateTo16
+          #   timeUnit: $timeUnit2
+          #   kind: $kind7
+          #   periodInMonths: $periodInMonths5
+          #   includeChildren: $includeChildren8
+          #   currency: $currency7
+          # ) {
+          #   dateFrom
+          #   dateTo
+          #   timeUnit
+          # }
+          # activeRecurringContributions
+          # activeRecurringContributionsV2(frequency: $frequency5) {
+          #   value
+          #   currency
+          #   valueInCents
+          # }
+          # expensesTags(
+          #   limit: $limit24
+          #   dateFrom: $dateFrom16
+          #   dateTo: $dateTo17
+          #   includeChildren: $includeChildren9
+          # ) {
+          #   label
+          #   count
+          # }
+          # expensesTagsTimeSeries(
+          #   dateFrom: $dateFrom17
+          #   dateTo: $dateTo18
+          #   timeUnit: $timeUnit3
+          #   includeChildren: $includeChildren10
+          # ) {
+          #   dateFrom
+          #   dateTo
+          #   timeUnit
+          # }
+          # contributionsCount(
+          #   dateFrom: $dateFrom18
+          #   dateTo: $dateTo19
+          #   includeChildren: $includeChildren11
+          # )
+          # contributorsCount(
+          #   dateFrom: $dateFrom19
+          #   dateTo: $dateTo20
+          #   includeChildren: $includeChildren12
+          # )
+          # contributionsAmount(
+          #   dateFrom: $dateFrom20
+          #   dateTo: $dateTo21
+          #   includeChildren: $includeChildren13
+          # ) {
+          #   label
+          #   count
+          # }
+          # contributionsAmountTimeSeries(
+          #   dateFrom: $dateFrom21
+          #   dateTo: $dateTo22
+          #   timeUnit: $timeUnit4
+          #   includeChildren: $includeChildren14
+          # )
+          # contributionsAmountTimeSeries {
+          #   dateFrom
+          #   dateTo
+          #   timeUnit
+          # }
+        }
+    #   updates(
+    #     limit: $limit10
+    #     offset: $offset8
+    #     onlyPublishedUpdates: $onlyPublishedUpdates
+    #     onlyChangelogUpdates: $onlyChangelogUpdates
+    #     orderBy: $orderBy5
+    #     searchTerm: $searchTerm4
+    #   ) {
+    #     offset
+    #     limit
+    #     totalCount
+    #   }
+    #   features {
+    #     id
+    #     ALL
+    #     RECEIVE_FINANCIAL_CONTRIBUTIONS
+    #     RECURRING_CONTRIBUTIONS
+    #     TRANSACTIONS
+    #     EVENTS
+    #     PROJECTS
+    #     USE_EXPENSES
+    #     RECEIVE_EXPENSES
+    #     MULTI_CURRENCY_EXPENSES
+    #     RECEIVE_HOST_APPLICATIONS
+    #     COLLECTIVE_GOALS
+    #     TOP_FINANCIAL_CONTRIBUTORS
+    #     CONVERSATIONS
+    #     UPDATES
+    #     ABOUT
+    #     TEAM
+    #     ORDER
+    #     CONTACT_COLLECTIVE
+    #     CONTACT_FORM
+    #     CREATE_COLLECTIVE
+    #     CROSS_CURRENCY_MANUAL_TRANSACTIONS
+    #     TRANSFERWISE
+    #     PAYPAL_PAYOUTS
+    #     PAYPAL_DONATIONS
+    #     HOST_DASHBOARD
+    #     CONNECTED_ACCOUNTS
+    #     ALIPAY
+    #     STRIPE_PAYMENT_INTENT
+    #     USE_PAYMENT_METHODS
+    #     EMIT_GIFT_CARDS
+    #     EMAIL_NOTIFICATIONS_PANEL
+    #     VIRTUAL_CARDS
+    #     REQUEST_VIRTUAL_CARDS
+    #   }
+    #   virtualCards(
+    #     limit: $limit11
+    #     offset: $offset9
+    #     state: $state
+    #     merchantAccount: $merchantAccount
+    #     dateFrom: $dateFrom5
+    #     dateTo: $dateTo5
+    #     orderBy: $orderBy6
+    #   ) {
+    #     offset
+    #     limit
+    #     totalCount
+    #   }
+    #   virtualCardMerchants(limit: $limit12, offset: $offset10) {
+    #     offset
+    #     limit
+    #     totalCount
+    #   }
+    #   childrenAccounts(
+    #     limit: $limit13
+    #     offset: $offset11
+    #     accountType: $accountType3
+    #   ) {
+    #     offset
+    #     limit
+    #     totalCount
+    #   }
+    #   policies {
+    #     REQUIRE_2FA_FOR_ADMINS
+    #   }
+    #   activitySubscriptions(channel: $channel) {
+    #     id
+    #     channel
+    #     type
+    #     active
+    #     createdAt
+    #     webhookUrl
+    #   }
+    #   permissions {
+    #     id
+    #   }
+    }
+  }
+}
+
+{
+  "limit": 10,
+  "offset": 0,
+  "searchTerm": "",
+  "tags": [""],
+  "tagSearchOperator": "AND",
+  "isActive": false,
+  "orderBy": {
+    "field": "CREATED_AT",
+    "direction": "ASC"
+  }
+}

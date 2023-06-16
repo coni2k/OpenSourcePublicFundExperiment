@@ -1,0 +1,11 @@
+###
+GET https://localhost:7007/GitHub/GetUser
+Content-Type: application/json
+
+###
+POST https://localhost:7007/GitHub/GetTopRepositoryByUser
+Content-Type: application/json
+
+[
+    "https://github.com/supabase"
+]

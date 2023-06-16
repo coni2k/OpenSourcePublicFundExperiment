@@ -1,0 +1,7 @@
+###
+POST https://localhost:7007/Ecosystems/GetTopLookupsByRepositoryUrl
+Content-Type: application/json
+
+[
+    "https://github.com/supabase/supabase"
+]

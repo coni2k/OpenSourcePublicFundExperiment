@@ -1,0 +1,35 @@
+###
+GET https://packages.ecosyste.ms/api/v1/packages/lookup
+Content-Type: application/json
+
+###
+GET https://packages.ecosyste.ms/api/v1/packages/lookup?repository_url=https://github.com/supabase/supabase
+Content-Type: application/json
+
+### Doesn't return anything?
+GET https://packages.ecosyste.ms/api/v1/packages/lookup?repository_url=https://github.com/FluentValidation/FluentValidation
+Content-Type: application/json
+
+### only go?
+GET https://packages.ecosyste.ms/api/v1/packages/lookup?repository_url=https://github.com/App-vNext/Polly
+Content-Type: application/json
+
+### Doesn't return anything?
+GET https://packages.ecosyste.ms/api/v1/packages/lookup?repository_url=https://github.com/prjseal/PasswordGenerator/
+Content-Type: application/json
+
+### Doesn't return anything?
+GET https://packages.ecosyste.ms/api/v1/packages/lookup?name=jquery
+Content-Type: application/json
+
+###
+GET https://packages.ecosyste.ms/api/v1/keywords
+Content-Type: application/json
+
+###
+GET https://packages.ecosyste.ms/api/v1/registries
+Content-Type: application/json
+
+###
+GET https://packages.ecosyste.ms/api/v1/registries/npmjs.org/namespaces
+Content-Type: application/json

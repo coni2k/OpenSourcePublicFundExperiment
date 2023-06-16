@@ -1,0 +1,4068 @@
+user,name,url,license,stars
+opencollective,opencollective,https://github.com/opencollective/opencollective,null,1780
+mochajs,mocha,https://github.com/mochajs/mocha,MIT License,22044
+kriasoft,react-starter-kit,https://github.com/kriasoft/react-starter-kit,MIT License,21954
+kriaoft,null,null,null,null
+tabulapdf,tabula,https://github.com/tabulapdf/tabula,MIT License,6159
+gulpjs,gulp,https://github.com/gulpjs/gulp,MIT License,32767
+koajs,koa,https://github.com/koajs/koa,MIT License,34107
+dokku,dokku,https://github.com/dokku/dokku,MIT License,24694
+openfoodfoundation,openfoodnetwork,https://github.com/openfoodfoundation/openfoodnetwork,GNU Affero General Public License v3.0,961
+streetmix,streetmix,https://github.com/streetmix/streetmix,Other,613
+koel,koel,https://github.com/koel/koel,MIT License,14750
+cheeriojs,cheerio,https://github.com/cheeriojs/cheerio,MIT License,26502
+milligram,milligram,https://github.com/milligram/milligram,MIT License,9995
+bevry,cson,https://github.com/bevry/cson,Other,1331
+avajs,ava,https://github.com/avajs/ava,MIT License,20388
+hospitalrun,hospitalrun-frontend,https://github.com/HospitalRun/hospitalrun-frontend,MIT License,6732
+24pullrequests,24pullrequests,https://github.com/24pullrequests/24pullrequests,MIT License,1567
+OpenProducer,community,https://github.com/OpenProducer/community,null,5
+nightwatchjs,nightwatch,https://github.com/nightwatchjs/nightwatch,MIT License,11382
+octolinker,OctoLinker,https://github.com/OctoLinker/OctoLinker,MIT License,5150
+cyclejs,cyclejs,https://github.com/cyclejs/cyclejs,MIT License,10218
+noble,noble,https://github.com/noble/noble,MIT License,3307
+npms-io,npms-analyzer,https://github.com/npms-io/npms-analyzer,MIT License,307
+WWCodeMID,Frontend,https://github.com/WWCodeMID/Frontend,null,0
+webpack,webpack,https://github.com/webpack/webpack,MIT License,63176
+rampatra,wedding-website,https://github.com/rampatra/wedding-website,GNU General Public License v3.0,1398
+QubesOS,qubes-issues,https://github.com/QubesOS/qubes-issues,null,501
+opensourcedesign,jobs,https://github.com/opensourcedesign/jobs,GNU Affero General Public License v3.0,323
+coderaiser,cloudcmd,https://github.com/coderaiser/cloudcmd,MIT License,1671
+opentechfund,secure-email,https://github.com/OpenTechFund/secure-email,Creative Commons Zero v1.0 Universal,464
+preactjs,preact,https://github.com/preactjs/preact,MIT License,34559
+ant-design,ant-design,https://github.com/ant-design/ant-design,MIT License,86331
+cdnjs,cdnjs,https://github.com/cdnjs/cdnjs,MIT License,9898
+octobox,octobox,https://github.com/octobox/octobox,GNU Affero General Public License v3.0,4251
+OpenKitten,Meow,https://github.com/OpenKitten/Meow,MIT License,66
+grapesjs,grapesjs,https://github.com/GrapesJS/grapesjs,"BSD 3-Clause ""New"" or ""Revised"" License",18079
+rubocop,ruby-style-guide,https://github.com/rubocop/ruby-style-guide,null,16235
+clojure-emacs,cider,https://github.com/clojure-emacs/cider,GNU General Public License v3.0,3435
+magit,magit,https://github.com/magit/magit,GNU General Public License v3.0,6055
+simonmichael,hledger,https://github.com/simonmichael/hledger,GNU General Public License v3.0,2416
+mui,material-ui,https://github.com/mui/material-ui,MIT License,87306
+getsentry,sentry,https://github.com/getsentry/sentry,Other,34452
+feathersjs,feathers,https://github.com/feathersjs/feathers,MIT License,14643
+getgrav,grav,https://github.com/getgrav/grav,MIT License,13828
+openlayers,null,null,null,null
+react-dropzone,null,null,null,null
+sinonjs,null,null,null,null
+frehos,null,null,null,null
+DestinyItemManager,null,null,null,null
+openchemitry,null,null,null,null
+faker-js,null,null,null,null
+lc-soft,null,null,null,null
+techqueria,null,null,null,null
+indieweb,null,null,null,null
+reactiveui,null,null,null,null
+phalcon,null,null,null,null
+babel,null,null,null,null
+SixLabors,null,null,null,null
+hexojs,null,null,null,null
+bower,null,null,null,null
+react-native-element,null,null,null,null
+CodeforSouth,null,null,null,null
+YOURLS,null,null,null,null
+MvvmCross,null,null,null,null
+cssinjs,null,null,null,null
+dhowe,null,null,null,null
+socketio,null,null,null,null
+parse-community,null,null,null,null
+cucumber,null,null,null,null
+storybookjs,null,null,null,null
+pydatadelhi,null,null,null,null
+nestjs,null,null,null,null
+securingsincity,null,null,null,null
+javascript-obfuscator,null,null,null,null
+modularcode,null,null,null,null
+discordjs,null,null,null,null
+diegomura,null,null,null,null
+asciidocfx,null,null,null,null
+PokeAPI,null,null,null,null
+ass,null,null,null,null
+kendraio,null,null,null,null
+onevcat,null,null,null,null
+worldpeacenow,null,null,null,null
+xmake-io,null,null,null,null
+allure-framework,null,null,null,null
+ngrx,null,null,null,null
+googlechrome,null,null,null,null
+EFPrefix,null,null,null,null
+localstack,null,null,null,null
+ifmeorg,null,null,null,null
+ahana,null,null,null,null
+poooi,null,null,null,null
+airbnb,null,null,null,null
+indraai,null,null,null,null
+AccelAI,null,null,null,null
+http4k,null,null,null,null
+wpbp,null,null,null,null
+orchidsoftware,null,null,null,null
+jscad,null,null,null,null
+vuejs,null,null,null,null
+typeorm,null,null,null,null
+idyll-lang,null,null,null,null
+requarks,null,null,null,null
+lets-blade,null,null,null,null
+tosdr,null,null,null,null
+Apollonyan,null,null,null,null
+ellie-app,null,null,null,null
+lesspass,null,null,null,null
+buttercup,null,null,null,null
+xuri,null,null,null,null
+facebook,null,null,null,null
+openfl,null,null,null,null
+visjs,null,null,null,null
+LWJGL,null,null,null,null
+kataras,null,null,null,null
+tryghost,null,null,null,null
+badges,null,null,null,null
+apiato,null,null,null,null
+bootstrap-vue,null,null,null,null
+openemr,null,null,null,null
+laradock,null,null,null,null
+material-theme,null,null,null,null
+ArchiveTeam,null,null,null,null
+jhipster,null,null,null,null
+remy,null,null,null,null
+spyder-ide,null,null,null,null
+vbauer,null,null,null,null
+ActivityWatch,null,null,null,null
+mybb,null,null,null,null
+nathancahill,null,null,null,null
+prima,null,null,null,null
+anticensority,null,null,null,null
+codeforcience,null,null,null,null
+verdaccio,null,null,null,null
+dizitart,null,null,null,null
+final-form,null,null,null,null
+strapi,null,null,null,null
+falconry,null,null,null,null
+OpenSID,null,null,null,null
+char0n,null,null,null,null
+Hexworks,null,null,null,null
+ccxt,null,null,null,null
+cboard-org,null,null,null,null
+retejs,null,null,null,null
+jaywcjlove,null,null,null,null
+Fody,null,null,null,null
+Erxes,null,null,null,null
+AutoSpotting,null,null,null,null
+dat-ecoystem,null,null,null,null
+rollup,null,null,null,null
+wenzhixin,null,null,null,null
+denver-dev,null,null,null,null
+altair-graphql,null,null,null,null
+AzuraCast,null,null,null,null
+styleguidist,null,null,null,null
+goreleaser,null,null,null,null
+Level,null,null,null,null
+uerfrosting,null,null,null,null
+docsifyjs,null,null,null,null
+CodeforFR,null,null,null,null
+sbc,null,null,null,null
+mapeditor,null,null,null,null
+mzlogin,null,null,null,null
+accounts-js,null,null,null,null
+arapis,null,null,null,null
+arapisorg,null,null,null,null
+culturebanked,null,null,null,null
+t4t5,null,null,null,null
+coinbae,null,null,null,null
+redom,null,null,null,null
+chamilo,null,null,null,null
+hoaproject,null,null,null,null
+tenancy,null,null,null,null
+BioJulia,null,null,null,null
+nusmodifications,null,null,null,null
+natario1,null,null,null,null
+symfony,null,null,null,null
+lusaxweb,null,null,null,null
+croogo,null,null,null,null
+electron,null,null,null,null
+TypedProject,null,null,null,null
+SpaceVim,null,null,null,null
+thelounge,null,null,null,null
+darkreader,null,null,null,null
+framework7io,null,null,null,null
+celery,null,null,null,null
+CaenCamp,null,null,null,null
+shanalikhan,null,null,null,null
+Radarr,null,null,null,null
+keepassxreboot,null,null,null,null
+jantimon,null,null,null,null
+jamtatic,null,null,null,null
+degree9,null,null,null,null
+developerdo,null,null,null,null
+weareopencoop,null,null,null,null
+marktext,marktext,https://github.com/marktext/marktext,MIT License,40251
+recp,cglm,https://github.com/recp/cglm,MIT License,1712
+android-pasword-store,null,null,null,null
+lidarr,Lidarr,https://github.com/Lidarr/Lidarr,GNU General Public License v3.0,2813
+pact-foundation,pact-ruby,https://github.com/pact-foundation/pact-ruby,MIT License,2138
+Dolibarr,dolibarr,https://github.com/Dolibarr/dolibarr,GNU General Public License v3.0,4100
+go-task,task,https://github.com/go-task/task,MIT License,7752
+CoderAKL,null,null,null,null
+ngxs,store,https://github.com/ngxs/store,MIT License,3407
+treetlives,null,null,null,null
+curl,curl,https://github.com/curl/curl,Other,30442
+djangolondon,djangolondon.github.io,https://github.com/djangolondon/djangolondon.github.io,null,21
+go-gitea,gitea,https://github.com/go-gitea/gitea,MIT License,37124
+WeChatTweak-macOS,null,null,null,null
+JSOxford,jsoxford,https://github.com/jsoxford/jsoxford,Creative Commons Attribution 4.0 International,10
+getfider,fider,https://github.com/getfider/fider,GNU Affero General Public License v3.0,2317
+asciidoctor,asciidoctor,https://github.com/asciidoctor/asciidoctor,Other,4380
+rsuite,rsuite,https://github.com/rsuite/rsuite,MIT License,7622
+foxhound87,mobx-react-form,https://github.com/foxhound87/mobx-react-form,MIT License,1080
+mallowigi,mtslack,https://github.com/mallowigi/mtslack,Apache License 2.0,484
+nock,nock,https://github.com/nock/nock,MIT License,12186
+olistic,warriorjs,https://github.com/olistic/warriorjs,MIT License,8932
+sopel-irc,sopel,https://github.com/sopel-irc/sopel,Other,933
+flarum,flarum,https://github.com/flarum/flarum,MIT License,14065
+maticzav,nookies,https://github.com/maticzav/nookies,null,2087
+vanilla-rtb,awesome-rtb,https://github.com/vanilla-rtb/awesome-rtb,null,203
+openintents,filemanager,https://github.com/openintents/filemanager,Apache License 2.0,328
+avored,laravel-ecommerce,https://github.com/avored/laravel-ecommerce,null,1440
+marshmallow-code,marshmallow,https://github.com/marshmallow-code/marshmallow,MIT License,6577
+codebar,null,null,null,null
+catel,null,null,null,null
+Binaryify,null,null,null,null
+salesforce,null,null,null,null
+omocom,null,null,null,null
+moleculerjs,null,null,null,null
+skylines-project,null,null,null,null
+CaptainFact,null,null,null,null
+thom4parisot,null,null,null,null
+ponylang,null,null,null,null
+tabler,null,null,null,null
+express-validator,null,null,null,null
+jekyll,null,null,null,null
+pods-framework,null,null,null,null
+BrainJS,null,null,null,null
+xwiki-lab,null,null,null,null
+humanitarian-ai,null,null,null,null
+torontojs,null,null,null,null
+codeuino,null,null,null,null
+ariakit,null,null,null,null
+mint-lang,null,null,null,null
+pmndr,null,null,null,null
+btargac,null,null,null,null
+vueComponent,null,null,null,null
+catfan,null,null,null,null
+pastelsky,null,null,null,null
+RichardLitt,null,null,null,null
+cheton,null,null,null,null
+vulhub,null,null,null,null
+peers,null,null,null,null
+wojtekmaj,null,null,null,null
+libreops,null,null,null,null
+Offcoure,null,null,null,null
+txdug,null,null,null,null
+ujjwalguptaofficial,null,null,null,null
+dooboolab-community,null,null,null,null
+opensourcediversity,null,null,null,null
+24OI,null,null,null,null
+backyourstack,null,null,null,null
+drupaldiverity,null,null,null,null
+xlayers,null,null,null,null
+db-migrate,null,null,null,null
+devstaff-crete,null,null,null,null
+MichaelMure,null,null,null,null
+davidkpiano,null,null,null,null
+staltz,null,null,null,null
+gitcoinco,null,null,null,null
+smooth-code,null,null,null,null
+vuetifyjs,null,null,null,null
+AssemblyScript,null,null,null,null
+Arronk,null,null,null,null
+Wobbly-App,null,null,null,null
+AlchemyCMS,null,null,null,null
+okonet,null,null,null,null
+imiphp,null,null,null,null
+OpenChemitry,null,null,null,null
+intelligo-ystems,null,null,null,null
+solidusio,null,null,null,null
+nwtime,null,null,null,null
+pnpm,null,null,null,null
+neutralinojs,null,null,null,null
+jfoenixadmin,null,null,null,null
+reactj-dallas,null,null,null,null
+s4n7h0,null,null,null,null
+sous-chefs,null,null,null,null
+kucherenko,null,null,null,null
+dicordhooks,null,null,null,null
+docToolchain,null,null,null,null
+olton,null,null,null,null
+electron-react-boilerplate,null,null,null,null
+Qeyno,null,null,null,null
+opal,null,null,null,null
+scorelab,null,null,null,null
+tom-englert,null,null,null,null
+kblok,null,null,null,null
+MontFerret,null,null,null,null
+unifiedjs,null,null,null,null
+untitledfolder,null,null,null,null
+wslutilities,null,null,null,null
+Integerous,null,null,null,null
+energydrink9,null,null,null,null
+NTMC-Community,null,null,null,null
+galio-org,null,null,null,null
+ng-alain,null,null,null,null
+ldnclj,null,null,null,null
+-,null,null,null,null
+edgecollective,null,null,null,null
+maskarade,null,null,null,null
+tech-conferences,null,null,null,null
+glennreyes,null,null,null,null
+Midnight-Lizard,null,null,null,null
+tuist,null,null,null,null
+gitextensions,null,null,null,null
+pre-commit,null,null,null,null
+poliastro,null,null,null,null
+ctlos,null,null,null,null
+pug-php,null,null,null,null
+briannesbitt,null,null,null,null
+kivy,null,null,null,null
+CircleUBI,null,null,null,null
+znarf,null,null,null,null
+thpatch,null,null,null,null
+kitspace,null,null,null,null
+sokra,null,null,null,null
+kera-team,null,null,null,null
+zxing-js,null,null,null,null
+camelot-dev,null,null,null,null
+ShawnLin013,null,null,null,null
+helio-fm,null,null,null,null
+floating-ui,null,null,null,null
+GridtNetwork,null,null,null,null
+nervj,null,null,null,null
+colorswall,null,null,null,null
+amethyt,null,null,null,null
+NServiceBuExtensions,null,null,null,null
+rvm,null,null,null,null
+latinxinai,null,null,null,null
+reactdenver,null,null,null,null
+aletheon,null,null,null,null
+jovotech,null,null,null,null
+laravel-zero,null,null,null,null
+Puer-project,null,null,null,null
+OmkarPathak,null,null,null,null
+petrk94,null,null,null,null
+webprofuion,null,null,null,null
+deep-cover,null,null,null,null
+MithrilJS,null,null,null,null
+RicoSuter,null,null,null,null
+wordpres,null,null,null,null
+dribdat,null,null,null,null
+twbs,null,null,null,null
+meituan,null,null,null,null
+gwtproject,null,null,null,null
+AnicyberUS,null,null,null,null
+crystal-lang,null,null,null,null
+activeadmin,null,null,null,null
+eslint,null,null,null,null
+projectM-visualizer,null,null,null,null
+jellyfin,null,null,null,null
+razerdp,null,null,null,null
+JonyFang,null,null,null,null
+JoshClose,null,null,null,null
+implysecure,null,null,null,null
+jacobwgillepie,null,null,null,null
+bagisto,null,null,null,null
+peermaps,null,null,null,null
+tootsuite,null,null,null,null
+miscord,null,null,null,null
+spencerwooo,null,null,null,null
+racaljk,null,null,null,null
+nrepl,null,null,null,null
+chriso,null,null,null,null
+nuke-build,null,null,null,null
+GhostWriters,DockSTARTer,https://github.com/GhostWriters/DockSTARTer,MIT License,1934
+kiwitcm,null,null,null,null
+louislivi,SMProxy,https://github.com/louislivi/SMProxy,MIT License,1760
+ipfs-search,ipfs-search,https://github.com/ipfs-search/ipfs-search,GNU Affero General Public License v3.0,783
+pavlov99,json-rpc,https://github.com/pavlov99/json-rpc,MIT License,433
+fluffo,null,null,null,null
+octobercm,null,null,null,null
+ethereum-magician,null,null,null,null
+browehandsfree,null,null,null,null
+ymfony,null,null,null,null
+kthull,session-recording,https://github.com/kthull/session-recording,null,24
+os-js,OS.js,https://github.com/os-js/OS.js,Other,6314
+exercim,pdf-page-counter,https://github.com/exercim/pdf-page-counter,MIT License,0
+canner,cannercms,https://github.com/Canner/cannercms,Apache License 2.0,2430
+chenjiahan,rodal,https://github.com/chenjiahan/rodal,MIT License,886
+antonreshetov,massCode,https://github.com/antonreshetov/massCode,GNU Affero General Public License v3.0,2029
+viztro,samples,https://github.com/viztro/samples,null,0
+asemblee-virtuelle,null,null,null,null
+nakajijapan,PhotoSlider,https://github.com/nakajijapan/PhotoSlider,MIT License,248
+doocs,advanced-java,https://github.com/doocs/advanced-java,Creative Commons Attribution Share Alike 4.0 International,70473
+innereq,lenny,https://github.com/innereq/lenny,GNU Affero General Public License v3.0,59
+boot-clj,boot,https://github.com/boot-clj/boot,Eclipse Public License 1.0,1751
+hoplon,hoplon,https://github.com/hoplon/hoplon,Eclipse Public License 1.0,985
+graphql-dotnet,graphql-dotnet,https://github.com/graphql-dotnet/graphql-dotnet,MIT License,5546
+alibaba,arthas,https://github.com/alibaba/arthas,Apache License 2.0,32588
+libremesh,lime-packages,https://github.com/libremesh/lime-packages,GNU Affero General Public License v3.0,258
+idno,known,https://github.com/idno/known,Other,985
+yangshun,tech-interview-handbook,https://github.com/yangshun/tech-interview-handbook,MIT License,92091
+prism-break,prism-break,https://github.com/prism-break/prism-break,GNU General Public License v3.0,1256
+tastyigniter,TastyIgniter,https://github.com/tastyigniter/TastyIgniter,MIT License,2585
+obsproject,null,null,null,null
+jerverless,null,null,null,null
+Chinachu,null,null,null,null
+DicordFederation,null,null,null,null
+openstf,null,null,null,null
+badgen,null,null,null,null
+openfoodfacts,null,null,null,null
+nannou-org,null,null,null,null
+caprover,null,null,null,null
+versatica,null,null,null,null
+tuskyapp,null,null,null,null
+grok-prime,null,null,null,null
+farmOS,null,null,null,null
+ericalli,null,null,null,null
+general-programming,null,null,null,null
+vedetta-com,null,null,null,null
+grantjenks,null,null,null,null
+hobby-kube,null,null,null,null
+StZlata,null,null,null,null
+digidem,null,null,null,null
+yodaos-project,null,null,null,null
+skywind3000,null,null,null,null
+mfuentesg,null,null,null,null
+TheWaterboy,null,null,null,null
+ionide,null,null,null,null
+unrise-choir,null,null,null,null
+eata,null,null,null,null
+artpolikarpov,null,null,null,null
+pineviewlabs,null,null,null,null
+retfest,null,null,null,null
+saleem-hadad,null,null,null,null
+noppefoxwolf,null,null,null,null
+wexond,null,null,null,null
+peachcloud,null,null,null,null
+haasn,null,null,null,null
+katzenpost,null,null,null,null
+potimatch,null,null,null,null
+lucee,null,null,null,null
+apache,null,null,null,null
+cyph,null,null,null,null
+FreezingMoon,null,null,null,null
+MajoulPlus,null,null,null,null
+MicroPyramid,null,null,null,null
+ohmyzh,null,null,null,null
+swc-project,null,null,null,null
+Zizzamia,null,null,null,null
+anforaProject,null,null,null,null
+zulip,null,null,null,null
+asyncapi,null,null,null,null
+open-learning-common,null,null,null,null
+pomber,null,null,null,null
+arzzen,null,null,null,null
+go-hep,null,null,null,null
+expede,null,null,null,null
+Code-and-Coffee-YVR,null,null,null,null
+Stellarium,null,null,null,null
+yiisoft,null,null,null,null
+dmlc,null,null,null,null
+Bogdan-Lyashenko,null,null,null,null
+ParisTypeScript,null,null,null,null
+friendly-robot,null,null,null,null
+pavjacko,null,null,null,null
+wzpan,null,null,null,null
+bonigarcia,null,null,null,null
+gregjacob,null,null,null,null
+code-helter,null,null,null,null
+ocafrica,null,null,null,null
+swaggo,null,null,null,null
+opendevshop,null,null,null,null
+krisanawat,null,null,null,null
+thangchung,null,null,null,null
+doorkeeper-gem,null,null,null,null
+ColinEberhardt,null,null,null,null
+ubiety,null,null,null,null
+frctl,null,null,null,null
+panda3d,null,null,null,null
+ReactTraining,null,null,null,null
+julienrf,null,null,null,null
+TheScripter,null,null,null,null
+mnater,null,null,null,null
+urduhack,null,null,null,null
+eddiejibson,null,null,null,null
+celluloid,null,null,null,null
+MoienTajik,null,null,null,null
+ua-parser,null,null,null,null
+zloirock,null,null,null,null
+noqlclient,null,null,null,null
+QUANTAXIS,null,null,null,null
+sindresorhus,null,null,null,null
+cikit-learn,null,null,null,null
+MichalLytek,null,null,null,null
+wisp-x,null,null,null,null
+HookyQR,null,null,null,null
+givanz,null,null,null,null
+axios,null,null,null,null
+prettier,null,null,null,null
+flosch,null,null,null,null
+jschr,null,null,null,null
+OrkoHunter,null,null,null,null
+svartalf,null,null,null,null
+commonknowledge,null,null,null,null
+HowDoYouTech,null,null,null,null
+openhitorymap,null,null,null,null
+BenEmdon,null,null,null,null
+pahen,null,null,null,null
+meteorlxy,null,null,null,null
+amilajack,null,null,null,null
+glacials,null,null,null,null
+mukeshsolanki,null,null,null,null
+xiaodaigh,null,null,null,null
+johnnyxbell,null,null,null,null
+http-api,null,null,null,null
+voz1voz,null,null,null,null
+Paxa,null,null,null,null
+WangYihang,null,null,null,null
+graphql-java,null,null,null,null
+PiranhaCMS,null,null,null,null
+greenshot,null,null,null,null
+webonyx,null,null,null,null
+wp-graphql,null,null,null,null
+OpenAPITools,null,null,null,null
+xaboy,null,null,null,null
+Ziv-Barber,null,null,null,null
+sdkman,null,null,null,null
+11ty,null,null,null,null
+codex-team,null,null,null,null
+JsDaddy,null,null,null,null
+MarcTowler,null,null,null,null
+mohitk05,null,null,null,null
+pizzaql,null,null,null,null
+valor-software,null,null,null,null
+Alivon,null,null,null,null
+migbuiness,null,null,null,null
+renyuneyun,null,null,null,null
+SaiGonSoftware,null,null,null,null
+hemerajs,null,null,null,null
+jorgebucaran,null,null,null,null
+GeoJSON-Net,null,null,null,null
+merveille,null,null,null,null
+myliang,null,null,null,null
+orchidhq,null,null,null,null
+realrashid,null,null,null,null
+didi,null,null,null,null
+cmnllc,null,null,null,null
+niklasvh,null,null,null,null
+Awesome-Interview,null,null,null,null
+open-ervices,null,null,null,null
+umijs,null,null,null,null
+duaraghav8,null,null,null,null
+ValorizeVidas,null,null,null,null
+bietkul,null,null,null,null
+sentialx,multrin,https://github.com/sentialx/multrin,GNU General Public License v3.0,2243
+aierui,design-pattern-in-go,https://github.com/aierui/design-pattern-in-go,null,52
+NdagiStanley,vue-django,https://github.com/NdagiStanley/vue-django,MIT License,522
+SheetJS,sheetjs,https://github.com/SheetJS/sheetjs,Apache License 2.0,33014
+Awesome-Windows,Awesome,https://github.com/Awesome-Windows/Awesome,Creative Commons Zero v1.0 Universal,22799
+open-autin,null,null,null,null
+hyron-group,hyron,https://github.com/hyron-group/hyron,MIT License,119
+moa-chicago,null,null,null,null
+brandonseydel,MailChimp.Net,https://github.com/brandonseydel/MailChimp.Net,MIT License,306
+KronicDeth,intellij-elixir,https://github.com/KronicDeth/intellij-elixir,Other,1676
+mglaman,drupal-check,https://github.com/mglaman/drupal-check,GNU General Public License v2.0,317
+eligrey,FileSaver.js,https://github.com/eligrey/FileSaver.js,Other,20435
+ideway,null,null,null,null
+Wechaty,wechaty,https://github.com/wechaty/wechaty,Apache License 2.0,16539
+EasyHexo,Easy-Hexo,https://github.com/EasyHexo/Easy-Hexo,Other,401
+bupt,clubber.ml,https://github.com/BUPT/clubber.ml,Apache License 2.0,123
+jiteoft,null,null,null,null
+ueReactNYC,null,null,null,null
+marcelklehr,toposort,https://github.com/marcelklehr/toposort,Other,288
+w3c,csswg-drafts,https://github.com/w3c/csswg-drafts,Other,3999
+ferrou-systems,null,null,null,null
+gpujs,gpu.js,https://github.com/gpujs/gpu.js,MIT License,14610
+cssnano,cssnano,https://github.com/cssnano/cssnano,MIT License,4430
+we-plugin,we-cropper,https://github.com/we-plugin/we-cropper,MIT License,2079
+WeblateOrg,weblate,https://github.com/WeblateOrg/weblate,GNU General Public License v3.0,3637
+esprfid,esp-rfid,https://github.com/esprfid/esp-rfid,MIT License,1193
+motdotla,dotenv,https://github.com/motdotla/dotenv,"BSD 2-Clause ""Simplified"" License",17285
+xtaci,kcptun,https://github.com/xtaci/kcptun,MIT License,13382
+fritx,wxbot,https://github.com/fritx/wxbot,null,812
+IoTopenTech,Nodo_TTN_MAD_V2,https://github.com/IoTopenTech/Nodo_TTN_MAD_V2,null,21
+LasseRafn,null,null,null,null
+avelino,null,null,null,null
+serialport,null,null,null,null
+calidion,null,null,null,null
+CITGuru,null,null,null,null
+moaazsidat,null,null,null,null
+bkimminich,null,null,null,null
+MaterialDesignInXAML,null,null,null,null
+maintainerati,null,null,null,null
+AlinaWithAFace,null,null,null,null
+AI-Sphere,null,null,null,null
+nlpjoe,null,null,null,null
+davidesantangelo,null,null,null,null
+unlockopen,null,null,null,null
+tobie,null,null,null,null
+ic3network,null,null,null,null
+casbin,null,null,null,null
+Cezerin2,null,null,null,null
+jianfengye,null,null,null,null
+qishibo,null,null,null,null
+commanded,null,null,null,null
+CanopyTax,null,null,null,null
+rwbaumg,null,null,null,null
+maoberlehner,null,null,null,null
+nuxsmin,null,null,null,null
+MustangYM,null,null,null,null
+theacodes,null,null,null,null
+ZhuPeng,null,null,null,null
+burning-git,null,null,null,null
+moeoverflow,null,null,null,null
+charmcityj,null,null,null,null
+taufik-nurrohman,null,null,null,null
+WildGums,null,null,null,null
+kohesive,null,null,null,null
+devhubapp,null,null,null,null
+privacyguides,null,null,null,null
+konstruktoid,null,null,null,null
+kanryu,null,null,null,null
+aiogram,null,null,null,null
+GeekyAnts,null,null,null,null
+zeromake,null,null,null,null
+JodaOrg,null,null,null,null
+Eugeny,null,null,null,null
+jenssegers,null,null,null,null
+hypergroove,null,null,null,null
+TGmeetup,null,null,null,null
+alikinvv,null,null,null,null
+nanoframework,null,null,null,null
+chrisnager,null,null,null,null
+newpanjing,null,null,null,null
+oguzhaninan,null,null,null,null
+apolloconfig,null,null,null,null
+phonetworks,null,null,null,null
+SwitchbladeBot,null,null,null,null
+OpenPHL,null,null,null,null
+swup,null,null,null,null
+ziishaned,null,null,null,null
+oskardudycz,null,null,null,null
+koalazak,null,null,null,null
+yse,null,null,null,null
+mickael-kerjean,null,null,null,null
+friendofflarum,null,null,null,null
+eXpandFramework,null,null,null,null
+manzinello,null,null,null,null
+reonatecoop,null,null,null,null
+alexanmtz,null,null,null,null
+gureum,null,null,null,null
+coderplanets,null,null,null,null
+halo-dev,null,null,null,null
+premake,null,null,null,null
+proyecto26,null,null,null,null
+edent,null,null,null,null
+erverless-nextjs,null,null,null,null
+oapdog,null,null,null,null
+hedzr,null,null,null,null
+awes-io,null,null,null,null
+salesagility,null,null,null,null
+xjmuic,null,null,null,null
+Brooooooklyn,null,null,null,null
+Kaiyuan,null,null,null,null
+streamich,null,null,null,null
+mortezakarimi,null,null,null,null
+alexcambose,null,null,null,null
+naptha,null,null,null,null
+jedisct1,null,null,null,null
+deck-of-cards,null,null,null,null
+slimphp,null,null,null,null
+haxe-continuation,null,null,null,null
+kmikiy,null,null,null,null
+qmk,null,null,null,null
+nder,null,null,null,null
+500tech,null,null,null,null
+peachpiecompiler,null,null,null,null
+tabrindle,null,null,null,null
+rut-analyzer,null,null,null,null
+conference-buddy,null,null,null,null
+lookitscook,null,null,null,null
+jaime-olivares,null,null,null,null
+vinta,null,null,null,null
+cavedotorg,null,null,null,null
+SeongBrave,null,null,null,null
+kartik-v,null,null,null,null
+jasonday,null,null,null,null
+zhuyingda,null,null,null,null
+antonbabenko,null,null,null,null
+ra-gg,null,null,null,null
+MSPaintIDE,null,null,null,null
+opt-out-tool,null,null,null,null
+vivaxy,null,null,null,null
+nestjsx,null,null,null,null
+sqlcollaborative,null,null,null,null
+zalelion,null,null,null,null
+yatima1460,null,null,null,null
+vinitkumar,null,null,null,null
+QuickCorp,null,null,null,null
+wuseal,null,null,null,null
+flowjs,null,null,null,null
+quantum-elixir,null,null,null,null
+maennchen,null,null,null,null
+biesbjerg,null,null,null,null
+EnergizedProtection,null,null,null,null
+lukeed,null,null,null,null
+goodwithtech,null,null,null,null
+willin,null,null,null,null
+Sub6Resources,null,null,null,null
+EduCodeBe,null,null,null,null
+javers,null,null,null,null
+nh2,null,null,null,null
+Smilo-platform,null,null,null,null
+NeuronRobotics,null,null,null,null
+approach0,null,null,null,null
+fuse-open,null,null,null,null
+watzon,null,null,null,null
+tatic-haskell-nix,null,null,null,null
+antest1,null,null,null,null
+ranisalt,null,null,null,null
+prateekiiest,null,null,null,null
+quaarframework,null,null,null,null
+iNDS-Team,null,null,null,null
+olivia-ai,null,null,null,null
+serversideup,null,null,null,null
+521dimenions,null,null,null,null
+SimpleSoftwareIO,null,null,null,null
+outboxcraft,null,null,null,null
+5argon,null,null,null,null
+microweber,null,null,null,null
+joelibaceta,null,null,null,null
+Vouk,null,null,null,null
+Shipow,null,null,null,null
+rpamd,null,null,null,null
+cloudson,null,null,null,null
+typescript-eslint,typescript-eslint,https://github.com/typescript-eslint/typescript-eslint,Other,13512
+TheNetAdmin,zjuthesis,https://github.com/TheNetAdmin/zjuthesis,MIT License,1892
+oblac,jodd,https://github.com/oblac/jodd,"BSD 2-Clause ""Simplified"" License",3996
+pester,Pester,https://github.com/pester/Pester,Other,2919
+einsteinpy,einsteinpy,https://github.com/einsteinpy/einsteinpy,MIT License,523
+typicode,json-server,https://github.com/typicode/json-server,MIT License,67302
+fritzing,fritzing-app,https://github.com/fritzing/fritzing-app,Other,3410
+r0x0r,pywebview,https://github.com/r0x0r/pywebview,"BSD 3-Clause ""New"" or ""Revised"" License",3602
+apereo,cas,https://github.com/apereo/cas,Apache License 2.0,10189
+cobudget,cobudget,https://github.com/cobudget/cobudget,Other,54
+Kenshin,simpread,https://github.com/Kenshin/simpread,GNU General Public License v3.0,7250
+daehruoydeef,null,null,null,null
+Jurabek,IdentityServer4.PhoneNumberAuth,https://github.com/jurabek/IdentityServer4.PhoneNumberAuth,MIT License,95
+libretime,libretime,https://github.com/libretime/libretime,GNU Affero General Public License v3.0,685
+pytest-dev,pytest,https://github.com/pytest-dev/pytest,MIT License,10307
+gustavoquinalha,seotopper,https://github.com/gustavoquinalha/seotopper,null,202
+terrylinooo,shieldon,https://github.com/terrylinooo/shieldon,MIT License,753
+TechFortres,null,null,null,null
+Simonwep,pickr,https://github.com/simonwep/pickr,MIT License,4047
+rubyconfig,config,https://github.com/rubyconfig/config,Other,2025
+lancedikson,bowser,https://github.com/lancedikson/bowser,Other,5271
+reixs,reixs,https://github.com/reixs/reixs,MIT License,93
+Orangopu,null,null,null,null
+php-casbin,php-casbin,https://github.com/php-casbin/php-casbin,Apache License 2.0,1127
+awssat,tailwindo,https://github.com/awssat/tailwindo,MIT License,1004
+dan-divy,spruce,https://github.com/dan-divy/spruce,MIT License,486
+lauthieb,code-notes,https://github.com/lauthieb/code-notes,MIT License,1065
+CoCreate-app,CoCreate-admin,https://github.com/CoCreate-app/CoCreate-admin,MIT License,41
+hyperf-cloud,command-easyswoole-integration,https://github.com/hyperf-cloud/command-easyswoole-integration,null,2
+HenryQW,Awesome-TTRSS,https://github.com/HenryQW/Awesome-TTRSS,MIT License,2033
+OpenZWave,null,null,null,null
+EvotecIT,null,null,null,null
+packem,null,null,null,null
+wemake-services,null,null,null,null
+huchenme,null,null,null,null
+aloneguid,null,null,null,null
+darwin-education,null,null,null,null
+CircuitVerse,null,null,null,null
+shuzijun,null,null,null,null
+evilmartian,null,null,null,null
+TheAlgorithms,null,null,null,null
+localnative,null,null,null,null
+endeavouro-team,null,null,null,null
+pixijs,null,null,null,null
+posthtml,null,null,null,null
+SocialConnect,null,null,null,null
+hackathon-elm-france,null,null,null,null
+hyphacoop,null,null,null,null
+10th-treet-media,null,null,null,null
+huextrat,null,null,null,null
+ajv-validator,null,null,null,null
+pmp-p,null,null,null,null
+berty,null,null,null,null
+moul,null,null,null,null
+omose-collective,null,null,null,null
+remarkablemark,null,null,null,null
+manuelbieh,null,null,null,null
+ivaylokenov,null,null,null,null
+Musish,null,null,null,null
+JasonStein,null,null,null,null
+vardius,null,null,null,null
+jbarlow83,null,null,null,null
+css-doodle,null,null,null,null
+xwiki,null,null,null,null
+RobinCK,null,null,null,null
+code-for-magdeburg,null,null,null,null
+prabirshrestha,null,null,null,null
+NixOS,null,null,null,null
+izhangzhihao,null,null,null,null
+madlabsinc,null,null,null,null
+uNmAnNeR,null,null,null,null
+baa_casa,null,null,null,null
+baa-casa,null,null,null,null
+eraum,null,null,null,null
+garrylachman,null,null,null,null
+linuxserver,null,null,null,null
+glpi-project,null,null,null,null
+rubysolo,null,null,null,null
+luwes,null,null,null,null
+teclib,null,null,null,null
+heckj,null,null,null,null
+code4hitory,null,null,null,null
+ghot-tron,null,null,null,null
+j3ssie,null,null,null,null
+Cypurr-Collective,null,null,null,null
+collab-project,null,null,null,null
+jollypebble,null,null,null,null
+Wscats,null,null,null,null
+Wisser,null,null,null,null
+lisniuse,null,null,null,null
+ZhiXiao-Lin,null,null,null,null
+php-service-bus,null,null,null,null
+ievobio,null,null,null,null
+barcamp-events,null,null,null,null
+private-dreamnet,null,null,null,null
+YiiGuxing,null,null,null,null
+veandco,null,null,null,null
+sourcecred,null,null,null,null
+abergs,null,null,null,null
+Ledgerback,null,null,null,null
+harttle,null,null,null,null
+Astrotomic,null,null,null,null
+heim-rs,null,null,null,null
+manjaro,null,null,null,null
+jdneo,null,null,null,null
+theme-next,null,null,null,null
+DragonetMC,null,null,null,null
+aaru-dp,null,null,null,null
+zdharma,null,null,null,null
+dmjio,null,null,null,null
+dyne,null,null,null,null
+wangkanai,null,null,null,null
+posquit0,null,null,null,null
+json-schema-org,null,null,null,null
+CaptainCodeyGit,null,null,null,null
+blackshow,null,null,null,null
+buckket,null,null,null,null
+zhw2590582,null,null,null,null
+emmetio,null,null,null,null
+react-hook-form,null,null,null,null
+enka-viewer,null,null,null,null
+new-r,null,null,null,null
+brickspert,null,null,null,null
+daybrush,null,null,null,null
+naijahack,null,null,null,null
+hoppscotch,null,null,null,null
+formatjs,null,null,null,null
+terser,null,null,null,null
+crowi,null,null,null,null
+tony19,null,null,null,null
+nzbin,null,null,null,null
+alfio-event,null,null,null,null
+MurhafSousli,null,null,null,null
+xxczaki,null,null,null,null
+actionhero,null,null,null,null
+voidcosmos,null,null,null,null
+kr1sp1n,null,null,null,null
+tauri-apps,null,null,null,null
+maxisam,null,null,null,null
+InnovAnon-Inc,null,null,null,null
+lmcq,null,null,null,null
+rize,null,null,null,null
+alitaj,null,null,null,null
+aerogo,null,null,null,null
+SortableJS,null,null,null,null
+dhall-lang,null,null,null,null
+dubzzz,null,null,null,null
+entropic-dev,null,null,null,null
+Neilpang,null,null,null,null
+hackdoor_io,null,null,null,null
+phpclassic,null,null,null,null
+snakers4,null,null,null,null
+jortage,null,null,null,null
+dhruvasagar,null,null,null,null
+mxplusb,null,null,null,null
+pycontribs,null,null,null,null
+opprGroup,null,null,null,null
+MidCamp,null,null,null,null
+chakra-ui,null,null,null,null
+keeweb,null,null,null,null
+TerryZ,null,null,null,null
+postcss,null,null,null,null
+aQuaYi,null,null,null,null
+browserslist,null,null,null,null
+San-Antonio-Review,null,null,null,null
+hanton,null,null,null,null
+advancedfx,null,null,null,null
+use-hooks,null,null,null,null
+react-spring,null,null,null,null
+glatek,null,null,null,null
+propjockey,null,null,null,null
+immerjs,null,null,null,null
+fluid-dev,null,null,null,null
+radareorg,null,null,null,null
+openclimatefix,null,null,null,null
+iluminar,komla,https://github.com/iluminar/komla,null,12
+vulpineclub,vulpineclub.github.io,https://github.com/vulpineclub/vulpineclub.github.io,null,2
+antonybudianto,angular-starter,https://github.com/antonybudianto/angular-starter,MIT License,524
+flc1125,alidayu,https://github.com/flc1125/alidayu,MIT License,181
+mkaring,Illarion-Photon-Server,https://github.com/mkaring/Illarion-Photon-Server,GNU Affero General Public License v3.0,3
+image-r,null,null,null,null
+libvips,libvips,https://github.com/libvips/libvips,GNU Lesser General Public License v2.1,8044
+neovim,neovim,https://github.com/neovim/neovim,Other,66726
+jaredpalmer,formik,https://github.com/jaredpalmer/formik,Apache License 2.0,32482
+swiftyapp,swifty,https://github.com/swiftyapp/swifty,GNU General Public License v3.0,818
+googlechromelab,null,null,null,null
+yanyiwu,nodejieba,https://github.com/yanyiwu/nodejieba,MIT License,2810
+VetSec,vetsec_links,https://github.com/VetSec/vetsec_links,null,7
+fwartner,replace,https://github.com/fwartner/replace,MIT License,2
+survivejs,webpack-merge,https://github.com/survivejs/webpack-merge,MIT License,2630
+klausinani,null,null,null,null
+getferdi,nightlies,https://github.com/getferdi/nightlies,null,16
+finalfrontiergaming,FrontierBot,https://github.com/FinalFrontierGaming/FrontierBot,MIT License,0
+ZhonganTechENG,null,null,null,null
+SDWebImage,SDWebImage,https://github.com/SDWebImage/SDWebImage,MIT License,24615
+naynco,nayn.cli,https://github.com/naynco/nayn.cli,Apache License 2.0,17
+kefranabg,readme-md-generator,https://github.com/kefranabg/readme-md-generator,MIT License,10383
+pioniredu,preslovljivac-js,https://github.com/pioniredu/preslovljivac-js,GNU General Public License v3.0,14
+eggjs,egg,https://github.com/eggjs/egg,MIT License,18559
+trustwallet,assets,https://github.com/trustwallet/assets,MIT License,3921
+cncjs,cncjs,https://github.com/cncjs/cncjs,MIT License,2018
+michelon,null,null,null,null
+airform,airform,https://github.com/airform/airform,MIT License,425
+abhinavsingh,proxy.py,https://github.com/abhinavsingh/proxy.py,"BSD 3-Clause ""New"" or ""Revised"" License",2496
+zino-hofmann,graphql-flutter,https://github.com/zino-hofmann/graphql-flutter,MIT License,3139
+bmkmanoj,null,null,null,null
+dimpu,null,null,null,null
+coopcycle,null,null,null,null
+brittanyrw,null,null,null,null
+extinctionrebellion,null,null,null,null
+code-for-venezuela,null,null,null,null
+node-fetch,null,null,null,null
+DIADeignGuild,null,null,null,null
+worldiaday,null,null,null,null
+ai-techsystems,null,null,null,null
+mattn,null,null,null,null
+mun-lang,null,null,null,null
+typelevel,null,null,null,null
+bastion-rs,null,null,null,null
+GJNilsen,null,null,null,null
+ethicalSource,null,null,null,null
+oudcollective,null,null,null,null
+nunomaduro,null,null,null,null
+chenhg5,null,null,null,null
+ahonn,null,null,null,null
+Xuefeng-Zhu,null,null,null,null
+voku,null,null,null,null
+kobkob,null,null,null,null
+viest,null,null,null,null
+draxari,null,null,null,null
+panjf2000,null,null,null,null
+meinto,null,null,null,null
+Codeception,null,null,null,null
+techx,null,null,null,null
+RehanSaeed,null,null,null,null
+XITRIX,null,null,null,null
+Dotnet-Boxed,null,null,null,null
+gbdev,null,null,null,null
+mifi,null,null,null,null
+less,null,null,null,null
+Richienb,null,null,null,null
+yoxjs,null,null,null,null
+Cloudbox,null,null,null,null
+reach,null,null,null,null
+uvdesk,null,null,null,null
+fkhadra,null,null,null,null
+tunl,null,null,null,null
+aync-rs,null,null,null,null
+lando,null,null,null,null
+dinacon,null,null,null,null
+typograf,null,null,null,null
+climateaction-tech,null,null,null,null
+irislib,null,null,null,null
+novacodecollective,null,null,null,null
+bluebill1049,null,null,null,null
+neurogear,null,null,null,null
+colour-science,null,null,null,null
+bonai-rx,null,null,null,null
+cloudwebrtc,null,null,null,null
+heerun,null,null,null,null
+rolling-scopes,null,null,null,null
+mbrn,null,null,null,null
+rechart,null,null,null,null
+ctrlplusb,null,null,null,null
+redeclipse,null,null,null,null
+criticalmaps,null,null,null,null
+gurkenlabs,null,null,null,null
+FE-free,null,null,null,null
+gee1k,null,null,null,null
+matfish2,null,null,null,null
+wowlusitong,null,null,null,null
+DT42,null,null,null,null
+opensourcewebsite-org,null,null,null,null
+swashata,null,null,null,null
+staart,null,null,null,null
+inlife,null,null,null,null
+prim-rb,null,null,null,null
+samdenty,null,null,null,null
+netmix,null,null,null,null
+elect2,null,null,null,null
+antvis,null,null,null,null
+silexlabs,null,null,null,null
+hezhongfeng,null,null,null,null
+chatwoot,null,null,null,null
+depcheck,null,null,null,null
+gitthermal,null,null,null,null
+huytd,null,null,null,null
+lairdubois,null,null,null,null
+adamhalasz,null,null,null,null
+gioboa,null,null,null,null
+umputun,null,null,null,null
+ivanceras,null,null,null,null
+OpenXRay,null,null,null,null
+purescript,null,null,null,null
+RoyalIcing,null,null,null,null
+youngjuning,null,null,null,null
+RecapTime,null,null,null,null
+walletpass,null,null,null,null
+netbootxyz,null,null,null,null
+xyzrepo,null,null,null,null
+eXist-db,null,null,null,null
+dotnetcore,null,null,null,null
+asdf2014,null,null,null,null
+morelinq,null,null,null,null
+InfyOmLabs,null,null,null,null
+mrdulin,null,null,null,null
+radogado,null,null,null,null
+weidproject,null,null,null,null
+HandyOrg,null,null,null,null
+ty0x2333,null,null,null,null
+octabytes,null,null,null,null
+metrue,null,null,null,null
+trimstray,null,null,null,null
+softvar,null,null,null,null
+monicadear,null,null,null,null
+HimasRafeek,null,null,null,null
+javrasya,null,null,null,null
+forsigner,null,null,null,null
+aenews,null,null,null,null
+stashapp,null,null,null,null
+parsecsv,null,null,null,null
+tchoi8,null,null,null,null
+Ai-Fetival-Nigeria,null,null,null,null
+randy408,null,null,null,null
+stefansundin,null,null,null,null
+zslucky,null,null,null,null
+BlockScience,null,null,null,null
+jaele-project,null,null,null,null
+gpietro,null,null,null,null
+rx-ts,null,null,null,null
+codinggrace,null,null,null,null
+samchon,null,null,null,null
+Keplerjs,null,null,null,null
+tlaurion,null,null,null,null
+trapexit,null,null,null,null
+clinical-meteor,null,null,null,null
+xrOxygen,null,null,null,null
+algum1114,null,null,null,null
+BrikerMan,null,null,null,null
+geekdada,yasd,https://github.com/geekdada/yasd,MIT License,228
+LawnchairLauncher,lawnchair,https://github.com/LawnchairLauncher/lawnchair,Other,7221
+chuderer,null,null,null,null
+xcarpentier,react-native-country-picker-modal,https://github.com/xcarpentier/react-native-country-picker-modal,MIT License,999
+OfflineIMAP,offlineimap,https://github.com/OfflineIMAP/offlineimap,Other,1755
+alexandercerutti,passkit-generator,https://github.com/alexandercerutti/passkit-generator,MIT License,479
+zeybek,YouGet,https://github.com/zeybek/YouGet,null,189
+josephg,ShareJS,https://github.com/josephg/ShareJS,Other,4926
+skywinder,GaugeKit,https://github.com/skywinder/GaugeKit,MIT License,1021
+react-ui-kit,dribbble2react,https://github.com/react-ui-kit/dribbble2react,MIT License,2528
+JaeYeopHan,Interview_Question_for_Beginner,https://github.com/JaeYeopHan/Interview_Question_for_Beginner,MIT License,16596
+franciscolourenco,done,https://github.com/franciscolourenco/done,MIT License,650
+worldimprovementlab,coronavirus-cheatsheet,https://github.com/worldimprovementlab/coronavirus-cheatsheet,Creative Commons Zero v1.0 Universal,19
+ConvoCollective,web,https://github.com/ConvoCollective/web,MIT License,1
+ItalyPaleAle,svelte-spa-router,https://github.com/ItalyPaleAle/svelte-spa-router,MIT License,1338
+react-figma,react-figma,https://github.com/react-figma/react-figma,MIT License,2270
+acolono,php-magento-api-sandbox,https://github.com/acolono/php-magento-api-sandbox,MIT License,10
+founiverse,null,null,null,null
+yohsii,SyncDirectory,https://github.com/yohsii/SyncDirectory,MIT License,2
+novalagung,dasarpemrogramangolang,https://github.com/novalagung/dasarpemrogramangolang,Creative Commons Attribution Share Alike 4.0 International,1807
+kalm,kalm.js,https://github.com/kalm/kalm.js,Other,196
+rapid-sensemaking-framework,noflo-rsf,https://github.com/rapid-sensemaking-framework/noflo-rsf,GNU General Public License v3.0,159
+HorrificDev,null,null,null,null
+MarshalX,yandex-music-api,https://github.com/MarshalX/yandex-music-api,GNU Lesser General Public License v3.0,728
+553899811,Java-Programmer-Advancement-Program,https://github.com/553899811/Java-Programmer-Advancement-Program,GNU General Public License v3.0,438
+gostor,awesome-go-storage,https://github.com/gostor/awesome-go-storage,MIT License,3994
+vue-gl,vue-gl,https://github.com/vue-gl/vue-gl,MIT License,628
+Lax,Learn-iOS-Swift-by-Examples,https://github.com/Lax/Learn-iOS-Swift-by-Examples,null,3615
+wuchangming,spy-debugger,https://github.com/wuchangming/spy-debugger,MIT License,7250
+jinliming2,Chrome-Charset,https://github.com/jinliming2/Chrome-Charset,MIT License,446
+ManukMinasyan,null,null,null,null
+txthinking,null,null,null,null
+nest-cloud,null,null,null,null
+coopcat,null,null,null,null
+AtOmTurk,null,null,null,null
+dynamooe,null,null,null,null
+foxundermoon,null,null,null,null
+sparanoid,null,null,null,null
+gmelayu,null,null,null,null
+zws-im,null,null,null,null
+zinc-collective,null,null,null,null
+hanchuanchuan,null,null,null,null
+liriliri,null,null,null,null
+airdb,null,null,null,null
+pion,null,null,null,null
+monicahq,null,null,null,null
+yizzuide,null,null,null,null
+midwan,null,null,null,null
+astrit,null,null,null,null
+omotenahicoin-project,null,null,null,null
+prasathmani,null,null,null,null
+mtdn,null,null,null,null
+korlibs,null,null,null,null
+entrium,null,null,null,null
+antfu,null,null,null,null
+the-via,null,null,null,null
+vkarpov15,null,null,null,null
+yisar,null,null,null,null
+openaddresses,null,null,null,null
+lambdailand,null,null,null,null
+restsharp,null,null,null,null
+webdevtalk,null,null,null,null
+emberj,null,null,null,null
+tildeio,null,null,null,null
+yewstack,null,null,null,null
+saros-project,null,null,null,null
+funwroc,null,null,null,null
+wrocnet,null,null,null,null
+ai6ph,null,null,null,null
+excalidraw,null,null,null,null
+hiyali,null,null,null,null
+btzr-io,null,null,null,null
+codejamninja,null,null,null,null
+cabal-club,null,null,null,null
+vjeantet,null,null,null,null
+andstorm-io,null,null,null,null
+KumbiaPHP,null,null,null,null
+tModLoader,null,null,null,null
+docker-slim,null,null,null,null
+zhaopengme,null,null,null,null
+openboxes,null,null,null,null
+gogf,null,null,null,null
+fayettevillej,null,null,null,null
+gjtorikian,null,null,null,null
+ripperhe,null,null,null,null
+nobrainr,null,null,null,null
+acces2perspectives,null,null,null,null
+africarxiv,null,null,null,null
+Ascotbe,null,null,null,null
+authelia,null,null,null,null
+wenyan-lang,null,null,null,null
+ionicfirebaseapp,null,null,null,null
+alanmcgovern,null,null,null,null
+xmlking,null,null,null,null
+yTakkar,null,null,null,null
+bluprnt,null,null,null,null
+checktheroads,null,null,null,null
+botika,null,null,null,null
+swarmpit,null,null,null,null
+regolith-linux,null,null,null,null
+lacomarcaDO,null,null,null,null
+react-next-boilerplate,null,null,null,null
+hoob-org,null,null,null,null
+Gherciu,null,null,null,null
+bornytm,null,null,null,null
+pytonik,null,null,null,null
+popolutions,null,null,null,null
+phpughb,null,null,null,null
+goatech,null,null,null,null
+kivikakk,null,null,null,null
+stalniy,null,null,null,null
+RapAP,null,null,null,null
+pwafire,null,null,null,null
+OSSIA,null,null,null,null
+koddr,null,null,null,null
+getcouragenow,null,null,null,null
+f-droid,null,null,null,null
+Darcy-Social,null,null,null,null
+devendermahto,null,null,null,null
+geongeorge,null,null,null,null
+ustainers,null,null,null,null
+ng-matero,null,null,null,null
+atisawd,null,null,null,null
+ongr-io,null,null,null,null
+guardianproject,null,null,null,null
+Legytma,null,null,null,null
+OpenCyphal,null,null,null,null
+moscajs,null,null,null,null
+Ysurac,null,null,null,null
+tooling,null,null,null,null
+cristianbote,null,null,null,null
+Analogy-LogViewer,null,null,null,null
+Usbac,null,null,null,null
+likecoin,null,null,null,null
+ukrbublik,null,null,null,null
+jbetancur,null,null,null,null
+tboox,null,null,null,null
+sampotts,null,null,null,null
+clio-lang,null,null,null,null
+dotenv-linter,null,null,null,null
+xdebug,null,null,null,null
+llamaret,null,null,null,null
+open-app,null,null,null,null
+MurmurationNetwork,null,null,null,null
+typedclojure,null,null,null,null
+luggish-hackers,null,null,null,null
+HackTJ,null,null,null,null
+cloudnative-amterdam,null,null,null,null
+premieroctet,null,null,null,null
+tmux,null,null,null,null
+neka-nat,null,null,null,null
+x1unix,null,null,null,null
+crsmithdev,null,null,null,null
+baytechc,null,null,null,null
+reqs,null,null,null,null
+dotnetGame,null,null,null,null
+maxence-charriere,null,null,null,null
+facebookreearch,null,null,null,null
+sifrr,null,null,null,null
+walletconnect,null,null,null,null
+clipto-pro,Desktop,https://github.com/clipto-pro/Desktop,null,160
+mixcore,mix.core,https://github.com/mixcore/mix.core,MIT License,601
+acacode,swagger-typescript-api,https://github.com/acacode/swagger-typescript-api,MIT License,2019
+tlatkowski,multihead-siamese-nets,https://github.com/tlatkowski/multihead-siamese-nets,MIT License,173
+conento-org,null,null,null,null
+pythonadelaide,website,https://github.com/pythonadelaide/website,null,0
+tatianamac,tm11ty,https://github.com/tatianamac/tm11ty,MIT License,45
+openipc,firmware,https://github.com/OpenIPC/firmware,MIT License,463
+starship,starship,https://github.com/starship/starship,ISC License,34723
+aissat,easy_localization,https://github.com/aissat/easy_localization,MIT License,721
+blitz-js,blitz,https://github.com/blitz-js/blitz,MIT License,12851
+JPressProjects,jpress,https://github.com/JPressProjects/jpress,GNU Lesser General Public License v3.0,2577
+igorkayanchuk,null,null,null,null
+leoding86,webextension-pixiv-toolkit,https://github.com/leoding86/webextension-pixiv-toolkit,null,1123
+androidemulator,null,null,null,null
+pgRouting,pgrouting,https://github.com/pgRouting/pgrouting,GNU General Public License v2.0,1016
+humantribe,null,null,null,null
+mypaint,mypaint,https://github.com/mypaint/mypaint,GNU General Public License v2.0,2418
+enso-org,enso,https://github.com/enso-org/enso,Apache License 2.0,6512
+innFactory,create-react-app-material-typescript-redux,https://github.com/innFactory/create-react-app-material-typescript-redux,MIT License,287
+robertleeplummerjr,Leaflet.glify,https://github.com/robertleeplummerjr/Leaflet.glify,MIT License,398
+prevwong,craft.js,https://github.com/prevwong/craft.js,MIT License,5870
+ttnleipzig,ttnleipzig-container,https://github.com/ttnleipzig/ttnleipzig-container,null,1
+JPeer264,node-semantic-git-commit-cli,https://github.com/JPeer264/node-semantic-git-commit-cli,MIT License,139
+bburdette,nix-error-proposal,https://github.com/bburdette/nix-error-proposal,null,26
+micjahn,ZXing.Net,https://github.com/micjahn/ZXing.Net,Apache License 2.0,2286
+PSLmodel,null,null,null,null
+africahack,null,null,null,null
+monitoror,monitoror,https://github.com/monitoror/monitoror,MIT License,4066
+hpyproject,hpy,https://github.com/hpyproject/hpy,MIT License,917
+monetoapp,null,null,null,null
+bepsvpt,null,null,null,null
+TelegramBots,null,null,null,null
+mfranzke,null,null,null,null
+untackofficial,null,null,null,null
+django-extensions,null,null,null,null
+wearebraid,null,null,null,null
+vue-stripe,null,null,null,null
+jrnl-org,null,null,null,null
+buterbenson,null,null,null,null
+Social-Change-Net,null,null,null,null
+fision-codes,null,null,null,null
+infinite-omicron,null,null,null,null
+Rocky-Mountain-Mutual-Aid-Network,null,null,null,null
+femiwiki,null,null,null,null
+ElderJames,null,null,null,null
+CloudBaeExtensions,null,null,null,null
+openeugene,null,null,null,null
+timocov,null,null,null,null
+DJNatuna,null,null,null,null
+nindooai,null,null,null,null
+rumahakha,null,null,null,null
+jxtech,null,null,null,null
+fos-responders,null,null,null,null
+dry-python,null,null,null,null
+douglasjunior,null,null,null,null
+utahmutualaid,null,null,null,null
+BiancoRoyal,null,null,null,null
+ChilliCream,null,null,null,null
+rladiePHL,null,null,null,null
+aguroy,null,null,null,null
+helpfulengineering,null,null,null,null
+Panurat,null,null,null,null
+home-sweet-gnome,null,null,null,null
+kchungradio,null,null,null,null
+playform,null,null,null,null
+Palakis,null,null,null,null
+Ecommerce-COVID-19-Reponse,null,null,null,null
+orhun,null,null,null,null
+tonikolaba,null,null,null,null
+weg-li,null,null,null,null
+bridgefoundry,null,null,null,null
+gofiber,null,null,null,null
+synfig,null,null,null,null
+asimp,null,null,null,null
+AmruthPillai,null,null,null,null
+OpenMined,null,null,null,null
+OpenCOVID19CoughCheck,null,null,null,null
+CovidInitiative,null,null,null,null
+cloud-cv,null,null,null,null
+remorses,null,null,null,null
+engine262,null,null,null,null
+borkdude,null,null,null,null
+babashka,null,null,null,null
+DeepWTO,null,null,null,null
+firoorg,null,null,null,null
+gtk-rs,null,null,null,null
+penguin-academy,null,null,null,null
+yuyenew,null,null,null,null
+numpy,null,null,null,null
+YIZHUANG,null,null,null,null
+chakravala,null,null,null,null
+tudiobrn,null,null,null,null
+mrjonny2,null,null,null,null
+derekclair,null,null,null,null
+MengmaNetwork,null,null,null,null
+UnigramDev,null,null,null,null
+lazer39,null,null,null,null
+data-provider,null,null,null,null
+doomedraven,null,null,null,null
+SUVORKIN,null,null,null,null
+pandemic-patch,null,null,null,null
+getDBTet,null,null,null,null
+tinkerhub,null,null,null,null
+net-modules,null,null,null,null
+zrythm,null,null,null,null
+LemmyNet,null,null,null,null
+PopSchool,null,null,null,null
+popchools,null,null,null,null
+adalidda,null,null,null,null
+ohmyform,null,null,null,null
+ffMathy,null,null,null,null
+beehiveu,null,null,null,null
+KZTN,null,null,null,null
+autoai-org,null,null,null,null
+railbridge-boston,null,null,null,null
+patelsky,null,null,null,null
+nowdream,null,null,null,null
+appleboy,null,null,null,null
+Magpiedoc,null,null,null,null
+raraorg,null,null,null,null
+AssistantNMS,null,null,null,null
+peercoin,null,null,null,null
+KotlinBy,null,null,null,null
+srevinsaju,null,null,null,null
+Ecohackerfarm,null,null,null,null
+bavix,null,null,null,null
+projectwallace,null,null,null,null
+khaosdoctor,null,null,null,null
+136728487,null,null,null,null
+thombashi,null,null,null,null
+huihut,null,null,null,null
+XploitWizer,null,null,null,null
+Vipzonevip,null,null,null,null
+ickrage,null,null,null,null
+Sierrakoda,null,null,null,null
+lonero-team,null,null,null,null
+revapi,null,null,null,null
+getbase,null,null,null,null
+kivymd,null,null,null,null
+COVID-19-electronic-health-ystem,null,null,null,null
+devourceid,null,null,null,null
+Rabbit-Company,null,null,null,null
+pelias,null,null,null,null
+dair-ai,null,null,null,null
+aequalitaproject,null,null,null,null
+hhxsv5,null,null,null,null
+errata-ai,null,null,null,null
+jeantimex,null,null,null,null
+ElaineHo,null,null,null,null
+theme-nexmoe,null,null,null,null
+rut-lang-ru,null,null,null,null
+thiflix,null,null,null,null
+falahati,null,null,null,null
+waclock,null,null,null,null
+liuyib,null,null,null,null
+evalocket,null,null,null,null
+xz,null,null,null,null
+juicycleff,null,null,null,null
+soundar24,null,null,null,null
+crikgl,null,null,null,null
+worknenjoy,null,null,null,null
+tandardio,null,null,null,null
+wololock,null,null,null,null
+EnixCoda,null,null,null,null
+konvajs,null,null,null,null
+patrickjquinn,null,null,null,null
+digital-cloud,null,null,null,null
+kritories,null,null,null,null
+ViraTrace,null,null,null,null
+rladie-nyc,null,null,null,null
+mlogclub,null,null,null,null
+jqhph,null,null,null,null
+leafsphp,null,null,null,null
+wakirin,null,null,null,null
+dflydev,null,null,null,null
+vegatrike,null,null,null,null
+PythonAfrica,null,null,null,null
+bansal-io,null,null,null,null
+a11yproject,null,null,null,null
+umentor,umentor,https://github.com/umentor/umentor,MIT License,17
+inotify-tool,null,null,null,null
+numfocu,null,null,null,null
+vuematerial,vue-material,https://github.com/vuematerial/vue-material,MIT License,9773
+go-ocf,null,null,null,null
+AppImageCrafter,null,null,null,null
+inotify-tools,inotify-tools,https://github.com/inotify-tools/inotify-tools,GNU General Public License v2.0,2855
+mikudo,null,null,null,null
+sujaykundu777,devlopr-jekyll,https://github.com/sujaykundu777/devlopr-jekyll,MIT License,599
+telegram-bot-dk,null,null,null,null
+siriwatknp,mui-treasury,https://github.com/siriwatknp/mui-treasury,MIT License,2234
+Zumplx,key,https://github.com/Zumplx/key,null,1
+BUBEBA,null,null,null,null
+LyoSU,quote-bot,https://github.com/LyoSU/quote-bot,MIT License,239
+Readarr,Readarr,https://github.com/Readarr/Readarr,GNU General Public License v3.0,2005
+thelightcollective,SuperFunProject,https://github.com/TheLightCollective/SuperFunProject,null,0
+TheLightCollective,SuperFunProject,https://github.com/TheLightCollective/SuperFunProject,null,0
+arnnis,react-native-toast-notifications,https://github.com/arnnis/react-native-toast-notifications,null,464
+yorkie-team,yorkie,https://github.com/yorkie-team/yorkie,Apache License 2.0,568
+vsouza,awesome-ios,https://github.com/vsouza/awesome-ios,MIT License,43113
+grid-js,gridjs,https://github.com/grid-js/gridjs,MIT License,4005
+Communica-commons,null,null,null,null
+dewmal,lyrics_gen,https://github.com/dewmal/lyrics_gen,null,9
+afe-menu,null,null,null,null
+jondo89,Fraternate,https://github.com/jondo89/Fraternate,MIT License,132
+pytition,Pytition,https://github.com/pytition/Pytition,"BSD 3-Clause ""New"" or ""Revised"" License",93
+wponion,wponion,https://github.com/wponion/wponion,MIT License,143
+web-crobbler,null,null,null,null
+optics-dev,Monocle,https://github.com/optics-dev/Monocle,MIT License,1587
+sitespeedio,sitespeed.io,https://github.com/sitespeedio/sitespeed.io,MIT License,4507
+arkntool,null,null,null,null
+allmende,null,null,null,null
+ecobyte,null,null,null,null
+STEllAR-GROUP,null,null,null,null
+one-dark,null,null,null,null
+GAwesomeBot,null,null,null,null
+abellj,null,null,null,null
+infinitiv-ai,null,null,null,null
+Konfigure-org,null,null,null,null
+iamhosseindhv,null,null,null,null
+colorify-collective,null,null,null,null
+Woodfi,null,null,null,null
+WelcomeToMyGarden,null,null,null,null
+clsync,null,null,null,null
+cuba-weather,null,null,null,null
+nlpodysey,null,null,null,null
+fatrodev,null,null,null,null
+abhijithvijayan,null,null,null,null
+rekit,null,null,null,null
+FreeRDP,null,null,null,null
+fmbot-discord,null,null,null,null
+fuiondirectory,null,null,null,null
+klis87,null,null,null,null
+unclehowell,null,null,null,null
+reach4help,null,null,null,null
+distributedio,null,null,null,null
+ioquake,null,null,null,null
+joomla,null,null,null,null
+touno-io,null,null,null,null
+dooboolab,null,null,null,null
+analysis-tools-dev,null,null,null,null
+code-hike,null,null,null,null
+akshay2211,null,null,null,null
+silenceper,null,null,null,null
+sshnet,null,null,null,null
+surjithctly,null,null,null,null
+data-umbrella,null,null,null,null
+fairy-tale-agi-olutions,null,null,null,null
+zamphyr,null,null,null,null
+osgeo,null,null,null,null
+OSGeo,null,null,null,null
+gtrix,null,null,null,null
+simps,null,null,null,null
+edlondon,null,null,null,null
+clap-rs,null,null,null,null
+HackThisSite,null,null,null,null
+xUnholy,null,null,null,null
+replikativ,null,null,null,null
+pajen9263,null,null,null,null
+baby-degu,null,null,null,null
+tahoe-lafs,null,null,null,null
+i3-gnome,null,null,null,null
+etherealengine,null,null,null,null
+wellyshen,null,null,null,null
+bjornharrtell,null,null,null,null
+flatgeobuf,null,null,null,null
+MRtrix3,null,null,null,null
+wiaeresearch,null,null,null,null
+thebuggenie,null,null,null,null
+factn,null,null,null,null
+EngineHub,null,null,null,null
+nadineproject,null,null,null,null
+gogearbox,null,null,null,null
+PremiumScript,null,null,null,null
+ikende,null,null,null,null
+farry19,null,null,null,null
+mayank091193,null,null,null,null
+osiset,null,null,null,null
+giampaolo,null,null,null,null
+valkyrienyanko,null,null,null,null
+cotbyte,null,null,null,null
+openscad,null,null,null,null
+pdfcpu,null,null,null,null
+elena-lang,null,null,null,null
+DecentralizedScience,null,null,null,null
+yiier,null,null,null,null
+zhaojh329,null,null,null,null
+gamearr,null,null,null,null
+dotnetdreamer,null,null,null,null
+juliandavidmr,null,null,null,null
+intantos,null,null,null,null
+gotson,null,null,null,null
+RecallGraph,null,null,null,null
+specollective,null,null,null,null
+adlered,null,null,null,null
+yarnpkg,null,null,null,null
+githubyouandifoundation,null,null,null,null
+newdeigncongress,null,null,null,null
+viromedia,null,null,null,null
+gitcodecareer,null,null,null,null
+TZG-official,null,null,null,null
+ramda,null,null,null,null
+SutainableUrbanDesign,null,null,null,null
+uTensor,null,null,null,null
+t-node-dev,null,null,null,null
+modularsoftware,null,null,null,null
+jspm,null,null,null,null
+dineditbxl,null,null,null,null
+Jinxianen,null,null,null,null
+ggdaltoo,null,null,null,null
+fcfdev,null,null,null,null
+mapwipe,null,null,null,null
+OpenHD,null,null,null,null
+rough-stuff,null,null,null,null
+khronoproject,null,null,null,null
+jxom,null,null,null,null
+mamunhpath,null,null,null,null
+lokesh-coder,null,null,null,null
+typeofweb,null,null,null,null
+snabbdom,null,null,null,null
+OrchardCoreContrib,null,null,null,null
+Git-Commit-Show,null,null,null,null
+cambi,null,null,null,null
+LoveTropic,null,null,null,null
+heikalthaf,null,null,null,null
+trynoice,null,null,null,null
+nuxodin,null,null,null,null
+PitchBlackRecoveryProject,null,null,null,null
+learn-awesome,null,null,null,null
+kovah,null,null,null,null
+blleng,null,null,null,null
+sholladay,null,null,null,null
+pufferpanel,null,null,null,null
+tantabcorp,null,null,null,null
+deltachat,null,null,null,null
+minadev,null,null,null,null
+kmharih3009,null,null,null,null
+SaveInternetFreedom,null,null,null,null
+nativescript,null,null,null,null
+kezhenxu94,null,null,null,null
+IntellectualSite,null,null,null,null
+tetcontainers,null,null,null,null
+librebook,null,null,null,null
+danbuck84,null,null,null,null
+billy21,null,null,null,null
+phwa,null,null,null,null
+orbitdb,null,null,null,null
+AsistantSMS,null,null,null,null
+shdown,null,null,null,null
+open-auced,null,null,null,null
+digital-audit,null,null,null,null
+manjula91,null,null,null,null
+foxifyjs,null,null,null,null
+ueblocks,null,null,null,null
+DNDACADEMY,null,null,null,null
+ProjectSakura,null,null,null,null
+abishekvashok,null,null,null,null
+gbchenkel,null,null,null,null
+meetDeveloper,null,null,null,null
+aesmail,null,null,null,null
+textpattern,null,null,null,null
+dankeren,null,null,null,null
+oc-shopaholic,null,null,null,null
+yaronzz,null,null,null,null
+blueman-project,blueman,https://github.com/blueman-project/blueman,GNU General Public License v3.0,997
+kaelzhang,node-ignore,https://github.com/kaelzhang/node-ignore,Other,382
+britecharts,britecharts,https://github.com/britecharts/britecharts,Apache License 2.0,3737
+castle-engine,castle-engine,https://github.com/castle-engine/castle-engine,Other,745
+react-navigation,react-navigation,https://github.com/react-navigation/react-navigation,null,22496
+centrifugal,centrifugo,https://github.com/centrifugal/centrifugo,Apache License 2.0,7100
+Snailclimb,JavaGuide,https://github.com/Snailclimb/JavaGuide,Apache License 2.0,134551
+emacs-lsp,lsp-mode,https://github.com/emacs-lsp/lsp-mode,GNU General Public License v3.0,4438
+Mautic,mautic,https://github.com/mautic/mautic,Other,5885
+NaomiProject,Naomi,https://github.com/NaomiProject/Naomi,MIT License,211
+datdotorg,datdot-node-rust,https://github.com/datdotorg/datdot-node-rust,GNU General Public License v3.0,47
+afuturemodern,e-state,https://github.com/afuturemodern/e-state,GNU General Public License v3.0,2
+ecwebervices,null,null,null,null
+the-coop,coop-website,https://github.com/the-coop/coop-website,null,4
+BIAgent,null,null,null,null
+nativeintech,null,null,null,null
+chemzqm,wxapp.vim,https://github.com/chemzqm/wxapp.vim,null,410
+PyLadieIfe,null,null,null,null
+om-network,templates,https://github.com/om-network/templates,MIT License,0
+vineetred,flowy,https://github.com/vineetred/flowy,GNU General Public License v3.0,276
+matejko0077,test,https://github.com/matejko0077/test,MIT License,1
+khromkov,react-date-picker,https://github.com/khromkov/react-date-picker,MIT License,0
+thecodebulb,null,null,null,null
+SynoCommunity,spksrc,https://github.com/SynoCommunity/spksrc,Other,2827
+nestdotland,nest.land,https://github.com/nestdotland/nest.land,MIT License,365
+elnepik,null,null,null,null
+laravel-tarter,null,null,null,null
+bonfire-network,null,null,null,null
+fztools,null,null,null,null
+mervick,emojionearea,https://github.com/mervick/emojionearea,MIT License,922
+denosaurs,null,null,null,null
+biurad,null,null,null,null
+ahmad-mousawi,null,null,null,null
+crewdevio,null,null,null,null
+headcrab-rs,null,null,null,null
+lance-gg,null,null,null,null
+404,null,null,null,null
+sequel-ace,null,null,null,null
+simplex-chat,null,null,null,null
+jae-jae,null,null,null,null
+Data-Liberation-Front,null,null,null,null
+iffy-page,null,null,null,null
+hkalexling,null,null,null,null
+grahamhurrell,null,null,null,null
+shrinerb,null,null,null,null
+famebot,null,null,null,null
+brightics,null,null,null,null
+SpinlockLabs,null,null,null,null
+sustainers,null,null,null,null
+world-class,null,null,null,null
+42644,null,null,null,null
+techlab,null,null,null,null
+dr5hn,null,null,null,null
+mlaursen,null,null,null,null
+reobin,null,null,null,null
+diorientations,null,null,null,null
+morevnaproject-org,null,null,null,null
+harescripts,null,null,null,null
+janorock,null,null,null,null
+anco,null,null,null,null
+NickeManarin,null,null,null,null
+ProjectLearn-Project-Baed-Learning,null,null,null,null
+ecoAPM,null,null,null,null
+opendevufcg,null,null,null,null
+xrud-git,null,null,null,null
+rweekly,null,null,null,null
+kuldeepkehwar,null,null,null,null
+connectxglobal,null,null,null,null
+fwh1990,null,null,null,null
+time2hack,null,null,null,null
+simple-login,null,null,null,null
+HyperGAN,null,null,null,null
+TutorialTraining,null,null,null,null
+Wavehade-Studios,null,null,null,null
+phiix-org,null,null,null,null
+oatpp,null,null,null,null
+silvioprog,null,null,null,null
+One-Language,null,null,null,null
+turkdevop,null,null,null,null
+aid2covid-19,null,null,null,null
+LividaST,null,null,null,null
+delight-dev,null,null,null,null
+MoinhoDigital,null,null,null,null
+ytmo,null,null,null,null
+Kaetram,null,null,null,null
+s1l3nt78,null,null,null,null
+SelfhotedPro,null,null,null,null
+talelin,null,null,null,null
+flcin,null,null,null,null
+coronasafe,null,null,null,null
+kuldeepkeshwar,null,null,null,null
+chalilozdemir,null,null,null,null
+azerothcore,null,null,null,null
+grey-oftware,null,null,null,null
+Drassil,null,null,null,null
+deeptechid,null,null,null,null
+wensonsmith,null,null,null,null
+ahmedfgad,null,null,null,null
+ronnylt,null,null,null,null
+profclems,null,null,null,null
+oozcitak,null,null,null,null
+GolangGDL,null,null,null,null
+thegrimilence,null,null,null,null
+AriaLyy,null,null,null,null
+code4game,null,null,null,null
+flamecore,null,null,null,null
+aaaguirrep,null,null,null,null
+docksal,null,null,null,null
+ocialityCoop,null,null,null,null
+cambifestival,null,null,null,null
+open5gs,null,null,null,null
+rochaCbruno,null,null,null,null
+digitaldebri,null,null,null,null
+arkmanager,null,null,null,null
+dhilt,null,null,null,null
+double-negative-media-group,null,null,null,null
+responsively-org,null,null,null,null
+getspooky,null,null,null,null
+Ubuntubudgie,null,null,null,null
+ddoecrets,null,null,null,null
+ddosecrets,null,null,null,null
+chritian-seiler,null,null,null,null
+DefectDojo,null,null,null,null
+hapijs,null,null,null,null
+ultranity,null,null,null,null
+modernweb-dev,null,null,null,null
+matomo-org,null,null,null,null
+element-plus,null,null,null,null
+abelljs,null,null,null,null
+dj-stripe,null,null,null,null
+stripe,null,null,null,null
+vipulkumarviit,null,null,null,null
+crypto-notepad,null,null,null,null
+nomacs,null,null,null,null
+KyleRoss,null,null,null,null
+EssentialsX,null,null,null,null
+reaviz,null,null,null,null
+IndianOpenSourceFoundation,null,null,null,null
+nsfw-filter,null,null,null,null
+typedtale,null,null,null,null
+antvi,null,null,null,null
+FGPRC-FlightGearChina,null,null,null,null
+infoculture,null,null,null,null
+xcov19,null,null,null,null
+ml4a,null,null,null,null
+mimium-org.mimium,null,null,null,null
+rainproj,null,null,null,null
+rusty-celery,null,null,null,null
+sagemath,null,null,null,null
+python-trio,null,null,null,null
+pwgd,null,null,null,null
+urllib3,null,null,null,null
+Formicka,null,null,null,null
+Edjolab,null,null,null,null
+fan3750060,null,null,null,null
+f1b3rdev,null,null,null,null
+goblyn,null,null,null,null
+joebortcheller,null,null,null,null
+anthonynaha,null,null,null,null
+georust,null,null,null,null
+brm2398,null,null,null,null
+higma,null,null,null,null
+frauvi,null,null,null,null
+erveside,null,null,null,null
+sveltejs,null,null,null,null
+redocly,null,null,null,null
+talkgo,null,null,null,null
+InterruptorPt,null,null,null,null
+js-org,null,null,null,null
+jikan-me,null,null,null,null
+darukjs,null,null,null,null
+apollo-elements,null,null,null,null
+3mdeb,null,null,null,null
+alfonsobries,null,null,null,null
+walkingpizza,null,null,null,null
+chiptunecafe,null,null,null,null
+UniversalDataTool,null,null,null,null
+shivammathur,null,null,null,null
+Palem1988,null,null,null,null
+vue-a11y,null,null,null,null
+the-lief-company,null,null,null,null
+ssshooter,null,null,null,null
+open-rpc,null,null,null,null
+coglab,null,null,null,null
+mohit2152harma,null,null,null,null
+ng-web-apis,intersection-observer,https://github.com/ng-web-apis/intersection-observer,MIT License,155
+ohackathon,null,null,null,null
+NintendoDevTool,null,null,null,null
+atlasianps,null,null,null,null
+FuturitFoundation,null,null,null,null
+samipsolutions,helm-charts,https://github.com/samipsolutions/helm-charts,Apache License 2.0,7
+ondrejtomcik,test-ctt,https://github.com/ondrejtomcik/test-ctt,null,0
+dlzuha,null,null,null,null
+TechByChoiceOrg,null,null,null,null
+zauberware,rails-devise-graphql,https://github.com/zauberware/rails-devise-graphql,MIT License,280
+ice,framework,https://github.com/ice/framework,"BSD 3-Clause ""New"" or ""Revised"" License",338
+organizr,Config-Collections-for-Nginx,https://github.com/Organizr/Config-Collections-for-Nginx,GNU General Public License v3.0,153
+IndomaximTechID,storaji,https://github.com/IndomaximTechID/storaji,MIT License,279
+JoeyBling,hexo-theme-yilia-plus,https://github.com/JoeyBling/hexo-theme-yilia-plus,MIT License,686
+codepreneur,embersync-localforage-example,https://github.com/codepreneur/embersync-localforage-example,MIT License,2
+mirai-mamori,Sakurairo,https://github.com/mirai-mamori/Sakurairo,GNU General Public License v2.0,2031
+hadowlack,null,null,null,null
+liphilar,null,null,null,null
+azlux,log2ram,https://github.com/azlux/log2ram,MIT License,2256
+devtim123,gatsby-4,https://github.com/devtim123/gatsby-4,BSD Zero Clause License,0
+ash-project,ash,https://github.com/ash-project/ash,MIT License,937
+logseq,logseq,https://github.com/logseq/logseq,GNU Affero General Public License v3.0,23010
+feiskyer,kubernetes-handbook,https://github.com/feiskyer/kubernetes-handbook,Other,5037
+ruffle-rs,ruffle,https://github.com/ruffle-rs/ruffle,Other,12559
+cake-build,cake,https://github.com/cake-build/cake,MIT License,3595
+mixxxdj,mixxx,https://github.com/mixxxdj/mixxx,Other,3460
+DevIncept,Prerequisite-Module,https://github.com/DevIncept/Prerequisite-Module,null,9
+nodkz,mongodb-memory-server,https://github.com/nodkz/mongodb-memory-server,MIT License,2234
+ohioh,ohioh.de,https://github.com/ohioh/ohioh.de,Apache License 2.0,7
+FluentValidation,null,null,null,null
+rahuldkjain,null,null,null,null
+amazon,null,null,null,null
+mortzdk,null,null,null,null
+jingweno,null,null,null,null
+styxlab,null,null,null,null
+rundoc,null,null,null,null
+CookieAutoDelete,null,null,null,null
+teveoro,null,null,null,null
+react-native-datetimepicker,null,null,null,null
+praxinyc,null,null,null,null
+HashLoad,null,null,null,null
+thefiend,null,null,null,null
+PhuocNguyen-Global,null,null,null,null
+semisto-org,null,null,null,null
+Hazyzh,null,null,null,null
+CourtBouillon,null,null,null,null
+kadalu,null,null,null,null
+Narbase,null,null,null,null
+nfstream,null,null,null,null
+ankidroid,null,null,null,null
+agershun,null,null,null,null
+block-core,null,null,null,null
+polybar,null,null,null,null
+your-digital-rights,null,null,null,null
+zhukunpenglinyutong,null,null,null,null
+Richy-Coder,null,null,null,null
+huangjianke,null,null,null,null
+shouldly,null,null,null,null
+FedML-AI,null,null,null,null
+nova-video-player,null,null,null,null
+nickvidal,null,null,null,null
+reyas-sreelal,null,null,null,null
+saltbo,null,null,null,null
+anish000kumar,null,null,null,null
+jookie,null,null,null,null
+RDambrosio016,null,null,null,null
+balmjs,null,null,null,null
+sorry-cypress,null,null,null,null
+openwebdocs,null,null,null,null
+effector,null,null,null,null
+panders,null,null,null,null
+next-theme,null,null,null,null
+ServeRet,null,null,null,null
+flybywiresim,null,null,null,null
+k3nsei,null,null,null,null
+Discord4J,null,null,null,null
+uniteddiverity,null,null,null,null
+jakartareearch,null,null,null,null
+infection,null,null,null,null
+guruabarish,null,null,null,null
+Prowlarr,null,null,null,null
+jMonkeyEngine,null,null,null,null
+goupaz,null,null,null,null
+swarmlet,null,null,null,null
+arturo-lang,null,null,null,null
+foolcage,null,null,null,null
+anamulco,null,null,null,null
+PotatoProject,null,null,null,null
+drzhelnov,null,null,null,null
+easylogic,null,null,null,null
+solidjs,null,null,null,null
+laike9m,null,null,null,null
+touritoken,null,null,null,null
+lottie,null,null,null,null
+nanoexpres,null,null,null,null
+oalt,null,null,null,null
+ooni,null,null,null,null
+shirakumo,null,null,null,null
+haozi,null,null,null,null
+uwings,null,null,null,null
+sivan,null,null,null,null
+gamesoflightllc,null,null,null,null
+TheBinitGhimire,null,null,null,null
+davidbyttow,null,null,null,null
+rx-angular,null,null,null,null
+coronalab,null,null,null,null
+grain-lang,null,null,null,null
+alosaur,null,null,null,null
+lume,null,null,null,null
+tranphuoctien,null,null,null,null
+probe-rs,null,null,null,null
+raindevelopment,null,null,null,null
+fluentassertions,null,null,null,null
+elloow,null,null,null,null
+censusreporter,null,null,null,null
+harnihdesign,null,null,null,null
+rutfesteu,null,null,null,null
+opengenu,null,null,null,null
+gingerhot,null,null,null,null
+timoniq,null,null,null,null
+cobbler,null,null,null,null
+CrecentCoders,null,null,null,null
+open-exo,null,null,null,null
+rickedb,null,null,null,null
+olla,null,null,null,null
+MudBlazor,null,null,null,null
+bagito-packages,null,null,null,null
+caahacker,null,null,null,null
+cpeditor,null,null,null,null
+distribyted,null,null,null,null
+theepiccode,null,null,null,null
+mufeedvh,null,null,null,null
+izhaoo,null,null,null,null
+codeceptjs,null,null,null,null
+EzPubSub,null,null,null,null
+dmtrKovalenko,null,null,null,null
+drmingdrmer,null,null,null,null
+warengonzaga,null,null,null,null
+puzrin,null,null,null,null
+xcatliu,null,null,null,null
+gridaco,null,null,null,null
+vlio20,null,null,null,null
+codgram,null,null,null,null
+formium,null,null,null,null
+queerhau,null,null,null,null
+luncheonette,null,null,null,null
+bodymovin,null,null,null,null
+unviewluncheonette,null,null,null,null
+open-election-compas,null,null,null,null
+statoscope,null,null,null,null
+Saul-Mirone,null,null,null,null
+Satriaana,null,null,null,null
+gprMax,null,null,null,null
+catalyst-team,null,null,null,null
+pyrogram,null,null,null,null
+XPoet,null,null,null,null
+mengshukeji,null,null,null,null
+kubephere,null,null,null,null
+aidenybai,null,null,null,null
+itmanjeet,null,null,null,null
+dgiitr,null,null,null,null
+sadanandpai,null,null,null,null
+harozraees802,null,null,null,null
+cheeseblubber,null,null,null,null
+menogrante,null,null,null,null
+TUM-Dev,null,null,null,null
+eakoriakin,null,null,null,null
+paillave,null,null,null,null
+ixcode,null,null,null,null
+schemathesis,null,null,null,null
+gramaddict,null,null,null,null
+ethers-io,null,null,null,null
+trackercli,null,null,null,null
+node-opcua,null,null,null,null
+go-fed,null,null,null,null
+nonebot,null,null,null,null
+Komodo-OS-Rom,null,null,null,null
+crhenr,null,null,null,null
+teelx,null,null,null,null
+NLKNguyen,null,null,null,null
+techworkerco,null,null,null,null
+TheIOFoundation,null,null,null,null
+altedlevity,null,null,null,null
+typescript-cheatsheets,react,https://github.com/typescript-cheatsheets/react,MIT License,41261
+jeffreytse,zsh-vi-mode,https://github.com/jeffreytse/zsh-vi-mode,MIT License,2122
+bund-x,null,null,null,null
+protontypes,awesome-robotic-tooling,https://github.com/protontypes/awesome-robotic-tooling,Creative Commons Zero v1.0 Universal,2557
+pikaojs,null,null,null,null
+JunzhouLiu,null,null,null,null
+joe223,tiny-swiper,https://github.com/joe223/tiny-swiper,null,1249
+rizinorg,cutter,https://github.com/rizinorg/cutter,GNU General Public License v3.0,13573
+M2Team,NanaZip,https://github.com/M2Team/NanaZip,Other,5165
+deepjyoti30,ytmdl,https://github.com/deepjyoti30/ytmdl,MIT License,2796
+zmkfirmware,zmk,https://github.com/zmkfirmware/zmk,MIT License,1677
+fision-suite,null,null,null,null
+kapwa,PrivacyPolicy,https://github.com/kapwa/PrivacyPolicy,null,0
+katharostech,arsenal,https://github.com/katharostech/arsenal,Other,267
+katharotech,null,null,null,null
+dicordtech,null,null,null,null
+swiftwasm,JavaScriptKit,https://github.com/swiftwasm/JavaScriptKit,MIT License,556
+ObjectPres,null,null,null,null
+Spiderpig86,Cirrus,https://github.com/Spiderpig86/Cirrus,MIT License,1161
+ModuleArt,quick-picture-viewer,https://github.com/ModuleArt/quick-picture-viewer,GNU General Public License v3.0,560
+roman-rr,cupertino-pane,https://github.com/roman-rr/cupertino-pane,MIT License,564
+thindil,steamsky,https://github.com/thindil/steamsky,null,85
+pmndrs,zustand,https://github.com/pmndrs/zustand,MIT License,31869
+Aslemammad,vitext,https://github.com/Aslemammad/vitext,MIT License,383
+Bxndoben1,null,null,null,null
+owap,scenery,https://github.com/owap/scenery,Apache License 2.0,1
+rust-in-blockchain,awesome-blockchain-rust,https://github.com/rust-in-blockchain/awesome-blockchain-rust,null,1695
+nolimits4web,swiper,https://github.com/nolimits4web/swiper,MIT License,35434
+php-flaher,null,null,null,null
+beercs,mycode,https://github.com/beercs/mycode,null,0
+Charmve,null,null,null,null
+sudo-project,null,null,null,null
+fission-codes,null,null,null,null
+bookla-foundation,null,null,null,null
+xuexiangjys,null,null,null,null
+exoticlibrarie,null,null,null,null
+FastReports,null,null,null,null
+thepabloaguilar,null,null,null,null
+WebbaLuca,null,null,null,null
+rut-iot,null,null,null,null
+yjs,null,null,null,null
+webarch-coop,null,null,null,null
+jnqnfe,null,null,null,null
+aligungr,null,null,null,null
+ifcopenshell,null,null,null,null
+corona10,null,null,null,null
+wger-project,null,null,null,null
+alexmojaki,null,null,null,null
+cimplec,null,null,null,null
+SvenVD,null,null,null,null
+alvr-org,null,null,null,null
+iPlug2,null,null,null,null
+saltcorn,null,null,null,null
+zevlg,null,null,null,null
+gregberge,null,null,null,null
+ofabry,null,null,null,null
+jkutrzeba1,null,null,null,null
+lakinduakash,null,null,null,null
+Twited-Fields,null,null,null,null
+rgab1508,null,null,null,null
+abhaynikam,null,null,null,null
+GlobalDeveloperNetwork,null,null,null,null
+hey-red,null,null,null,null
+coreruleet,null,null,null,null
+github,null,null,null,null
+tilleshan,null,null,null,null
+zhengfan2014,null,null,null,null
+AdrianaMuic,null,null,null,null
+ashutosh1919,null,null,null,null
+sanic-org,null,null,null,null
+yunohot,null,null,null,null
+micro-elements,null,null,null,null
+rbw,null,null,null,null
+mu-box,null,null,null,null
+afzalali15,null,null,null,null
+CoopGroupATX,null,null,null,null
+gngrOrg,null,null,null,null
+Analyn-bot,null,null,null,null
+wKich,null,null,null,null
+saschaeggi,null,null,null,null
+LibreELEC,null,null,null,null
+clojure-lsp,null,null,null,null
+go-kratos,null,null,null,null
+PowerJob,null,null,null,null
+shuchkin,null,null,null,null
+rpldy,null,null,null,null
+PowerNukkit,null,null,null,null
+dahliaOS,null,null,null,null
+yujiandong,null,null,null,null
+Borizn,null,null,null,null
+joaomlourenco,null,null,null,null
+angam14,null,null,null,null
+metagov,null,null,null,null
+Shen-Yu,null,null,null,null
+hydro-sdk,null,null,null,null
+p-v-o-,null,null,null,null
+neona,null,null,null,null
+bloc,null,null,null,null
+edualgo,null,null,null,null
+Better-Living-Through-Science-inc,null,null,null,null
+MakerNetwork,null,null,null,null
+TRaSH-,null,null,null,null
+hotio,null,null,null,null
+XuanchenLin,null,null,null,null
+pavlobu,null,null,null,null
+rubyforgood,null,null,null,null
+hoffstadt,null,null,null,null
+uncopied,null,null,null,null
+healinginnovationhub,null,null,null,null
+jermolene,null,null,null,null
+j256,null,null,null,null
+joseluisq,null,null,null,null
+erezh,null,null,null,null
+gerbera,null,null,null,null
+opendexnetwork,null,null,null,null
+RepectTheMemes,null,null,null,null
+Anidetrix,null,null,null,null
+lifecopelabs,null,null,null,null
+jumperver,null,null,null,null
+RedditBot-Team,null,null,null,null
+anonaddy,null,null,null,null
+icosa-gallery,null,null,null,null
+tokio-rs,null,null,null,null
+PHP-WVL,null,null,null,null
+choony1,null,null,null,null
+super-reality,null,null,null,null
+gotextify,null,null,null,null
+kepi,null,null,null,null
+podlove,null,null,null,null
+agimenez122,null,null,null,null
+UlricQin,null,null,null,null
+praw-dev,null,null,null,null
+webrtc-rs,null,null,null,null
+lvgl,null,null,null,null
+brainflow-dev,null,null,null,null
+bcgit,null,null,null,null
+thinktutor,null,null,null,null
+Free-Nation-Region,null,null,null,null
+voightco,null,null,null,null
+luozijun,null,null,null,null
+ksundong,null,null,null,null
+ConfidentProgrammer,null,null,null,null
+webhip,null,null,null,null
+learnerblock,null,null,null,null
+lxqt,null,null,null,null
+bonutrack,null,null,null,null
+HeroTransitions,null,null,null,null
+Provenance-Emu,null,null,null,null
+site-prism,null,null,null,null
+iceychris,null,null,null,null
+ryceg,null,null,null,null
+heijliger,null,null,null,null
+planetary-social,null,null,null,null
+qxreearch,null,null,null,null
+ohwmaker,null,null,null,null
+OhArthit,null,null,null,null
+open-neurocience,null,null,null,null
+mingrammer,null,null,null,null
+cdli-gh,null,null,null,null
+abap-obervability-tools,null,null,null,null
+opensuspect,null,null,null,null
+JuliaLang,null,null,null,null
+tdevPavelmc,null,null,null,null
+ramsrigouthamg,null,null,null,null
+mouse-reeve,null,null,null,null
+MrRobot222,null,null,null,null
+FlagrantGarden,null,null,null,null
+wifql,null,null,null,null
+MihaelIsaev,null,null,null,null
+botmate,null,null,null,null
+Malfoy111,null,null,null,null
+ojack,null,null,null,null
+Origami-Lab,null,null,null,null
+xwmx,null,null,null,null
+WolvenKit,null,null,null,null
+eemeniuc,null,null,null,null
+kataw,null,null,null,null
+pmd,null,null,null,null
+ChriRM,null,null,null,null
+Harindulk,null,null,null,null
+bcneng,null,null,null,null
+logchimp,null,null,null,null
+wee-slack,wee-slack,https://github.com/wee-slack/wee-slack,MIT License,2432
+astan,MSEunibzMeAl,https://github.com/AStan/MSEunibzMeAl,null,1
+RabbitFoRed,mailable,https://github.com/RabbitFored/mailable,Mozilla Public License 2.0,14
+muratkendir,PlaneDetectionwPCL,https://github.com/muratkendir/PlaneDetectionwPCL,null,8
+aryashah2k,Quantum-Computing-Collection-Of-Resources,https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources,MIT License,239
+Visual-Regression-Tracker,Visual-Regression-Tracker,https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker,Apache License 2.0,506
+openapi-backend,null,null,null,null
+openapi-client-axio,null,null,null,null
+stt-datacore,cpp-image-analysis,https://github.com/stt-datacore/cpp-image-analysis,MIT License,125
+NextBigFour,null,null,null,null
+ryanceccarelli,null,null,null,null
+simple-icons,simple-icons,https://github.com/simple-icons/simple-icons,Creative Commons Zero v1.0 Universal,15749
+nicklockwood,iCarousel,https://github.com/nicklockwood/iCarousel,Other,11968
+wemake-ervices,null,null,null,null
+godofredoninja,Mapache,https://github.com/godofredoninja/Mapache,GNU General Public License v3.0,605
+whatcall,zpi.py,https://github.com/whatcall/zpi.py,null,22
+dylech30th,NvidiaMonitor,https://github.com/dylech30th/NvidiaMonitor,null,6
+SliverHorn,Interview,https://github.com/SliverHorn/Interview,null,6
+Kaiyiwing,qwerty-learner,https://github.com/Kaiyiwing/qwerty-learner,GNU General Public License v3.0,9820
+FlawTechOfficial,sartorial_mechanic,https://github.com/FlawTechOfficial/sartorial_mechanic,null,0
+krzysztofzablocki,Sourcery,https://github.com/krzysztofzablocki/Sourcery,MIT License,7150
+mrakgr,The-Spiral-Language,https://github.com/mrakgr/The-Spiral-Language,Mozilla Public License 2.0,877
+matorinet,moodle-backup,https://github.com/MATORINET/moodle-backup,GNU General Public License v3.0,0
+tcurdt,iProxy,https://github.com/tcurdt/iProxy,Apache License 2.0,1170
+mwjs,mwjs,https://github.com/MWJS/mwjs,null,1
+krishdevdb,null,null,null,null
+svg,svgo,https://github.com/svg/svgo,MIT License,19315
+owncast,owncast,https://github.com/owncast/owncast,MIT License,7462
+KSDaemon,wampy.js,https://github.com/KSDaemon/wampy.js,MIT License,271
+okkur,syna,https://github.com/okkur/syna,Apache License 2.0,252
+muellner,null,null,null,null
+LiveTL,null,null,null,null
+openourceid,null,null,null,null
+vlima6669,null,null,null,null
+hubblo-org,null,null,null,null
+fzerocentral,null,null,null,null
+hackmdio,null,null,null,null
+CodeChefVIT,null,null,null,null
+jam-ystems,null,null,null,null
+u-admin-openos-proj,null,null,null,null
+liady,null,null,null,null
+onearmy,null,null,null,null
+PyDataMCR,null,null,null,null
+xsc,null,null,null,null
+openworm,null,null,null,null
+AntennaPod,null,null,null,null
+eea-oais,null,null,null,null
+CMB2,null,null,null,null
+orchidj,null,null,null,null
+ducklang-community,null,null,null,null
+sfx101,null,null,null,null
+mariorodeghiero,null,null,null,null
+dazinator,null,null,null,null
+lbragile,null,null,null,null
+ProtozeFos,null,null,null,null
+RitaBot-Project,null,null,null,null
+AutralianDisabilityLimited,null,null,null,null
+strawberry-graphql,null,null,null,null
+medyo,null,null,null,null
+vue-final,null,null,null,null
+zoghal,null,null,null,null
+elrsociety,null,null,null,null
+flutter-stripe,null,null,null,null
+faisalman,null,null,null,null
+NewSpaceNYC,null,null,null,null
+dataproofer,null,null,null,null
+ubexil,null,null,null,null
+Bigcook12345,null,null,null,null
+pythonecuador,null,null,null,null
+devopsfaith,null,null,null,null
+eigr,null,null,null,null
+r3curs1v3-pr0xy,null,null,null,null
+opic,null,null,null,null
+nrh-collective,null,null,null,null
+metabolist,null,null,null,null
+Dhruv-Techapps,null,null,null,null
+nvlinh99,null,null,null,null
+uasoft-indonesia,null,null,null,null
+guofei9987,null,null,null,null
+iamvira,null,null,null,null
+vscode-icons,null,null,null,null
+genshindev,null,null,null,null
+ookii-dialog,null,null,null,null
+AcheronProject,null,null,null,null
+304,null,null,null,null
+guardian,null,null,null,null
+awkwardpolygons,null,null,null,null
+game-ci,null,null,null,null
+deeppan,null,null,null,null
+Enime-Project,null,null,null,null
+ilinsky,null,null,null,null
+PhiTea,null,null,null,null
+kirillmurashov,null,null,null,null
+evertramos,null,null,null,null
+nekohaekai,null,null,null,null
+Asociation-Merci-Edgar,null,null,null,null
+jayantkageri,null,null,null,null
+CRC-Pro,null,null,null,null
+waedatime,null,null,null,null
+uenetbig8,null,null,null,null
+webdriverio,null,null,null,null
+tj-action,null,null,null,null
+RockingShip,null,null,null,null
+xyzzy,null,null,null,null
+osscameroon,null,null,null,null
+epicmaxco,null,null,null,null
+tone-row,null,null,null,null
+DanielAbalde,null,null,null,null
+public-transport,null,null,null,null
+YXL76,null,null,null,null
+cusociety,null,null,null,null
+KaliedaRik,null,null,null,null
+gkbrk,null,null,null,null
+tj-django,null,null,null,null
+cawa-93,null,null,null,null
+PixiEditor,null,null,null,null
+ChritelleBlunden,null,null,null,null
+cassandre-tech,null,null,null,null
+teamtreacle,null,null,null,null
+phpseclib,null,null,null,null
+HACKERALERT,null,null,null,null
+poiw-org,null,null,null,null
+kenangundogan,null,null,null,null
+instant-markdown,null,null,null,null
+chaoss,null,null,null,null
+dgrosu636,null,null,null,null
+compasionprojects,null,null,null,null
+kiganix,null,null,null,null
+letpingit,null,null,null,null
+PieroCastillo,null,null,null,null
+umneko,null,null,null,null
+applied-knowledge-ystems,null,null,null,null
+MagMagnoli,null,null,null,null
+ihucos,null,null,null,null
+sayanarijit,null,null,null,null
+JiHong88,null,null,null,null
+performancecopilot,null,null,null,null
+omgovich,null,null,null,null
+pionica,null,null,null,null
+redhookmutualaid,null,null,null,null
+ilverstripe,null,null,null,null
+widelachie,null,null,null,null
+noterrax,null,null,null,null
+kludge-c,null,null,null,null
+blakmatrix,null,null,null,null
+ad-aure,null,null,null,null
+organicmap,null,null,null,null
+fedibird,null,null,null,null
+ad-aures,null,null,null,null
+InPageEdit,null,null,null,null
+eximtudio,null,null,null,null
+jumi-bot,null,null,null,null
+autonomic-Cooperative,null,null,null,null
+mon-oral,null,null,null,null
+PandasWS,null,null,null,null
+ln2e,null,null,null,null
+codehiveteam,null,null,null,null
+jsayol,null,null,null,null
+crypto-red,null,null,null,null
+kwhitley,null,null,null,null
+HTTPArchive,null,null,null,null
+huanghuwei,null,null,null,null
+dosbox-staging,null,null,null,null
+TeamAmaze,null,null,null,null
+momentum-mod,null,null,null,null
+codefornahville,null,null,null,null
+xfce-mirror,null,null,null,null
+elrumo,null,null,null,null
+mopsicus,null,null,null,null
+doberman,null,null,null,null
+mollyim,null,null,null,null
+alire-project,null,null,null,null
+maikebing,null,null,null,null
+JimmyLv,null,null,null,null
+xf,null,null,null,null
+open-contracting,null,null,null,null
+Tree-of-Light,null,null,null,null
+tree-of-light,null,null,null,null
+dillfrecott,null,null,null,null
+htop-dev,htop,https://github.com/htop-dev/htop,GNU General Public License v2.0,5001
+ataeccom,null,null,null,null
+delphifanforum,DfRestApi,https://github.com/delphifanforum/DfRestApi,null,0
+hackerpacesg,null,null,null,null
+madithoue,null,null,null,null
+LibrePCB,LibrePCB,https://github.com/LibrePCB/LibrePCB,GNU General Public License v3.0,1683
+simplysecure,dots-patterns,https://github.com/simplysecure/dots-patterns,null,105
+hakancelik96,null,null,null,null
+greyli,helloflask,https://github.com/greyli/helloflask,MIT License,1611
+Shabinder,SpotiFlyer,https://github.com/Shabinder/SpotiFlyer,GNU General Public License v3.0,8672
+4Freunde,null,null,null,null
+actually-colab,desktop,https://github.com/actually-colab/desktop,GNU General Public License v2.0,12
+ChaosInitiative,null,null,null,null
+djyde,cusdis,https://github.com/djyde/cusdis,GNU General Public License v3.0,2306
+openms,OpenMS,https://github.com/OpenMS/OpenMS,Other,402
+librespeed,speedtest,https://github.com/librespeed/speedtest,GNU Lesser General Public License v3.0,9685
+nvim-treesitter,nvim-treesitter,https://github.com/nvim-treesitter/nvim-treesitter,Apache License 2.0,7088
+AFLplusplus,AFLplusplus,https://github.com/AFLplusplus/AFLplusplus,Apache License 2.0,3744
+AFLpluplus,null,null,null,null
+micropython,micropython,https://github.com/micropython/micropython,Other,16750
+tuganimana,sd4,https://github.com/tuganimana/sd4,null,1
+pytorch-ignite,code-generator,https://github.com/pytorch-ignite/code-generator,"BSD 3-Clause ""New"" or ""Revised"" License",35
+pterodactyl-intaller,null,null,null,null
+pytorch,pytorch,https://github.com/pytorch/pytorch,Other,67891
+whenwemeetapp,null,null,null,null
+greatreetfund,null,null,null,null
+buskill,buskill-app,https://github.com/BusKill/buskill-app,GNU General Public License v3.0,86
+skytable,skytable,https://github.com/skytable/skytable,GNU Affero General Public License v3.0,1627
+IntellectualSites,FastAsyncWorldEdit,https://github.com/IntellectualSites/FastAsyncWorldEdit,Other,489
+openinput-fw,openinput,https://github.com/openinput-fw/openinput,MIT License,55
+dimsemenov,null,null,null,null
+tslocum,null,null,null,null
+alemayhu,null,null,null,null
+curioulearning,null,null,null,null
+mebjas,null,null,null,null
+iduction,null,null,null,null
+SagerNet,null,null,null,null
+modxcm,null,null,null,null
+krzyzanowskim,null,null,null,null
+erupts,null,null,null,null
+PojavLauncherTeam,null,null,null,null
+gioui,null,null,null,null
+urse,null,null,null,null
+qingwei-li,null,null,null,null
+dreampace-academy,null,null,null,null
+arviz-dev,null,null,null,null
+oppia,null,null,null,null
+sympy,null,null,null,null
+pymc-dev,null,null,null,null
+smug,null,null,null,null
+eneshecan,null,null,null,null
+crowbartools,null,null,null,null
+vignetteapp,null,null,null,null
+wintercms,null,null,null,null
+auroral-ui,null,null,null,null
+eiblog,null,null,null,null
+Pinpoint-Simulation,null,null,null,null
+mundoalem,null,null,null,null
+olid,null,null,null,null
+aofdev,null,null,null,null
+gfx-rs,null,null,null,null
+maplibre,null,null,null,null
+semantic-release,null,null,null,null
+La-MYNE,null,null,null,null
+dbgate,null,null,null,null
+paceship-prompt,null,null,null,null
+arborchat,null,null,null,null
+ueberdosis,null,null,null,null
+ZoneMinder,null,null,null,null
+wegylexy,null,null,null,null
+naviapps,null,null,null,null
+writefreely,null,null,null,null
+marcingminki,null,null,null,null
+foscord,null,null,null,null
+openseadragon,null,null,null,null
+barebonemvc,null,null,null,null
+atata-framework,null,null,null,null
+MuntashirAkon,null,null,null,null
+upabase,null,null,null,null
+openmr,null,null,null,null
+elm-tooling,null,null,null,null
+yezyilomo,null,null,null,null
+funk-team,null,null,null,null
+yunsii,null,null,null,null
+BRL-CAD,null,null,null,null
+kobra-dev,null,null,null,null
+R030t1,null,null,null,null
+scanapi,null,null,null,null
+MCPI-Revival,null,null,null,null
+fpvout,null,null,null,null
+ReceiptManager,null,null,null,null
+muhammadsammy,null,null,null,null
+OlehKulykov,null,null,null,null
+miguelgrinberg,null,null,null,null
+marak,null,null,null,null
+StephenKelly,null,null,null,null
+ctripcorp,null,null,null,null
+chinesedfan,null,null,null,null
+Civic-Hacker-Network,null,null,null,null
+tzk,null,null,null,null
+threema-ch,null,null,null,null
+codeiscience,null,null,null,null
+vexx32,null,null,null,null
+ankitpokhrel,null,null,null,null
+blairmunroakua,null,null,null,null
+tomachinz,null,null,null,null
+iptv-org,null,null,null,null
+Jermolene,null,null,null,null
+atropy,null,null,null,null
+kornia,null,null,null,null
+WofWca,null,null,null,null
+boardgameio,null,null,null,null
+aviomaritn,null,null,null,null
+bestofjs,null,null,null,null
+epiccatle,null,null,null,null
+xvoland,null,null,null,null
+Phi-Mercuric,null,null,null,null
+RomanSoloweow,null,null,null,null
+mehdihadeli,null,null,null,null
+burhanrashid52,null,null,null,null
+LuxCoreRender,null,null,null,null
+Telehealer,null,null,null,null
+BV5Tl0N,null,null,null,null
+Bahmni,null,null,null,null
+ksnip,null,null,null,null
+getsolus,null,null,null,null
+newbe36524,null,null,null,null
+material-table-core,null,null,null,null
+vuerd,null,null,null,null
+pranavpandey,null,null,null,null
+phpstan,null,null,null,null
+robocrax,null,null,null,null
+zdproduction,null,null,null,null
+trendmicro-frontend,null,null,null,null
+LittleLightForDestiny,null,null,null,null
+hypeserver,null,null,null,null
+distributeaid,null,null,null,null
+codebumble,null,null,null,null
+elijah-trillionz,null,null,null,null
+tinkerun,null,null,null,null
+ueberdois,null,null,null,null
+yj,null,null,null,null
+hunterofbook,null,null,null,null
+joingarden,null,null,null,null
+umberware,null,null,null,null
+bvaughn,null,null,null,null
+gutzbenj,null,null,null,null
+rosano,null,null,null,null
+Dexu,null,null,null,null
+DeineAgenturUG,null,null,null,null
+EdgeTranslate,null,null,null,null
+suenot,null,null,null,null
+cannlytics,null,null,null,null
+tidalcycle,null,null,null,null
+cannlytic,null,null,null,null
+Airsaid,null,null,null,null
+nortikin,null,null,null,null
+bakoorahnin,null,null,null,null
+DEgITx,null,null,null,null
+Bloc,null,null,null,null
+OpenHospitalityNetwork,null,null,null,null
+TabbycatDebate,null,null,null,null
+compose-museum,null,null,null,null
+cpte-org,null,null,null,null
+ayoiaiah,null,null,null,null
+oasis-engine,null,null,null,null
+c1phy,null,null,null,null
+TarekRaafat,null,null,null,null
+javaitic,null,null,null,null
+ifq8,null,null,null,null
+coding-coach,null,null,null,null
+azjezz,null,null,null,null
+virtualvivek,null,null,null,null
+bokeh,null,null,null,null
+cantera,null,null,null,null
+econ-ark,null,null,null,null
+fsd-nodejs,null,null,null,null
+sktime,null,null,null,null
+chrxh,null,null,null,null
+ali2210,null,null,null,null
+shankardevy,null,null,null,null
+cycleplanet,cycle-planet,https://github.com/cycleplanet/cycle-planet,MIT License,10
+caffoldly,null,null,null,null
+BanchanArt,banchan,https://github.com/BanchanArt/banchan,Other,114
+feather-studio,null,null,null,null
+drronuarez,null,null,null,null
+FaialHossain,null,null,null,null
+jsdecena,laracom,https://github.com/jsdecena/laracom,null,1781
+fatchen,null,null,null,null
+openknowledgebe,W4P,https://github.com/openknowledgebe/W4P,MIT License,15
+comunica,comunica,https://github.com/comunica/comunica,Other,362
+redwoodj,null,null,null,null
+hack-pad,hackpad,https://github.com/hack-pad/hackpad,Apache License 2.0,473
+openwpm,OpenWPM,https://github.com/openwpm/OpenWPM,Other,1279
+federated-wiki,backup-wiki,https://github.com/federated-wiki/backup-wiki,MIT License,2
+westpa,westpa,https://github.com/westpa/westpa,MIT License,166
+external-ecrets,null,null,null,null
+ammarmukadam367,ammar-github-slideshow,https://github.com/ammarmukadam367/ammar-github-slideshow,MIT License,1
+AirenSoft,OvenMediaEngine,https://github.com/AirenSoft/OvenMediaEngine,GNU Affero General Public License v3.0,2051
+coop-cloud,null,null,null,null
+Kareadita,Kavita,https://github.com/Kareadita/Kavita,GNU General Public License v3.0,2897
+stefh,FluentBuilder,https://github.com/StefH/FluentBuilder,MIT License,125
+fabmob,velolibre,https://github.com/fabmob/velolibre,MIT License,22
+visualpython,visualpython,https://github.com/visualpython/visualpython,Other,660
+AlterMundi,elRepo.io-android,https://github.com/AlterMundi/elRepo.io-android,GNU Affero General Public License v3.0,4
+gita,BhagavadGita,https://github.com/gita/BhagavadGita,GNU General Public License v3.0,152
+ishiki-lab,ESP8266_Wifi_Lantern,https://github.com/ishiki-lab/ESP8266_Wifi_Lantern,Apache License 2.0,1
+NamelessMC,Nameless,https://github.com/NamelessMC/Nameless,MIT License,567
+noebit,null,null,null,null
+omigroup,omigroup,https://github.com/omigroup/omigroup,null,319
+lencx,ChatGPT,https://github.com/lencx/ChatGPT,GNU Affero General Public License v3.0,37899
+jamilervicos,null,null,null,null
+tlinspector,null,null,null,null
+streamxhub,null,null,null,null
+DarienCatro,null,null,null,null
+conda-forge,null,null,null,null
+nopesdotcom,null,null,null,null
+Cecilapp,null,null,null,null
+APUMM,null,null,null,null
+peepoclub,null,null,null,null
+CertainLach,null,null,null,null
+flipt-io,null,null,null,null
+gypyrides,null,null,null,null
+Tech-Phantom,null,null,null,null
+nextauthjs,null,null,null,null
+endoflife-date,null,null,null,null
+RSSerpent,null,null,null,null
+phoenix-tune,null,null,null,null
+earthtar-project,null,null,null,null
+guilded,null,null,null,null
+alexandresanlim,null,null,null,null
+InsightSoftwareConsortium,null,null,null,null
+jump-dev,null,null,null,null
+matplotlib,null,null,null,null
+lfortran,null,null,null,null
+MDAnalyis,null,null,null,null
+mlpack,null,null,null,null
+networkx,null,null,null,null
+nteract,null,null,null,null
+Open-MBEE,null,null,null,null
+panda-dev,null,null,null,null
+PyTable,null,null,null,null
+QuantEcon,null,null,null,null
+JamineWells,null,null,null,null
+scikit-image,null,null,null,null
+SciML,null,null,null,null
+scipy,null,null,null,null
+hogun-toolbox,null,null,null,null
+tan-dev,null,null,null,null
+unpy,null,null,null,null
+pydata,null,null,null,null
+yt-project,null,null,null,null
+zarr-developer,null,null,null,null
+Participatorygrantmakingcommunity,null,null,null,null
+intellij-frege,null,null,null,null
+nicolasparada,null,null,null,null
+TSQLLint,null,null,null,null
+andreamariadb,null,null,null,null
+alekcz,null,null,null,null
+negrodev,null,null,null,null
+openarchive,null,null,null,null
+tenacityteam,null,null,null,null
+jreleaser,null,null,null,null
+flatpak,null,null,null,null
+OberverMC,null,null,null,null
+eshackathon,null,null,null,null
+andrea-mariadb-2,null,null,null,null
+alexdodonov,null,null,null,null
+eclectic-bytech,null,null,null,null
+Naborhchikov,null,null,null,null
+mingyaulee,null,null,null,null
+tonking,null,null,null,null
+MayGo,null,null,null,null
+jsdelivr,null,null,null,null
+brazen,null,null,null,null
+borgbackup,null,null,null,null
+irkula,null,null,null,null
+haal,null,null,null,null
+RoboTech-URJC,null,null,null,null
+TeamUltroid,null,null,null,null
+pikepdf,null,null,null,null
+jsx-eslint,null,null,null,null
+418ec,null,null,null,null
+masumsoft,null,null,null,null
+pdm-project,null,null,null,null
+plumier,null,null,null,null
+Amog-OS,null,null,null,null
+harmonyland,null,null,null,null
+riffcc,null,null,null,null
+YunYouJun,null,null,null,null
+vlab-reearch,null,null,null,null
+techknowlogick,null,null,null,null
+crowcpp,null,null,null,null
+mrchypark,null,null,null,null
+import-js,null,null,null,null
+troyeguo,null,null,null,null
+0xShire,null,null,null,null
+Dreamacro,null,null,null,null
+MonitorControl,null,null,null,null
+Warzone2100,null,null,null,null
+giorgosart,null,null,null,null
+heylinda,null,null,null,null
+zummon,null,null,null,null
+LingHuo-net,null,null,null,null
+an-antonio-review,null,null,null,null
+what-blog,null,null,null,null
+31z4,null,null,null,null
+Melvinhgf-Solution,null,null,null,null
+MattWilliam,null,null,null,null
+Eleventy-Meetup,null,null,null,null
+etahamad,null,null,null,null
+Tim,null,null,null,null
+micro-zoe,null,null,null,null
+schrodinger-hat,null,null,null,null
+michaeljones,null,null,null,null
+FranciSimon,null,null,null,null
+videndum,null,null,null,null
+GeyserMC,null,null,null,null
+Auto-DL,null,null,null,null
+BnademOverflow,null,null,null,null
+Ovaldorino,null,null,null,null
+PaperMC,null,null,null,null
+nintrea,null,null,null,null
+nadeesha,null,null,null,null
+h-enk,null,null,null,null
+numldesign,null,null,null,null
+hno3-game,null,null,null,null
+xmonad,null,null,null,null
+withastro,null,null,null,null
+2b2tjb,null,null,null,null
+JuliaDataScience,null,null,null,null
+KaTeX,null,null,null,null
+dev-capertheghost,null,null,null,null
+mcbedrock,null,null,null,null
+aplu-framework,null,null,null,null
+devyun,null,null,null,null
+BlockHorizon,null,null,null,null
+AnniePickering,null,null,null,null
+TaKO8Ki,null,null,null,null
+PseudoTV,null,null,null,null
+hand-dot,null,null,null,null
+MrXujiang,null,null,null,null
+venturebeyond,null,null,null,null
+dadoabertosdefeira,null,null,null,null
+harfbuzz,null,null,null,null
+kovacsv,null,null,null,null
+serayuzgur,null,null,null,null
+domainapi,null,null,null,null
+rillrate,null,null,null,null
+Dexecure,null,null,null,null
+secdsm,null,null,null,null
+openbeta,null,null,null,null
+BlockathonMC,null,null,null,null
+dcnitrourkela,null,null,null,null
+juniper-garden,null,null,null,null
+dipu-bd,null,null,null,null
+darkmatter18,null,null,null,null
+QAtet-Inc,null,null,null,null
+tsolucio,null,null,null,null
+JWock82,null,null,null,null
+roghib,null,null,null,null
+jimbethancourt,RefactorFirst,https://github.com/jimbethancourt/RefactorFirst,Apache License 2.0,242
+ZsgsDesign,NOJ,https://github.com/ZsgsDesign/NOJ,MIT License,919
+sammymwangangi,TALL-Dashboard,https://github.com/sammymwangangi/TALL-Dashboard,MIT License,206
+ZgsDesign,null,null,null,null
+technofab11,AmongUsIO,https://github.com/TECHNOFAB11/AmongUsIO,GNU General Public License v3.0,12
+louislam,uptime-kuma,https://github.com/louislam/uptime-kuma,MIT License,34416
+Samskrita-Bharati,zat.am,https://github.com/Samskrita-Bharati/zat.am,GNU General Public License v3.0,110
+keshavbhatt,whatsie,https://github.com/keshavbhatt/whatsie,MIT License,977
+blockchange,docker-test,https://github.com/BlockChange/docker-test,null,0
+The-Balance-FFXIV,balance-static,https://github.com/The-Balance-FFXIV/balance-static,null,15
+waaeabad,github-slideshow,https://github.com/waaeabad/github-slideshow,MIT License,1
+Juanpe,SkeletonView,https://github.com/Juanpe/SkeletonView,MIT License,11927
+ajbura,arewemojiyet,https://github.com/ajbura/arewemojiyet,The Unlicense,0
+AlannaIrving,null,null,null,null
+07akioni,xicons,https://github.com/07akioni/xicons,null,977
+prest,prest,https://github.com/prest/prest,MIT License,3826
+vuepress-theme-hope,vuepress-theme-hope,https://github.com/vuepress-theme-hope/vuepress-theme-hope,MIT License,1291
+byrd-laif,soilMakers,https://github.com/byrd-laif/soilMakers,null,1
+hakell,null,null,null,null
+netless-io,flat,https://github.com/netless-io/flat,MIT License,4795
+gradflow,null,null,null,null
+reconmap,reconmap,https://github.com/reconmap/reconmap,Apache License 2.0,354
+seatsurfing,backend,https://github.com/seatsurfing/backend,GNU General Public License v3.0,23
+poolifier,poolifier,https://github.com/poolifier/poolifier,MIT License,210
+h-REA,hREA,https://github.com/h-REA/hREA,Other,121
+HazelAponDino,null,null,null,null
+breamware,sidekiq-batch,https://github.com/breamware/sidekiq-batch,MIT License,323
+tranitionnetwork,null,null,null,null
+TeamPiped,Piped,https://github.com/TeamPiped/Piped,GNU Affero General Public License v3.0,4672
+twilight-rs,twilight,https://github.com/twilight-rs/twilight,ISC License,549
+neonowl,null,null,null,null
+fslaborg,null,null,null,null
+vatpac-technology,null,null,null,null
+TheThingPlanet,null,null,null,null
+maakhane-io,null,null,null,null
+kodingdotninja,null,null,null,null
+golang-module,null,null,null,null
+MichelleJoeph,null,null,null,null
+rohanrhu,null,null,null,null
+democracytool,null,null,null,null
+woodpecker-ci,null,null,null,null
+vercel,null,null,null,null
+noxq,null,null,null,null
+SenViewIoT,null,null,null,null
+SelectorHub,null,null,null,null
+traintatic,null,null,null,null
+resuminator,null,null,null,null
+DevNet,null,null,null,null
+openml,null,null,null,null
+pytatgen,null,null,null,null
+typegoose,null,null,null,null
+aa19120,null,null,null,null
+AravisProject,null,null,null,null
+compassionprojects,null,null,null,null
+pyenv,null,null,null,null
+ViewTube,null,null,null,null
+fullstackhero,null,null,null,null
+innocces,null,null,null,null
+bluebanquie,null,null,null,null
+AtulGrover,null,null,null,null
+khanmanan,null,null,null,null
+estruyf,null,null,null,null
+babybuddy,null,null,null,null
+thorium-im,null,null,null,null
+regel,null,null,null,null
+luca-ceri,null,null,null,null
+FCoftwares,null,null,null,null
+cleaninights,null,null,null,null
+ResilienceWeb,null,null,null,null
+naen-nae,null,null,null,null
+simplyhexagonal,null,null,null,null
+cynicdogg,null,null,null,null
+mendelphotography,null,null,null,null
+rtklibexplorer,null,null,null,null
+agrover112,null,null,null,null
+ezflutter,null,null,null,null
+countrymuicfy,null,null,null,null
+critianvogel,null,null,null,null
+beaconny-net,null,null,null,null
+ELYART,null,null,null,null
+wikicensorship,null,null,null,null
+hibiken,null,null,null,null
+centminmod,null,null,null,null
+sh-dv,null,null,null,null
+aosus,null,null,null,null
+ItMrNatural,null,null,null,null
+jspsych,null,null,null,null
+BetonQuest,null,null,null,null
+Spooky-Manufacturing,null,null,null,null
+Laravel-Lang,null,null,null,null
+decidim,null,null,null,null
+sequelize,null,null,null,null
+nordix,null,null,null,null
+nextui-org,null,null,null,null
+meteyou,null,null,null,null
+DivideProject,null,null,null,null
+coollabsio,null,null,null,null
+blislabs,null,null,null,null
+package-wizard,null,null,null,null
+TheDragonCode,null,null,null,null
+Nexxu-LMT,null,null,null,null
+ocakampala,null,null,null,null
+stride3d,null,null,null,null
+rahulbanerjee26,null,null,null,null
+Andrey-Voinalovych,null,null,null,null
+faialsayed10,null,null,null,null
+Megabit,null,null,null,null
+RandomCoderOrg,null,null,null,null
+314-education,null,null,null,null
+wujimacha,null,null,null,null
+wikicenorship,null,null,null,null
+okfe,null,null,null,null
+Vuepic,null,null,null,null
+synrc,null,null,null,null
+groupoid,null,null,null,null
+AppIntro,null,null,null,null
+avmnu-sng,null,null,null,null
+relayimpact,null,null,null,null
+handlingar,null,null,null,null
+thenewoil,null,null,null,null
+hahfyi,null,null,null,null
+kinecttovr,null,null,null,null
+HelixProjectID,null,null,null,null
+caoccao,null,null,null,null
+Dehadeeth-Thisarana,null,null,null,null
+calapedia,null,null,null,null
+walkor,null,null,null,null
+alignwaiver,null,null,null,null
+leaderboardgg,null,null,null,null
+WebReadyProject,null,null,null,null
+Freetones,null,null,null,null
+Open-Science-Community-Saudi-Arabia,null,null,null,null
+waydabber,null,null,null,null
+php,null,null,null,null
+ssleptsov,null,null,null,null
+darthcloud,null,null,null,null
+sceneview,null,null,null,null
+darketcollective,null,null,null,null
+immer-space,null,null,null,null
+ynrc,null,null,null,null
+pbdce,null,null,null,null
+thatcatdrout,null,null,null,null
+rohith-reedharan,null,null,null,null
+abily-os,null,null,null,null
+sabily-os,null,null,null,null
+pyodide,null,null,null,null
+sapphiredev,null,null,null,null
+CouncilDataProject,null,null,null,null
+Growth-UI,null,null,null,null
+acend-collective,null,null,null,null
+EdgeTX,null,null,null,null
+trangedaze,null,null,null,null
+hylozoic,null,null,null,null
+skylicht-lab,null,null,null,null
+romanithere,null,null,null,null
+stevermeister,null,null,null,null
+flank,null,null,null,null
+sarapis,null,null,null,null
+Homebrew,null,null,null,null
+gfcstudio,null,null,null,null
+embroidermodder,null,null,null,null
+Embroidermodder,null,null,null,null
+davidfig,null,null,null,null
+ananto30,null,null,null,null
+makerpace-lesvos,null,null,null,null
+playframework,null,null,null,null
+einfach-gaming,null,null,null,null
+DeepShift-Labs,null,null,null,null
+lacymorrow,null,null,null,null
+chasset,null,null,null,null
+3lang3,null,null,null,null
+ElMassimo,null,null,null,null
+ivan-dalmet,null,null,null,null
+National-Shattering-Silence-Coalition,null,null,null,null
+101Schemes-io-L-L-C,null,null,null,null
+Wondermarin,null,null,null,null
+webarkit,null,null,null,null
+flavorjone,null,null,null,null
+demking,null,null,null,null
+biketagorg,null,null,null,null
+iceymann18777,null,null,null,null
+staniel359,null,null,null,null
+FFXIVITA,DalamudPlugins,https://github.com/ffxivita/DalamudPlugins,null,1
+yuezk,chatgpt-mirror,https://github.com/yuezk/chatgpt-mirror,null,1212
+Aletheia-Data,app.aletheiadata.org,https://github.com/Aletheia-Data/app.aletheiadata.org,MIT License,2
+jpbruyere,vkvg,https://github.com/jpbruyere/vkvg,MIT License,663
+SecJS,Generator,https://github.com/SecJS/Generator,MIT License,10
+hack4impact-utk,mindversity-website,https://github.com/hack4impact-utk/mindversity-website,MIT License,5
+waydroid,waydroid,https://github.com/waydroid/waydroid,GNU General Public License v3.0,5467
+termud,github,https://github.com/termud/github,null,0
+celendi,Brand-Kit,https://github.com/Celendi/Brand-Kit,Other,4
+gr2m,awesome-buttons,https://github.com/gr2m/awesome-buttons,null,415
+mecha-cms,mecha,https://github.com/mecha-cms/mecha,GNU General Public License v3.0,151
+swiftyfinch,Rugby,https://github.com/swiftyfinch/Rugby,MIT License,548
+wwwlogic,all-in-one-video-gallery-2.6.0-featured-image-fix,https://github.com/wwwlogic/all-in-one-video-gallery-2.6.0-featured-image-fix,GNU General Public License v2.0,0
+zhiqwang,yolov5-rt-stack,https://github.com/zhiqwang/yolov5-rt-stack,GNU General Public License v3.0,662
+Roslovets-Inc,strapi-plugin-ckeditor5,https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5,null,247
+unigraph-dev,unigraph-dev,https://github.com/unigraph-dev/unigraph-dev,MIT License,612
+mgilangjanuar,teledrive,https://github.com/mgilangjanuar/teledrive,GNU General Public License v3.0,1662
+codenteq,laerx,https://github.com/codenteq/laerx,MIT License,100
+rhash,RHash,https://github.com/rhash/RHash,BSD Zero Clause License,493
+umbrella22,electron-vue-template,https://github.com/umbrella22/electron-vue-template,Other,414
+jrottenberg,ffmpeg,https://github.com/jrottenberg/ffmpeg,Apache License 2.0,1233
+monfero,eolicosasinon,https://github.com/monfero/eolicosasinon,GNU General Public License v3.0,2
+nbgrp,onelogin-saml-bundle,https://github.com/nbgrp/onelogin-saml-bundle,"BSD 3-Clause ""New"" or ""Revised"" License",27
+phpcommunity,phptestfest.org,https://github.com/phpcommunity/phptestfest.org,Apache License 2.0,33
+opgginc,styleguide,https://github.com/opgginc/styleguide,MIT License,35
+xrfoundation,three-physx,https://github.com/XRFoundation/three-physx,null,14
+XRFoundation,three-physx,https://github.com/XRFoundation/three-physx,null,14
+atomicojs,atomico,https://github.com/atomicojs/atomico,MIT License,976
+top-think,think,https://github.com/top-think/think,Other,7768
+gongfuxiang,shopxo,https://github.com/gongfuxiang/shopxo,MIT License,2250
+flypray,null,null,null,null
+lostdesign,null,null,null,null
+Theyphania,null,null,null,null
+colouredflower,null,null,null,null
+kklldog,null,null,null,null
+gOzaru,null,null,null,null
+youzan,null,null,null,null
+CorralPeltzer,null,null,null,null
+doctrine,null,null,null,null
+xomegaprime,null,null,null,null
+phpbb,null,null,null,null
+BlisRoms-x86,null,null,null,null
+ricardyn,null,null,null,null
+Shiba-Chain,null,null,null,null
+uper-reality,null,null,null,null
+Tartarla,null,null,null,null
+PurpurMC,null,null,null,null
+EqualMa,null,null,null,null
+neocotch,null,null,null,null
+sirixdb,null,null,null,null
+bazel-contrib,null,null,null,null
+XRPL-Lab,null,null,null,null
+llvm,null,null,null,null
+ufoym,null,null,null,null
+0xtraw,null,null,null,null
+Comp-Labs,null,null,null,null
+higenku,null,null,null,null
+Indi-Lab,null,null,null,null
+tj-actions,null,null,null,null
+FalconMediaSocial,null,null,null,null
+osrs,null,null,null,null
+Typetura,null,null,null,null
+hashank0202,null,null,null,null
+dv8fromtheworld,null,null,null,null
+buggregator,null,null,null,null
+thesayyn,null,null,null,null
+ng-girl,null,null,null,null
+RSS-Bridge,null,null,null,null
+Otter-IT,null,null,null,null
+Keldos-Li,null,null,null,null
+Techna-Dicord,null,null,null,null
+floydspace,null,null,null,null
+MehediH,null,null,null,null
+Xtao-Labs,null,null,null,null
+BlisRoms,null,null,null,null
+youngchief-btw,null,null,null,null
+ignalk,null,null,null,null
+livehelperchat,null,null,null,null
+jupyter,null,null,null,null
+tistory-projects,null,null,null,null
+Saleor-Multi-Vendor,null,null,null,null
+arikaim,null,null,null,null
+fuegocreator,null,null,null,null
+higherordermethod,null,null,null,null
+fluidnumeric,null,null,null,null
+Political-Awarenes-Platform,null,null,null,null
+AntmJS,null,null,null,null
+AvianNetwork,null,null,null,null
+Remote-Workhop,null,null,null,null
+avpaula,null,null,null,null
+h3city,null,null,null,null
+MakUrSpace,null,null,null,null
+entware,null,null,null,null
+FrankFu916,null,null,null,null
+ChuckerTeam,null,null,null,null
+detekt,null,null,null,null
+orcasound,null,null,null,null
+robotack,null,null,null,null
+Waynejerry,null,null,null,null
+Wayne-jerry,null,null,null,null
+amitguptagwl,null,null,null,null
+ciderapp,null,null,null,null
+nVuln,null,null,null,null
+thetrukture,null,null,null,null
+actix,null,null,null,null
+jbangdev,null,null,null,null
+crcn,null,null,null,null
+aio-libs,null,null,null,null
+pylabel-project,null,null,null,null
+twohouronelife,null,null,null,null
+olidinvoice,null,null,null,null
+contour-terminal,null,null,null,null
+africandeveloper,null,null,null,null
+Jaysmito101,null,null,null,null
+stopmodreposts,null,null,null,null
+ManimCommunity,null,null,null,null
+YajanaRao,null,null,null,null
+radicaldataproject,null,null,null,null
+Binance-box,null,null,null,null
+veres-xyz,null,null,null,null
+projectmatris,null,null,null,null
+dicord-net,null,null,null,null
+Futekov,null,null,null,null
+arivpro,null,null,null,null
+lumeland,null,null,null,null
+Binance-C,null,null,null,null
+changesets,null,null,null,null
+c9s,null,null,null,null
+cup-lang,null,null,null,null
+vyos,null,null,null,null
+kadobot,null,null,null,null
+mohitmc,null,null,null,null
+code4mk,null,null,null,null
+poweradmin,null,null,null,null
+drutopia,null,null,null,null
+dmbaturin,null,null,null,null
+jkirkcaldy,null,null,null,null
+accel-ppp,null,null,null,null
+XKNX,null,null,null,null
+finnhvman,null,null,null,null
+oilshell,null,null,null,null
+PrismarineJS,null,null,null,null
+ExpressLRS,null,null,null,null
+cshum,null,null,null,null
+Gurm-Studio,null,null,null,null
+Brain-up,null,null,null,null
+cybergrunge-op,null,null,null,null
+incu6us,null,null,null,null
+hyperhyperspace,null,null,null,null
+digglife,null,null,null,null
+lamdu,null,null,null,null
+nekobin,null,null,null,null
+DSekon,null,null,null,null
+Jerry7,null,null,null,null
+aqzhyi,null,null,null,null
+Icon-Shelf,null,null,null,null
+AlphaKR93,null,null,null,null
+womeninrobotics,null,null,null,null
+Chatmosphere,null,null,null,null
+shadeed,null,null,null,null
+design-tokens,null,null,null,null
+wildmeorg,null,null,null,null
+webrecorder,null,null,null,null
+hackers-collective,null,null,null,null
+toregence,null,null,null,null
+delivergence,null,null,null,null
+webqit,null,null,null,null
+bigbluebutton,null,null,null,null
+treetsidesoftware,null,null,null,null
+streetsidesoftware,null,null,null,null
+simon824,null,null,null,null
+octrix11,null,null,null,null
+opticlu,null,null,null,null
+koolamusic,null,null,null,null
+QuiltMC,null,null,null,null
+vhyrro,null,null,null,null
+ihanapp,null,null,null,null
+AteroidOS,null,null,null,null
+al-one,null,null,null,null
+101-cy,null,null,null,null
+101cy,null,null,null,null
+typeddjango,awesome-python-typing,https://github.com/typeddjango/awesome-python-typing,Creative Commons Attribution Share Alike 4.0 International,1372
+inikulin,parse5,https://github.com/inikulin/parse5,MIT License,3342
+BuddiesOfBudgie,budgie-desktop,https://github.com/BuddiesOfBudgie/budgie-desktop,GNU General Public License v2.0,678
+flutternetwork,WiFiFlutter,https://github.com/flutternetwork/WiFiFlutter,null,245
+markdown-it,markdown-it,https://github.com/markdown-it/markdown-it,MIT License,15572
+argent-coding,null,null,null,null
+CuriousLearner,django-phone-verify,https://github.com/CuriousLearner/django-phone-verify,GNU General Public License v3.0,234
+xiaoxunyao,null,null,null,null
+xiao-akatsuki,axios,https://github.com/xiao-akatsuki/axios,Apache License 2.0,136
+libktx,ktx,https://github.com/libktx/ktx,Creative Commons Zero v1.0 Universal,1234
+public-apis,public-apis,https://github.com/public-apis/public-apis,MIT License,244457
+calebdwilliams,construct-style-sheets,https://github.com/calebdwilliams/construct-style-sheets,MIT License,133
+KRTirtho,spotube,https://github.com/KRTirtho/spotube,Other,3268
+pomgod,GeoAR,https://github.com/pomgod/GeoAR,null,0
+SecKC,SecKCoin,https://github.com/SecKC/SecKCoin,null,11
+gicafer,null,null,null,null
+jlord,git-it-electron,https://github.com/jlord/git-it-electron,"BSD 2-Clause ""Simplified"" License",4409
+habitat-tech,null,null,null,null
+fontello,fontello,https://github.com/fontello/fontello,MIT License,6878
+PyCQA,isort,https://github.com/PyCQA/isort,MIT License,5855
+cod-ccdo,null,null,null,null
+kovshenin,sail,https://github.com/kovshenin/sail,GNU General Public License v3.0,161
+djezzzl,database_consistency,https://github.com/djezzzl/database_consistency,MIT License,823
+ppy,osu,https://github.com/ppy/osu,MIT License,12434
+IFCjs,web-ifc-viewer,https://github.com/IFCjs/web-ifc-viewer,MIT License,823
+dotnet,aspnetcore,https://github.com/dotnet/aspnetcore,MIT License,31953
+Dev-Jeromebaek,awesome-web-styling,https://github.com/Dev-Jeromebaek/awesome-web-styling,MIT License,138
+KodepandaID,go-onesignal-sdk,https://github.com/KodepandaID/go-onesignal-sdk,Apache License 2.0,2
+marmelab,react-admin,https://github.com/marmelab/react-admin,MIT License,22338
+SysSn13,leetcode-rating-predictor,https://github.com/SysSn13/leetcode-rating-predictor,MIT License,514
+project-error,null,null,null,null
+hlahlahtwe.fang.7,null,null,null,null
+OlivierBinette,null,null,null,null
+ihayu-c,null,null,null,null
+PGYER,null,null,null,null
+otobus,null,null,null,null
+mustafaturan,null,null,null,null
+victorakap,null,null,null,null
+arcaelas,null,null,null,null
+CyberMind-FR,null,null,null,null
+koman21,null,null,null,null
+brainatplay,null,null,null,null
+xfox111,null,null,null,null
+beehaw-org,null,null,null,null
+dtack-js,null,null,null,null
+ez8-co,null,null,null,null
+orca-zhang,null,null,null,null
+evrimagaci,null,null,null,null
+hannadrehman,null,null,null,null
+MuntahirAkon,null,null,null,null
+BossHobby,null,null,null,null
+almalinux,null,null,null,null
+conceptminer1,null,null,null,null
+mwmbl,null,null,null,null
+mongock,null,null,null,null
+MaximKing1,null,null,null,null
+mawaqit,null,null,null,null
+vadimdemedes,null,null,null,null
+softmaple,null,null,null,null
+oceanroleplay,null,null,null,null
+thysultan,null,null,null,null
+matnbaz,null,null,null,null
+JustFly1984,null,null,null,null
+pubink,null,null,null,null
+halcyon-dayz,null,null,null,null
+interactions-py,null,null,null,null
+yihui-he,null,null,null,null
+linearmouse,null,null,null,null
+adelsz,null,null,null,null
+openmultiplayer,null,null,null,null
+shenruisi,null,null,null,null
+octree-gva,null,null,null,null
+orcaound,null,null,null,null
+co-cah,null,null,null,null
+virejdasani,null,null,null,null
+MoquitoOS,null,null,null,null
+jwenjian,null,null,null,null
+openframework,null,null,null,null
+Project-Books,null,null,null,null
+vemel,null,null,null,null
+damentz,null,null,null,null
+smxi,null,null,null,null
+gaplo917,null,null,null,null
+bluncher,null,null,null,null
+mgrachev,null,null,null,null
+casualsnek,null,null,null,null
+byancode,null,null,null,null
+skia4delphi,null,null,null,null
+Neptunechain-inc,null,null,null,null
+weapp-socketio,null,null,null,null
+thegreenwebfoundation,null,null,null,null
+dynoxxpetrah,null,null,null,null
+pavankataria,null,null,null,null
+forgetgame,null,null,null,null
+mellium,null,null,null,null
+charlotte-ruby,null,null,null,null
+SonicCloudOrg,null,null,null,null
+kurd-cc,null,null,null,null
+boa-dev,null,null,null,null
+eapo,null,null,null,null
+marton-balaz-kovacs,null,null,null,null
+keithprinkey-op,null,null,null,null
+KeithPrinkey-ops,null,null,null,null
+FlechazoPh,null,null,null,null
+packerhift,null,null,null,null
+HoudiniGraphQL,null,null,null,null
+fonp,null,null,null,null
+fintechee,null,null,null,null
+myx-labs,null,null,null,null
+MinJieLiu,null,null,null,null
+thabomakhele,null,null,null,null
+synfig-ru,null,null,null,null
+vcborn,null,null,null,null
+Ashutosh00710,null,null,null,null
+audapoli,null,null,null,null
+PrionArt,null,null,null,null
+MDMDAAN,null,null,null,null
+dblens,null,null,null,null
+HexaliteNetwork,null,null,null,null
+yeahdongcn,null,null,null,null
+FreeCAD,null,null,null,null
+onehilltech,null,null,null,null
+test-kitchen,null,null,null,null
+sucho-archiving,null,null,null,null
+zvizvi,null,null,null,null
+spicetify,null,null,null,null
+drupalcampnj,null,null,null,null
+babycatles,null,null,null,null
+paramiddharth,null,null,null,null
+Rapptz,null,null,null,null
+SwiftyContacts,null,null,null,null
+Rahuletto,null,null,null,null
+freemocap,null,null,null,null
+Engineering-Park,null,null,null,null
+landley,null,null,null,null
+jackonkasi0,null,null,null,null
+kelthuzadx,null,null,null,null
+mater-co,null,null,null,null
+trapi-community,null,null,null,null
+anjoy8,null,null,null,null
+nepaul,null,null,null,null
+karolkozer,null,null,null,null
+apertium,null,null,null,null
+helix-editor,null,null,null,null
+binarywang,null,null,null,null
+open-source-collective,null,null,null,null
+msys2,null,null,null,null
+berryauce,null,null,null,null
+BGP100,null,null,null,null
+Caaz,null,null,null,null
+digital-zion,null,null,null,null
+bimuth,null,null,null,null
+hanami,null,null,null,null
+minlearn,null,null,null,null
+hopyo,null,null,null,null
+murat-dogan,null,null,null,null
+okikio,null,null,null,null
+ByteTerrace,null,null,null,null
+byteterrace,null,null,null,null
+trendinafrica,null,null,null,null
+A-l-y-l-e,null,null,null,null
+Bluefissure,null,null,null,null
+traight-code,null,null,null,null
+vladperchi,null,null,null,null
+OpenCannabi,null,null,null,null
+Drincann,null,null,null,null
+csstools,null,null,null,null
+cotowali,null,null,null,null
+aeara-devs,null,null,null,null
+ecoyste-ms,null,null,null,null
+Medicare-for-All-EVERYWHERE,null,null,null,null
+arjayosma,null,null,null,null
+itsnitish22,null,null,null,null
+ahmad160093,null,null,null,null
+KerygmaDigital,null,null,null,null
+BibleBot,null,null,null,null
+Dynamoid,null,null,null,null
+ngneat,null,null,null,null
+shopperlabs,null,null,null,null
+PolyMC,null,null,null,null
+ialikov,null,null,null,null
+TranDB-de,null,null,null,null
+bitmark-tandard,null,null,null,null
+openclassify,openclassify,https://github.com/openclassify/openclassify,MIT License,205
+CodeEditApp,CodeEdit,https://github.com/CodeEditApp/CodeEdit,MIT License,17422
+ygit,swiftui,https://github.com/ygit/swiftui,MIT License,1068
+caual-simulation,null,null,null,null
+peronnummer,null,null,null,null
+organiationsnummer,null,null,null,null
+imonedelpopolo,null,null,null,null
+vezel-dev,cathode,https://github.com/vezel-dev/cathode,BSD Zero Clause License,80
+nodeca,js-yaml,https://github.com/nodeca/js-yaml,MIT License,5938
+behnammodi,polyfill,https://github.com/behnammodi/polyfill,MIT License,138
+mvt-project,mvt,https://github.com/mvt-project/mvt,Other,8760
+adyanth,openwrt-tailscale-enabler,https://github.com/adyanth/openwrt-tailscale-enabler,MIT License,549
+norihiro,obs-face-tracker,https://github.com/norihiro/obs-face-tracker,GNU General Public License v2.0,251
+truecharts,charts,https://github.com/truecharts/charts,"BSD 3-Clause ""New"" or ""Revised"" License",737
+multitheftauto,mtasa-blue,https://github.com/multitheftauto/mtasa-blue,GNU General Public License v3.0,1140
+cytopia,devilbox,https://github.com/cytopia/devilbox,MIT License,4154
+5446iit,null,null,null,null
+UncleBecky,null,null,null,null
+Humanitarian-AI,IATIPlus,https://github.com/Humanitarian-AI/IATIPlus,MIT License,4
+meinkasir,null,null,null,null
+chunqiuyiyu,ervy,https://github.com/chunqiuyiyu/ervy,MIT License,1573
+raepiHQ,null,null,null,null
+OSEQorg,WOM.fm,https://github.com/OSEQorg/WOM.fm,MIT License,5
+the-hideout,tarkov-api,https://github.com/the-hideout/tarkov-api,GNU General Public License v3.0,64
+jconfcl,null,null,null,null
+jsconfcl,js-conf-chile-2020,https://github.com/JSConfCL/js-conf-chile-2020,null,6
+halodeveloper,null,null,null,null
+papiche,Astroport.ONE,https://github.com/papiche/Astroport.ONE,null,5
+fnrdev,slash-commands,https://github.com/FnrDev/slash-commands,Other,56
+mikbill,users-bot-telegram,https://github.com/mikbill/users-bot-telegram,null,5
+WomenBioinfoDataScLA,null,null,null,null
+Testausserveri,null,null,null,null
+thepassle,null,null,null,null
+placeAtlas,null,null,null,null
+lycheeverse,null,null,null,null
+html-next,null,null,null,null
+konstaui,null,null,null,null
+iconoir-icons,null,null,null,null
+saadeghi,null,null,null,null
+Red-company,null,null,null,null
+react-native-echart-pro,null,null,null,null
+mautic,null,null,null,null
+fudawiki,null,null,null,null
+highlightjs,null,null,null,null
+amberelec,null,null,null,null
+geomtats,null,null,null,null
+adarsh-goel,null,null,null,null
+TheEngineerhub,null,null,null,null
+ben-gibson,null,null,null,null
+TheFuseLab,null,null,null,null
+hikerpig,null,null,null,null
+WaftTech,null,null,null,null
+aviate-it,null,null,null,null
+Apeqcode,null,null,null,null
+GromAIDa,null,null,null,null
+subosito,null,null,null,null
+meshtastic,null,null,null,null
+nent,null,null,null,null
+Drag13,null,null,null,null
+luninuxo,null,null,null,null
+RustPython,null,null,null,null
+enspiral,null,null,null,null
+uhahidi,null,null,null,null
+nimbleedge,null,null,null,null
+stedn,null,null,null,null
+LSS-Manager,null,null,null,null
+dvarga92495,null,null,null,null
+sansyrox,null,null,null,null
+niccokunzmann,null,null,null,null
+spacedriveapp,null,null,null,null
+SrainApp,null,null,null,null
+alex-marinov,null,null,null,null
+lucide-icons,null,null,null,null
+cprabud,null,null,null,null
+contructions-incongrues,null,null,null,null
+OpenMSPSoftware,null,null,null,null
+patis-hosting,null,null,null,null
+mulforma,null,null,null,null
+Ventoy,null,null,null,null
+cfwheels,null,null,null,null
+CashlessSociety,null,null,null,null
+givetation,null,null,null,null
+tracardi,null,null,null,null
+SpaceProjectNPO,null,null,null,null
+yume-chan,null,null,null,null
+oftwareunderground,null,null,null,null
+guillaumeiabelle,null,null,null,null
+guillaumeai,null,null,null,null
+hlorus,null,null,null,null
+vifm,null,null,null,null
+springdoc,null,null,null,null
+dreameetelevision,null,null,null,null
+youlaitech,null,null,null,null
+zwave-j,null,null,null,null
+stateless-minds,null,null,null,null
+playproject-io,null,null,null,null
+wizardamigo,null,null,null,null
+dmamontov,null,null,null,null
+Leaflet,null,null,null,null
+junina-de,null,null,null,null
+cert-manager,null,null,null,null
+sealerio,null,null,null,null
+ipare,null,null,null,null
+morellodev,null,null,null,null
+Nitrux,null,null,null,null
+mhmoni25,null,null,null,null
+compiler-research,null,null,null,null
+NeekoVN,null,null,null,null
+gromaida,null,null,null,null
+aepanwarspd,null,null,null,null
+csandman,null,null,null,null
+olidjs,null,null,null,null
+sigvt,null,null,null,null
+aivot-digital,null,null,null,null
+flow-launcher,null,null,null,null
+Just-Moh-it,null,null,null,null
+netcenter,null,null,null,null
+Pipe-Runner-Lab,null,null,null,null
+GeomScale,null,null,null,null
+superseriousbusiness,null,null,null,null
+tftate,null,null,null,null
+ThaUnknown,null,null,null,null
+PKUFlyingPig,null,null,null,null
+mumuki,null,null,null,null
+emi-technologies,null,null,null,null
+coreui,null,null,null,null
+wikifox,null,null,null,null
+blazed-space,null,null,null,null
+go-rel,null,null,null,null
+PalisadoesFoundation,null,null,null,null
+Bhupesh-V,null,null,null,null
+tinymce-plugin,null,null,null,null
+greenpau,null,null,null,null
+Flis-Greenback,null,null,null,null
+ruemakarya,null,null,null,null
+termux,null,null,null,null
+21w42,null,null,null,null
+jfelipeouza,null,null,null,null
+letheanVPN,null,null,null,null
+foshostorg,null,null,null,null
+KoOnTool,null,null,null,null
+actuarialopenource,null,null,null,null
+FOSSBilling,null,null,null,null
+stephenjude,null,null,null,null
+JoinTo,null,null,null,null
+roniemartinez,null,null,null,null
+ffplayout,null,null,null,null
+Alovoa,null,null,null,null
+teknologi-pendidikan,null,null,null,null
+alextran1502,null,null,null,null
+reallyreadit,null,null,null,null
+Natka666,null,null,null,null
+noxworld-dev,null,null,null,null
+Heavy-Division,null,null,null,null
+Heavy-Diviion,null,null,null,null
+catalyt-cooperative,null,null,null,null
+betula,null,null,null,null
+jxnu-liguobin,null,null,null,null
+duguying,null,null,null,null
+opengoofy,null,null,null,null
+thegitrogerver,null,null,null,null
+ternau,null,null,null,null
+Kyomotoi,null,null,null,null
+nvh95,null,null,null,null
+openrocket,null,null,null,null
+ahaclub,null,null,null,null
+milkydeveloper,null,null,null,null
+KalinaES,null,null,null,null
+yomorun,null,null,null,null
+aaronleopold,null,null,null,null
+danny50167,null,null,null,null
+uer111192,null,null,null,null
+ShafSpecs,null,null,null,null
+hikaijin,null,null,null,null
+TheNexusCity,null,null,null,null
+sebagomez,null,null,null,null
+FluentHub,null,null,null,null
+bootstrap-vue-plus,null,null,null,null
+AtlasFoundation,null,null,null,null
+Decentralized-Intelligence-Agency,null,null,null,null
+MurciaDev,null,null,null,null
+Mini-Kun,null,null,null,null
+dhornbein,null,null,null,null
+fridaycandour,null,null,null,null
+rwf2,null,null,null,null
+KoiRealm,FishTracker,https://github.com/KoiRealm/FishTracker,MIT License,3
+xr-foundation,.github,https://github.com/xr-foundation/.github,Apache License 2.0,0
+obiba,opal,https://github.com/obiba/opal,GNU General Public License v3.0,26
+brownsugar,PPKartRider,https://github.com/brownsugar/PPKartRider,null,36
+Urbanika,.github,https://github.com/Urbanika/.github,null,2
+openprivacytech,openprivacytech.org,https://github.com/openprivacytech/openprivacytech.org,Apache License 2.0,14
+Open-Data-Product-Initiative,odps-mockup-tool,https://github.com/Open-Data-Product-Initiative/odps-mockup-tool,MIT License,0
+mvteclat,SolidarityCard,https://github.com/mvteclat/SolidarityCard,null,6
+NearByEV-Charging,null,null,null,null
+razonyang,hugo-theme-bootstrap,https://github.com/razonyang/hugo-theme-bootstrap,MIT License,383
+sebpiq,WebPd,https://github.com/sebpiq/WebPd,GNU Lesser General Public License v3.0,831
+GrabarzUndPartner,nuxt-speedkit,https://github.com/GrabarzUndPartner/nuxt-speedkit,MIT License,470
+jeffreylanters,react-unity-webgl,https://github.com/jeffreylanters/react-unity-webgl,Apache License 2.0,1444
+Attendize,Attendize,https://github.com/Attendize/Attendize,Other,3683
+tensorchord,envd,https://github.com/tensorchord/envd,Apache License 2.0,1677
+hoothin,UserScripts,https://github.com/hoothin/UserScripts,null,2007
+gotranspile,cxgo,https://github.com/gotranspile/cxgo,MIT License,243
+pratik227,quasar-admin,https://github.com/pratik227/quasar-admin,MIT License,658
+leaverou,awesomplete,https://github.com/LeaVerou/awesomplete,MIT License,6922
+datalogix,google-fonts-helper,https://github.com/datalogix/google-fonts-helper,MIT License,19
+matteobruni,tsparticles,https://github.com/matteobruni/tsparticles,MIT License,5489
+Cap-go,capacitor-updater,https://github.com/Cap-go/capacitor-updater,Mozilla Public License 2.0,319
+VE4TM,null,null,null,null
+kigster,cmake-project-template,https://github.com/kigster/cmake-project-template,MIT License,769
+materializecss,materializecss.github.io,https://github.com/materializecss/materializecss.github.io,null,0
+cybooo,corgi,https://github.com/cybooo/corgi,MIT License,18
+northle,core,https://github.com/northle/core,MIT License,4
+blazed-labs,blz-cli,https://github.com/blazed-labs/blz-cli,MIT License,1
+ferdium,ferdium-app,https://github.com/ferdium/ferdium-app,Apache License 2.0,1741
+AghaSaad04,Medical-Website,https://github.com/AghaSaad04/Medical-Website,null,5
+s3rius,null,null,null,null
+stylus,null,null,null,null
+cyprus-developer-community,null,null,null,null
+bright-spark,null,null,null,null
+M17-Project,null,null,null,null
+Graviton-Code-Editor,null,null,null,null
+TheSourcePedia,null,null,null,null
+metacpan,null,null,null,null
+ScoopInstaller,null,null,null,null
+Asuniia,null,null,null,null
+creativetimofficial,null,null,null,null
+hadolint,null,null,null,null
+LouisMazel,null,null,null,null
+ithewei,null,null,null,null
+x893,null,null,null,null
+JuliaReinforcementLearning,null,null,null,null
+A-Edge,null,null,null,null
+adrianrudnik,null,null,null,null
+capawesome-team,null,null,null,null
+oxen-io,null,null,null,null
+fantasticit,null,null,null,null
+email-markup-consortium,null,null,null,null
+Igalia,null,null,null,null
+orgs,null,null,null,null
+lucduong,null,null,null,null
+ClassicPress,null,null,null,null
+eaimodotes,null,null,null,null
+mshr-h,null,null,null,null
+debut-js,null,null,null,null
+Awesome-Image-Registration-Organization,null,null,null,null
+dslotter,null,null,null,null
+un-ts,null,null,null,null
+entronad,null,null,null,null
+opendreamnet,null,null,null,null
+SukkaW,null,null,null,null
+salvo-rs,null,null,null,null
+FISEPortal,null,null,null,null
+pixa-pics,null,null,null,null
+Panuon,null,null,null,null
+gbadev-org,null,null,null,null
+jirado,null,null,null,null
+itsnebulalol,null,null,null,null
+ZaneH,null,null,null,null
+xibyte,null,null,null,null
+reactphp,null,null,null,null
+Giorgi,null,null,null,null
+purefunctor,null,null,null,null
+jointerlucas,null,null,null,null
+wangeditor-team,null,null,null,null
+fastlane,null,null,null,null
+microsolidarity,null,null,null,null
+androidwedakarayo,null,null,null,null
+poacpm,null,null,null,null
+backdrop,null,null,null,null
+communitycontributorgroup,null,null,null,null
+fullstack-build,null,null,null,null
+memomes93,null,null,null,null
+VipsProjects,null,null,null,null
+Trash-For-Trade,null,null,null,null
+supgeek-rod,null,null,null,null
+klimadashboard,null,null,null,null
+Maxblinder,null,null,null,null
+zakariya1-1,null,null,null,null
+flutter-form-builder-ecosystem,null,null,null,null
+datafestafrica,null,null,null,null
+NCAIC,null,null,null,null
+automation-co,null,null,null,null
+visualblind,null,null,null,null
+thunder-engine,null,null,null,null
+SocialSisterYi,null,null,null,null
+RuiSiang,null,null,null,null
+angkosal,null,null,null,null
+Taosky,null,null,null,null
+bosskmk,null,null,null,null
+Hamza417,null,null,null,null
+lucaszischka,null,null,null,null
+SAMPINDO,null,null,null,null
+thomaspinder,null,null,null,null
+gvelez17,null,null,null,null
+JonnyBoy2000,null,null,null,null
+atomicdata-dev,null,null,null,null
+alisaifee,null,null,null,null
+userstyles-world,null,null,null,null
+ruff-org,null,null,null,null
+aaditmshah,null,null,null,null
+Svelte-Sirens,null,null,null,null
+linuxtechmore,null,null,null,null
+miroslavpejic85,null,null,null,null
+theborderland,null,null,null,null
+TomWright,null,null,null,null
+vovem,null,null,null,null
+docugs,null,null,null,null
+oTree-org,null,null,null,null
+mulaRahul,null,null,null,null
+lensterxyz,null,null,null,null
+1c7,null,null,null,null
+macvim-dev,null,null,null,null
+aymanbagabas,null,null,null,null
+SeaQL,null,null,null,null
+DeeJayTC,null,null,null,null
+Elders,null,null,null,null
+Discord-Resources-Wiki,null,null,null,null
+iTeam-S,null,null,null,null
+notus-sh,null,null,null,null
+revolist,null,null,null,null
+Carroted,null,null,null,null
+Bruijn-Logistics,null,null,null,null
+OpenSourceCommunityBrasil,null,null,null,null
+mapmapteam,null,null,null,null
+qruto,null,null,null,null
+paragoda,null,null,null,null
+ibericode,null,null,null,null
+tryzealot,null,null,null,null
+KairosResearchLab,null,null,null,null
+andybozu,null,null,null,null
+tpaviot,null,null,null,null
+alanhg,null,null,null,null
+aspect-build,null,null,null,null
+EasyAbp,null,null,null,null
+maximnl,null,null,null,null
+cannabiscoop,null,null,null,null
+cabalcx,null,null,null,null
+mage-os,null,null,null,null
+kenchris,null,null,null,null
+tock,null,null,null,null
+elegantapp,null,null,null,null
+Tablam,null,null,null,null
+Akhandsaxena12,null,null,null,null
+PowerNukkitX,null,null,null,null
+Bioprotocols,null,null,null,null
+php-soap,null,null,null,null
+nmgray,null,null,null,null
+uJournal,null,null,null,null
+philipswan,null,null,null,null
+Mhmoni25,null,null,null,null
+gaz561,null,null,null,null
+catppuccin,null,null,null,null
+mue,null,null,null,null
+fpv-wtf,null,null,null,null
+streetwriters,null,null,null,null
+Elpistolero131,null,null,null,null
+deca-org,null,null,null,null
+LibreCAD,null,null,null,null
+vobyjs,null,null,null,null
+ProbsoCore,null,null,null,null
+foopgp,null,null,null,null
+tako-discord,null,null,null,null
+openproducer,community,https://github.com/OpenProducer/community,null,5
+gdsc-utp-pe,demo-repository,https://github.com/gdsc-utp-pe/demo-repository,null,0
+geauxweisbeck4,geauxweisbeck4.github.io,https://github.com/GeauxWeisbeck4/geauxweisbeck4.github.io,MIT License,2
+dotlin-org,null,null,null,null
+larssieboy18,rickroll-list,https://github.com/larssieboy18/rickroll-list,Mozilla Public License 2.0,9
+zigtools,zls,https://github.com/zigtools/zls,MIT License,1545
+Reseed-Farm,null,null,null,null
+afreezyfrench,null,null,null,null
+linuxeuphony,vmware-host-modules-builder-cli,https://github.com/LinuxEuphony/vmware-host-modules-builder-cli,MIT License,52
+prasanaworld,puppeteer-screen-recorder,https://github.com/prasanaworld/puppeteer-screen-recorder,MIT License,242
+apicrafter,metacrafter,https://github.com/apicrafter/metacrafter,Apache License 2.0,31
+otterkit,otterkit,https://github.com/otterkit/otterkit,Apache License 2.0,225
+The-Mycelium-Network,the-mycelium-network,https://github.com/The-Mycelium-Network/the-mycelium-network,MIT License,10
+gaz,EasyJobs,https://github.com/gaz/EasyJobs,null,1
+assemblee-virtuelle,semapps,https://github.com/assemblee-virtuelle/semapps,Apache License 2.0,69
+makepad,makepad,https://github.com/makepad/makepad,Other,2717
+ec0lint,ec0lint,https://github.com/ec0lint/ec0lint,MIT License,138
+h4icarleton,Isuroon-MiniProj-1,https://github.com/h4icarleton/Isuroon-MiniProj-1,null,2
+iceflame,null,null,null,null
+govinda777,AccountVAX,https://github.com/govinda777/AccountVAX,null,3
+sunshine-request,cdp-asheville,https://github.com/sunshine-request/cdp-asheville,Mozilla Public License 2.0,2
+scientific-python,cookie,https://github.com/scientific-python/cookie,"BSD 3-Clause ""New"" or ""Revised"" License",96
+scidsg,relaylove,https://github.com/scidsg/relaylove,The Unlicense,61
+terra-rebels,terra-sharp,https://github.com/terra-rebels/terra-sharp,MIT License,16
+lynlynlynx,xhtml-lity,https://github.com/lynlynlynx/xhtml-lity,MIT License,0
+reactdeveloperske,reactdevske-website,https://github.com/reactdeveloperske/reactdevske-website,MIT License,51
+Himself65,OpenArkCompiler,https://github.com/Himself65/OpenArkCompiler,null,686
+primodotso,null,null,null,null
+honestydeveloper,angular-pwa,https://github.com/honestydeveloper/angular-pwa,null,3
+odroe,prisma-dart,https://github.com/odroe/prisma-dart,"BSD 3-Clause ""New"" or ""Revised"" License",291
+rchain-community,null,null,null,null
+superfishial,null,null,null,null
+linuxbekuz,null,null,null,null
+openbenches,null,null,null,null
+pocketbase,null,null,null,null
+cbsd,null,null,null,null
+NGcodeX,null,null,null,null
+MAGICGrants,null,null,null,null
+thewpcommunitycollective,null,null,null,null
+espruino,null,null,null,null
+presentator,null,null,null,null
+john3825,null,null,null,null
+paradox-bd,null,null,null,null
+openresearchcalendar,null,null,null,null
+luoxuhai,null,null,null,null
+risk-of-thunder,null,null,null,null
+UniversalDot,null,null,null,null
+pest-parser,null,null,null,null
+polygonjs,null,null,null,null
+open-bootcamp,null,null,null,null
+ome,null,null,null,null
+AndroidIDEOfficial,null,null,null,null
+jblomberg5r,null,null,null,null
+langhuihui,null,null,null,null
+j9t,null,null,null,null
+pisa-dev,null,null,null,null
+ansible-semaphore,null,null,null,null
+theajack,null,null,null,null
+datreeio,null,null,null,null
+ageddesi,null,null,null,null
+HackHorsham,null,null,null,null
+Retrospring,null,null,null,null
+project-u-29,null,null,null,null
+datarhei,null,null,null,null
+AryanpurTech,null,null,null,null
+randovania,null,null,null,null
+lindylearn,null,null,null,null
+lotuslabsuk,null,null,null,null
+sws2apps,null,null,null,null
+OpenShopChannel,null,null,null,null
+Widle-Studio,null,null,null,null
+leosac,null,null,null,null
+BirthdayResearch,null,null,null,null
+PrismLauncher,null,null,null,null
+certificationpoint,null,null,null,null
+sarrIbou,null,null,null,null
+js-sdsl,null,null,null,null
+elixir-lsp,null,null,null,null
+lettercms,null,null,null,null
+Disploy,null,null,null,null
+fastjs-team,null,null,null,null
+ocw-central,null,null,null,null
+projectsend,null,null,null,null
+ZephraCloud,null,null,null,null
+jerlendds,null,null,null,null
+buildersoftdev,null,null,null,null
+hajimehoshi,null,null,null,null
+dudykr,null,null,null,null
+darioxmastodon,null,null,null,null
+duelance-app,null,null,null,null
+buffbears,null,null,null,null
+CryptoPaymentsBot,null,null,null,null
+Interns-Aid,null,null,null,null
+Sophox,null,null,null,null
+StaticJsCMS,null,null,null,null
+LiveGTech,null,null,null,null
+Mewatools,null,null,null,null
+spices-source,null,null,null,null
+nexB,null,null,null,null
+pulsar-edit,null,null,null,null
+pgroonga,null,null,null,null
+JellyfishSDK,null,null,null,null
+WavesHQ,null,null,null,null
+Blazor-School,null,null,null,null
+ruarxive,null,null,null,null
+DemocracyLab,null,null,null,null
+DmitryFrolovTri,null,null,null,null
+ToolsForThoughtRocks,null,null,null,null
+headwindsim,null,null,null,null
+AberystwythSystemsBiology,null,null,null,null
+CachyOS,null,null,null,null
+electerm,null,null,null,null
+vmstan,null,null,null,null
+DigitalCommons,null,null,null,null
+koyuspace,null,null,null,null
+urql-graphql,null,null,null,null
+climbjios-sg,null,null,null,null
+sparc-coop,null,null,null,null
+PixelFactory,null,null,null,null
+openedtech,null,null,null,null
+persevie,null,null,null,null
+DTLAkidsMatter,null,null,null,null
+iffybooks,null,null,null,null
+wisegar-org,null,null,null,null
+ims-network,null,null,null,null
+AuroraEditor,null,null,null,null
+deaconsocial,null,null,null,null
+kube-hetzner,null,null,null,null
+tinygo-org,null,null,null,null
+heyjaywilson,null,null,null,null
+manicsense,null,null,null,null
+dao-xyz,null,null,null,null
+immers-space,null,null,null,null
+davidalger,null,null,null,null
+Elyart-Network,null,null,null,null
+GeekGene,null,null,null,null
+supabase,null,null,null,null
+KwickerHub,null,null,null,null
+darksoil-studio,null,null,null,null
+Together-Java,null,null,null,null
+intelowlproject,null,null,null,null
+OpenEugene,null,null,null,null
+katherineheadshall,null,null,null,null
+vexip-ui,null,null,null,null
+u3d-community,null,null,null,null
+commitizen-tools,null,null,null,null
+codeandomexico,null,null,null,null
+sqldaddy-io,null,null,null,null
+lukeshay,null,null,null,null
+timothystewart6,null,null,null,null
+jenkins-x,null,null,null,null
+Crequency,null,null,null,null
+cupy,null,null,null,null
+invest-rada,null,null,null,null
+docker-library,null,null,null,null
+Sygil-Dev,null,null,null,null
+Tranhung2h,null,null,null,null
+go-sonic,null,null,null,null
+ClimateMind,null,null,null,null
+timber,null,null,null,null
+OurFreeLight,null,null,null,null
+CDNS-Team,null,null,null,null
+leifermendez,null,null,null,null
+ADOFAI-gg,null,null,null,null
+deliberative,null,null,null,null
+LeadBrowser,null,null,null,null
+e-maxx-eng,null,null,null,null
+pacstall,null,null,null,null
+WU-BIMAC,null,null,null,null
+devops-kung-fu,null,null,null,null
+libredirect,null,null,null,null
+Parry-Ride-Safer,null,null,null,null
+SynapseMedia,null,null,null,null
+drizzle-team,null,null,null,null
+federated-press,null,null,null,null
+TanhGL,null,null,null,null
+authifyWeb,null,null,null,null
+DP-NETWORK,null,null,null,null
+iroco-co,null,null,null,null
+PaneruVipin,null,null,null,null
+phcode-dev,null,null,null,null
+php-soap-backports,null,null,null,null
+roc-streaming,roc-toolkit,https://github.com/roc-streaming/roc-toolkit,Mozilla Public License 2.0,873
+modslides,.github,https://github.com/modslides/.github,Apache License 2.0,1
+JsonlangJs,jsonlang,https://github.com/JsonlangJs/jsonlang,MIT License,15
+OverMind79,aionCraftCalc,https://github.com/OverMind79/aionCraftCalc,null,1
+OpenHV,OpenHV,https://github.com/OpenHV/OpenHV,GNU General Public License v3.0,667
+Open-Source-Collective,docs,https://github.com/Open-Source-Collective/docs,null,8
+strapi-community,awesome-strapi,https://github.com/strapi-community/awesome-strapi,MIT License,1400
+module-federation,module-federation-examples,https://github.com/module-federation/module-federation-examples,MIT License,4389
+beegeezile,null,null,null,null
+tampadevs,tampadevs,https://github.com/TampaDevs/tampadevs,null,16
+flbulgarelli,headbreaker,https://github.com/flbulgarelli/headbreaker,ISC License,70
+dolphin-emu,dolphin,https://github.com/dolphin-emu/dolphin,Other,10613
+teamdmod,dmod,https://github.com/TeamDmod/dmod,Other,42
+singlelink-co,Singlelink,https://github.com/singlelink-co/Singlelink,GNU General Public License v3.0,448
+luminos-company,portami,https://github.com/luminos-company/portami,GNU General Public License v3.0,3
+Codeless-Builder,null,null,null,null
+elm-janitor,manifesto,https://github.com/elm-janitor/manifesto,null,14
+omnivore-app,omnivore,https://github.com/omnivore-app/omnivore,GNU Affero General Public License v3.0,2243
+WeAreMahsaAmini,Core,https://github.com/WeAreMahsaAmini/Core,null,1767
+swow,swow,https://github.com/swow/swow,Apache License 2.0,1024
+assegaiphp,assegai,https://github.com/assegaiphp/assegai,MIT License,1
+joinpickup,.github,https://github.com/joinpickup/.github,null,0
+radis,radis,https://github.com/radis/radis,GNU Lesser General Public License v3.0,163
+GoodAncestor,null,null,null,null
+elk-zone,elk,https://github.com/elk-zone/elk,MIT License,3660
+savannabits,charaza-ui,https://github.com/savannabits/charaza-ui,null,50
+chemins-de-la-transition,semapps,https://github.com/chemins-de-la-transition/semapps,Apache License 2.0,1
+ArtalkJS,Artalk,https://github.com/ArtalkJS/Artalk,GNU Lesser General Public License v3.0,852
+2factorauth,twofactorauth,https://github.com/2factorauth/twofactorauth,Other,3251
+deep6org,geflo,https://github.com/deep6org/geflo,null,1
+toolywin,null,null,null,null
+whiteCcinn,null,null,null,null
+CnCNet,null,null,null,null
+codeforboston,null,null,null,null
+Pycord-Development,null,null,null,null
+DanielXMoore,null,null,null,null
+sophacola,null,null,null,null
+nixcon,null,null,null,null
+WeAreTheArtMakers,null,null,null,null
+reactplay,null,null,null,null
+asterics,null,null,null,null
+hiddify,null,null,null,null
+scape-foundation,null,null,null,null
+kdr-aus,null,null,null,null
+sailboatui,null,null,null,null
+craigerskine,null,null,null,null
+purocean,null,null,null,null
+amuzil,null,null,null,null
+getmoto,null,null,null,null
+Brightfield-Tech-Academy,null,null,null,null
+localaization,null,null,null,null
+privacytests,null,null,null,null
+Yarn-social,null,null,null,null
+lmaotrigine,null,null,null,null
+vitejs,null,null,null,null
+ronin-rb,null,null,null,null
+actionshub,null,null,null,null
+ssbc,null,null,null,null
+OrgOwl,null,null,null,null
+project-themistoklis,null,null,null,null
+Ajay-Dhangar,null,null,null,null
+stdlib-js,null,null,null,null
+vouch,null,null,null,null
+tech304,null,null,null,null
+truestorybaby,null,null,null,null
+kobaltedev,null,null,null,null
+yt-focus,null,null,null,null
+QW-Group,null,null,null,null
+Gozargah,null,null,null,null
+Gennadiyev,null,null,null,null
+JoDylan404,null,null,null,null
+regalwright,null,null,null,null
+HemulGM,null,null,null,null
+CaptnJack8,null,null,null,null
+yousefebrahimi0,null,null,null,null
+lomorage,null,null,null,null
+whoisyoges,null,null,null,null
+nix-community,null,null,null,null
+webmultipliers,null,null,null,null
+just-the-docs,null,null,null,null
+napi-rs,null,null,null,null
+archaeo-social,null,null,null,null
+openandroidinstaller-dev,null,null,null,null
+instantdevices,null,null,null,null
+izihawa,null,null,null,null
+MicroWebStacks,null,null,null,null
+HomeSmartMesh,null,null,null,null
+sponsors,null,null,null,null
+KID-joker,null,null,null,null
+drogonframework,null,null,null,null
+codefordayton,null,null,null,null
+javedblch,null,null,null,null
+Kastelll,null,null,null,null
+mayu-live,null,null,null,null
+NxtWaveApp,null,null,null,null
+pona-la,null,null,null,null
+onestlatech,null,null,null,null
+hyperdargo,null,null,null,null
+networkupstools,null,null,null,null
+codeforhawaii,null,null,null,null
+webdiscus,null,null,null,null
+voxpupuli,null,null,null,null
+sensity-ai,null,null,null,null
+centerofci,null,null,null,null
+bluez,null,null,null,null
+deeplearning4j,null,null,null,null
+io-developer,null,null,null,null
+michijs,null,null,null,null
+bluefireteam,null,null,null,null
+home-assistant-ecosystem,null,null,null,null
+simonedelpopolo,null,null,null,null
+adrianmanchev,null,null,null,null
+fisker,null,null,null,null
+ikeq,null,null,null,null
+manybabies,null,null,null,null
+LiteLDev,null,null,null,null
+openwebf,null,null,null,null
+wfialkiewicz,null,null,null,null
+devmoek,null,null,null,null
+mesercreativeltd,null,null,null,null
+helmwave,null,null,null,null
+gezelio,null,null,null,null
+letsblockit,null,null,null,null
+robrodric,null,null,null,null
+scuffletv,null,null,null,null
+locopoptech,null,null,null,null
+komapper,null,null,null,null
+GradienceTeam,null,null,null,null
+domaframework,null,null,null,null
+Saber2pr,null,null,null,null
+Tanmoy741127,null,null,null,null
+BmoreCodeCoffee,null,null,null,null
+ddkits,null,null,null,null
+open-tdp,null,null,null,null
+samislam,null,null,null,null
+RentadroneCL,null,null,null,null
+usememos,null,null,null,null
+gagoar,null,null,null,null
+agrass-GitHub,null,null,null,null
+volarjs,null,null,null,null
+dfir-iris,null,null,null,null
+CloudOrc,null,null,null,null
+dkcam,null,null,null,null
+arshad-yaseen,null,null,null,null
+wip-elonehoo,null,null,null,null
+digitopvn,null,null,null,null
+rdf-ext,null,null,null,null
+dint-dev,null,null,null,null
+camvote,null,null,null,null
+starlite-api,null,null,null,null
+arthuro555,null,null,null,null
+overte-org,null,null,null,null
+esm-dev,null,null,null,null
+dyrector-io,null,null,null,null
+gleamy-js,null,null,null,null
+blade-lang,null,null,null,null
+cpprefjp,null,null,null,null
+necordjs,null,null,null,null
+Automattic,null,null,null,null
+PrivacySafe,null,null,null,null
+inthehand,null,null,null,null
+elysiajs,null,null,null,null
+ip-num,null,null,null,null
+OneLiteFeatherNET,null,null,null,null
+LEMD-Massachusetts,null,null,null,null
+db8bot,null,null,null,null
+noblox,null,null,null,null
+ishaanbedi,null,null,null,null
+wulinsheng123,null,null,null,null
+ShootingKing-AM,null,null,null,null
+cenk1cenk2,null,null,null,null
+beawitcht,null,null,null,null
+bowphp,null,null,null,null
+ghostofcodes,null,null,null,null
+lautiamkok,null,null,null,null
+rnmapbox,null,null,null,null
+hadronepoch,null,null,null,null
+Apparence-io,null,null,null,null
+rrweb-io,null,null,null,null
+vitest-dev,null,null,null,null
+posixpascal,geofind,https://github.com/posixpascal/geofind,GNU General Public License v3.0,33
+ciorogarlaunita,app,https://github.com/ciorogarlaunita/app,GNU Affero General Public License v3.0,2
+torrentpier,torrentpier,https://github.com/torrentpier/torrentpier,MIT License,211
+human-solutions,reactive-signals,https://github.com/human-solutions/reactive-signals,null,3
+developersharif,bgremover-app,https://github.com/developersharif/bgremover-app,MIT License,52
+emanisay27,mamashine,https://github.com/emanisay27/mamashine,null,1
+turkraft,springfilter,https://github.com/turkraft/springfilter,null,161
+guoyangzhen,guoyangzhen.github.io,https://github.com/guoyangzhen/guoyangzhen.github.io,null,0
+taskiq-python,taskiq,https://github.com/taskiq-python/taskiq,MIT License,235
+py-pdf,pypdf,https://github.com/py-pdf/pypdf,Other,5800
+python-websockets,websockets,https://github.com/python-websockets/websockets,"BSD 3-Clause ""New"" or ""Revised"" License",4582
+unikraft,unikraft,https://github.com/unikraft/unikraft,Other,1403
+stoneatom,stonedb,https://github.com/stoneatom/stonedb,GNU General Public License v2.0,791
+lazzarello,instiki-heroku,https://github.com/lazzarello/instiki-heroku,null,35
+vlang-association,docs,https://github.com/vlang-association/docs,MIT License,19
+Mudlet,Mudlet,https://github.com/Mudlet/Mudlet,GNU General Public License v2.0,636
+Enterprise,null,null,null,null
+reddit-diabetes,diabot,https://github.com/reddit-diabetes/diabot,Other,18
+daobrussels,null,null,null,null
+hlhr202,React-Combine-Provider,https://github.com/hlhr202/React-Combine-Provider,MIT License,30
+IvanGoncharov,graphql-constraints-spec,https://github.com/IvanGoncharov/graphql-constraints-spec,MIT License,42
+gdm-settings,gdm-settings,https://github.com/gdm-settings/gdm-settings,GNU Affero General Public License v3.0,481
+OpenPatterson,openpatterson.org,https://github.com/OpenPatterson/openpatterson.org,null,1
+code4delphi,Code4D-Wizard,https://github.com/Code4Delphi/Code4D-Wizard,null,6
+web-infra-dev,rspack,https://github.com/web-infra-dev/rspack,MIT License,4777
+django-import-export,django-import-export,https://github.com/django-import-export/django-import-export,"BSD 2-Clause ""Simplified"" License",2689
+moonshine-software,moonshine,https://github.com/moonshine-software/moonshine,MIT License,182
+adhamahde,aisavail,https://github.com/adhamahde/aisavail,null,1
+collective,icalendar,https://github.com/collective/icalendar,Other,871
+c99tn,null,null,null,null
+civicliteracies,null,null,null,null
+lehcode,null,null,null,null
+undb-xyz,null,null,null,null
+CongDongIT,null,null,null,null
+PointerPodcast,null,null,null,null
+lyy289065406,null,null,null,null
+yohamta,null,null,null,null
+unocss,null,null,null,null
+Re1da,null,null,null,null
+dexie,null,null,null,null
+wagtail,null,null,null,null
+mini-software,null,null,null,null
+SharpeTronics,null,null,null,null
+litestar-org,null,null,null,null
+rockstor,null,null,null,null
+lukasalexanderweber,null,null,null,null
+MBAZA-NLP,null,null,null,null
+XcodesOrg,null,null,null,null
+nonunicorn,null,null,null,null
+arksteller,null,null,null,null
+codefordurham,null,null,null,null
+Ed023,null,null,null,null
+AndroidWeekly,null,null,null,null
+BoykaFramework,null,null,null,null
+gorse-io,null,null,null,null
+mysql-manager,null,null,null,null
+rottingresearch,null,null,null,null
+WasmEdge,null,null,null,null
+vanaware,null,null,null,null
+opendatascotland,null,null,null,null
+graphql-kit,null,null,null,null
+sigstore,null,null,null,null
+Chatnaut,null,null,null,null
+aregtech,null,null,null,null
+terranexum,null,null,null,null
+FabianaCampanari,null,null,null,null
+DigitalBiomarkerDiscoveryPipeline,null,null,null,null
+xueqingxiao,null,null,null,null
+karat-card,null,null,null,null
+forgoer,null,null,null,null
+vorburger,null,null,null,null
+andreymatin,null,null,null,null
+wbkd,null,null,null,null
+INRIA,null,null,null,null
+adithyaakrishna,null,null,null,null
+rivalmultiplayer,null,null,null,null
+appvoid,null,null,null,null
+ajaysingh853,null,null,null,null
+empoweringwomenintechandengineering,null,null,null,null
+Vontigo,null,null,null,null
+emacs-jupyter,null,null,null,null
+kubecub,null,null,null,null
+davve77,null,null,null,null
+bootstrap-vue-next,null,null,null,null
+CocoaPods,null,null,null,null
+DominoKit,null,null,null,null
+dortania,null,null,null,null
+Abuchtela,null,null,null,null
+geostyler,null,null,null,null
+FastEndpoints,null,null,null,null
+casdoor,null,null,null,null
+PigeonPosse,null,null,null,null
+editablejs,null,null,null,null
+unicorn-utterances,null,null,null,null
+nf-core,null,null,null,null
+toeverything,null,null,null,null
+bileslav,null,null,null,null
+lowdefy,null,null,null,null
+StardustXR,null,null,null,null
+spothings,null,null,null,null
+zuixinwang,null,null,null,null
+zoli,null,null,null,null
+Abeylulseged0457,null,null,null,null
+cookiecutter,null,null,null,null
+babyico,null,null,null,null

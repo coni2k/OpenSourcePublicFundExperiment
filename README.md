@@ -1,4 +1,4 @@
-# Open Source Public Fund Experiment - Helper
+# Open Source Public Fund Experiment - Helper tools
 
 Files and instructions to convert Open Collective API - Accounts data to CSV format
 
