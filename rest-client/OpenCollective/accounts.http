@@ -624,7 +624,7 @@ query (
   "searchTerm": "",
   "tags": [""],
   "tagSearchOperator": "AND",
-  "isActive": false,
+  "isActive": true,
   "orderBy": {
     "field": "CREATED_AT",
     "direction": "ASC"
