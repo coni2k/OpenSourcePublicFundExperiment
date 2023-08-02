@@ -42,12 +42,12 @@ namespace PublicFundExperimentAPI.Controllers
 
                 try
                 {
-                    var requestUrl = new Uri($"https://packages.ecosyste.ms/api/v1/packages/lookup?repository_url={url}");
+                    var requestUrl = new Uri($"https://packages.ecosyste.ms/api/v1/packages/lookup?repository_url={url}&sort=dependent_repos_count&order=desc&per_page=1");
                     
                     var allRepos = await _client.GetDataAsync<Lookup[]?>(requestUrl, cancellationToken);
                     if (allRepos != null && allRepos.Any())
                     {
-                        topLookup = allRepos.OrderByDescending(item => item.dependent_repos_count).FirstOrDefault();
+                        topLookup = allRepos.FirstOrDefault();
                         status = "OK";
                         okCount++;
                     }
