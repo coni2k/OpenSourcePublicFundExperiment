@@ -3,7 +3,7 @@ GET https://packages.ecosyste.ms/api/v1/packages/lookup
 Content-Type: application/json
 
 ###
-GET https://packages.ecosyste.ms/api/v1/packages/lookup?repository_url=https://github.com/supabase/supabase
+GET https://packages.ecosyste.ms/api/v1/packages/lookup?repository_url=https://github.com/babel/babel&sort=dependent_repos_count&order=desc&per_page=1
 Content-Type: application/json
 
 ### Doesn't return anything?
