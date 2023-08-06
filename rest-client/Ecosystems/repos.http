@@ -1,0 +1,13 @@
+### Ecosyste.ms: Packages - https://repos.ecosyste.ms/docs/index.html
+
+###
+GET https://repos.ecosyste.ms/api/v1/topics
+Accept: application/json
+
+###
+GET https://repos.ecosyste.ms/api/v1/usage
+Accept: application/json
+
+###
+GET https://repos.ecosyste.ms/api/v1/hosts
+Accept: application/json

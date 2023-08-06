@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Date: Thu, 03 Aug 2023 13:40:06 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Link: <https://summary.ecosyste.ms/api/v1/collections/6/projects?per_page=10&page=1>; rel="first", <https://summary.ecosyste.ms/api/v1/collections/6/projects?per_page=10&page=2>; rel="next", <https://summary.ecosyste.ms/api/v1/collections/6/projects?per_page=10&page=7084>; rel="last"
+Current-Page: 1
+Page-Items: 10
+Total-Pages: 7084
+Total-Count: 70831
+ETag: W/"bc6d74ac28c8d96947977f57a1324b5a"
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: 98cc4b6d-3b9c-42c6-9ef0-93a6a9028deb
+X-Runtime: 0.237379
+Content-Encoding: gzip
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=eysirwjiME1szOf%2FgArlBI8TDrTiPHoriNCmwjJkwfKT5OygwWzgUjlxUM3pMJ6GmxJnVy0zCiCMn0Q0cLqPvOglGOGN4auR91mISUhtlJFHKAPSkVaPh0myeH1T5dLTo7x%2F%2FLpx"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7f0ef871ce060e7f-AMS
+alt-svc: h3=":443"; ma=86400

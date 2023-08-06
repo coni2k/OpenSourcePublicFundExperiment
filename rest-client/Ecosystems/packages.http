@@ -1,0 +1,37 @@
+### Ecosyste.ms: Packages - https://packages.ecosyste.ms/docs/index.html
+
+###
+GET https://packages.ecosyste.ms/api/v1/packages/lookup
+Accept: application/json
+
+###
+GET https://packages.ecosyste.ms/api/v1/packages/lookup?repository_url=https://github.com/babel/babel&sort=dependent_repos_count&order=desc&per_page=1
+Accept: application/json
+
+### Doesn't return anything?
+GET https://packages.ecosyste.ms/api/v1/packages/lookup?repository_url=https://github.com/FluentValidation/FluentValidation
+Accept: application/json
+
+### only go?
+GET https://packages.ecosyste.ms/api/v1/packages/lookup?repository_url=https://github.com/App-vNext/Polly
+Accept: application/json
+
+### Doesn't return anything?
+GET https://packages.ecosyste.ms/api/v1/packages/lookup?repository_url=https://github.com/prjseal/PasswordGenerator/
+Accept: application/json
+
+### Doesn't return anything?
+GET https://packages.ecosyste.ms/api/v1/packages/lookup?name=jquery
+Accept: application/json
+
+###
+GET https://packages.ecosyste.ms/api/v1/keywords
+Accept: application/json
+
+###
+GET https://packages.ecosyste.ms/api/v1/registries
+Accept: application/json
+
+###
+GET https://packages.ecosyste.ms/api/v1/registries/npmjs.org/namespaces
+Accept: application/json

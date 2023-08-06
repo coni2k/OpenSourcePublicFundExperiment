@@ -1,11 +1,17 @@
 ###
-GET https://localhost:7007/GitHub/GetUser
-Content-Type: application/json
-
-###
 POST https://localhost:7007/GitHub/GetTopRepositoryByUser
+Accept: application/json
 Content-Type: application/json
 
 [
-    "https://github.com/supabase"
+    "https://github.com/babel"
+]
+
+###
+POST https://localhost:7007/GitHub/GetRepositoryByUrl
+Accept: application/json
+Content-Type: application/json
+
+[
+    "https://github.com/babel/babel"
 ]

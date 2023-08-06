@@ -1,3 +1,4 @@
+### The number of accounts should be close to the OSC Collectives figure: https://opencollective.com/opensource
 ### https://graphql-docs-v2.opencollective.com/queries/accounts
 POST https://api.opencollective.com/graphql/v2/{{$dotenv Token}}
 Content-Type: application/json
@@ -13,7 +14,7 @@ query (
   $isActive: Boolean
   # $skipRecentAccounts: Boolean
   # $country: [CountryISO]
-  # $host: [AccountReferenceInput]
+  $host: [AccountReferenceInput]
   $type: [AccountType]
   # $isHost: Boolean
   # $hasCustomContributionsEnabled: Boolean
@@ -124,7 +125,7 @@ query (
     isActive: $isActive
     # skipRecentAccounts: $skipRecentAccounts
     # country: $country
-    # host: $host
+    host: $host
     type: $type
     # isHost: $isHost
     # hasCustomContributionsEnabled: $hasCustomContributionsEnabled
@@ -619,12 +620,16 @@ query (
 }
 
 {
-  "limit": 10,
+  "limit": 5000,
   "offset": 0,
   "searchTerm": "",
   "tags": [""],
   "tagSearchOperator": "AND",
   "isActive": true,
+  "host": [{
+    "slug": "opensource"
+  }],
+  "type": ["COLLECTIVE"],
   "orderBy": {
     "field": "CREATED_AT",
     "direction": "ASC"

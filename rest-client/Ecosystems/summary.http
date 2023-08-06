@@ -1,0 +1,13 @@
+### Ecosyste.ms: Packages - https://summary.ecosyste.ms/docs/index.html
+
+###
+GET https://summary.ecosyste.ms/api/v1/collections/6
+Accept: application/json'
+
+###
+GET https://summary.ecosyste.ms/api/v1/collections/6/projects?per_page=10
+Accept: application/json'
+
+###
+GET https://summary.ecosyste.ms/api/v1/projects/lookup?url=https://github.com/babel/babel
+Accept: application/json'

@@ -547,5 +547,6 @@ query (
   "throwIfMissing": true,
   "limit": 10,
   "offset": 0,
-  "slug": ""
+  "id": "",
+  "slug": "opencollective-oss"
 }

@@ -1,0 +1,326 @@
+repositoryUrl,status,ecosystem,registry_url,dependent_packages_count,dependent_repos_count,docker_dependents_count,docker_downloads_count,downloads,downloads_period,last_synced_at
+https://github.com/kriasoft/react-firebase-starter,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/meteor/blaze,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/OpenTechFund/apply-app,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/rubocop/rubocop,OK,rubygems,https://rubygems.org/gems/rubocop,11643,115529,1310,1907988298,343744765,total,2023-08-06T01:59:15.763Z
+https://github.com/qax-os/excelize,OK,go,https://pkg.go.dev/github.com/Qax-Os/excelize,0,0,null,null,null,null,2023-08-05T11:05:44.06Z
+https://github.com/wallabag/wallabag,OK,packagist,https://packagist.org/packages/wallabag/wallabag#,0,4,null,null,2059,total,2023-08-05T11:05:46.56Z
+https://github.com/LeanerCloud/AutoSpotting,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/kriasoft/react-app,OK,npm,https://www.npmjs.com/package/react-app,25,387,19,1472,23508,last-month,2023-08-05T01:38:41.151Z
+https://github.com/dimatill/graphql-shield,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/Binaryify/OneDark-Pro,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/wojtekmaj/react-calendar,OK,npm,https://www.npmjs.com/package/react-calendar,291,12059,79,18553,1964632,last-month,2023-08-04T06:58:32.082Z
+https://github.com/wojtekmaj/react-date-picker,OK,npm,https://www.npmjs.com/package/react-date-picker,178,4681,29,15188,621613,last-month,2023-08-04T17:10:39.406Z
+https://github.com/OI-wiki/OI-wiki,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/statelyai/xstate,OK,npm,https://www.npmjs.com/package/xstate,685,107428,120,2546736,6041837,last-month,2023-08-06T00:42:18.755Z
+https://github.com/staltz/manyverse,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/argos-ci/jest-puppeteer,OK,npm,https://www.npmjs.com/package/spawnd,17,17266,158,96766,2589958,last-month,2023-08-05T11:06:59.465Z
+https://github.com/sshahine/JFoenix,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/s4n7h0/Halcyon-IDE,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/camelot-dev/excalibur,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/ant-design/ant-design-landing,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/meituan/lyrebird,OK,pypi,https://pypi.org/project/lyrebird/,3,9,null,null,1219,last-month,2023-07-28T08:11:53.963Z
+https://github.com/razerdp/AnimatedPieView,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/mastodon/mastodon,OK,pypi,https://pypi.org/project/requestsss/,0,0,null,null,null,last-month,2023-08-05T11:08:53.973Z
+https://github.com/spencerwooo/dowww,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/validatorjs/validator.js,OK,npm,https://www.npmjs.com/package/validator,5119,493728,5594,2085553057,38903046,last-month,2023-08-06T01:44:50.013Z
+https://github.com/CannerCMS/cannercms,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/antonreshetov/mysigmail,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/doocs/leetcode,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/rampatra/photography,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/apache/groovy,OK,maven,https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-all/,3407,36163,60,1587307,null,null,2023-08-06T06:46:29.717Z
+https://github.com/witchcrafters/witchcraft,OK,hex,https://hex.pm/packages/witchcraft/,3,8,null,null,51692,total,2023-08-05T11:09:07.246Z
+https://github.com/Bogdan-Lyashenko/codecrumbs,OK,npm,https://www.npmjs.com/package/codecrumbs,2,11,null,null,372,last-month,2023-08-03T20:44:53.122Z
+https://github.com/flexn-io/renative,OK,npm,https://www.npmjs.com/package/rnv,9,13,null,null,18614,last-month,2023-08-05T11:09:25.836Z
+https://github.com/ant-design/ant-design-mobile-rn,OK,npm,https://www.npmjs.com/package/@ant-design/react-native,49,912,null,null,9955,last-month,2023-08-05T06:06:38.779Z
+https://github.com/thangchung/clean-code-dotnet,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/remix-run/react-router,OK,npm,https://www.npmjs.com/package/react-router,9911,1472795,2315,74901214,43145093,last-month,2023-08-05T11:44:05.147Z
+https://github.com/yutiansut/QUANTAXIS,OK,npm,https://www.npmjs.com/package/quantaxiswebkit,1,1,null,null,12,last-month,2023-08-05T11:09:31.831Z
+https://github.com/lsky-org/lsky-pro,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/jschr/textillate,OK,bower,null,0,59,null,null,null,null,2023-07-27T20:19:34.543Z
+https://github.com/vscodethemes/web,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/svartalf/rust-battery,OK,cargo,https://crates.io/crates/battery/,24,78,6,402,520176,total,2023-08-03T09:14:22.647Z
+https://github.com/glacials/whatsinstandard,OK,npm,https://www.npmjs.com/package/whatsinstandard,0,1,null,null,6,last-month,2023-08-04T22:24:20.676Z
+https://github.com/WangYihang/Exploit-Framework,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/xaboy/form-builder,OK,packagist,https://packagist.org/packages/xaboy/form-builder#,7,72,1,5,43397,total,2023-07-31T13:52:34.964Z
+https://github.com/didi/falcon-log-agent,OK,go,https://pkg.go.dev/github.com/didi/falcon-log-agent,0,0,null,null,null,null,2023-07-22T16:22:58.093Z
+https://github.com/umijs/umi,OK,npm,https://www.npmjs.com/package/umi,1114,6187,15,10674,214334,last-month,2023-08-03T01:40:16.204Z
+https://github.com/gregberge/loadable-components,OK,npm,https://www.npmjs.com/package/@loadable/component,653,8802,46,441244,1790690,last-month,2023-08-05T12:29:58.603Z
+https://github.com/alibaba/Sentinel,OK,maven,https://repo.maven.apache.org/maven2/com/alibaba/csp/sentinel-datasource-nacos/,76,1616,55,1472,null,null,2023-07-28T21:14:23.84Z
+https://github.com/tabler/tabler-angular,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/fritx/vue-at,OK,npm,https://www.npmjs.com/package/vue-at,3,80,3,65,21403,last-month,2023-07-27T17:39:49.807Z
+https://github.com/calidion/vig,OK,npm,https://www.npmjs.com/package/vig,17,2,null,null,221,last-month,2023-07-17T00:31:12.063Z
+https://github.com/davidesantangelo/api.rss,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/jianfengye/collection,OK,go,https://pkg.go.dev/github.com/jianfengye/collection,34,32,null,null,null,null,2023-08-03T00:40:28.237Z
+https://github.com/alibaba/formily,OK,npm,https://www.npmjs.com/package/@formily/core,257,187,null,null,59713,last-month,2023-08-04T10:33:57.716Z
+https://github.com/maoberlehner/vue-lazy-hydration,OK,npm,https://www.npmjs.com/package/vue-lazy-hydration,27,368,2,1067,228917,last-month,2023-08-06T00:01:10.109Z
+https://github.com/wntrblm/nox,OK,actions,null,0,28,null,null,null,null,2023-08-05T11:12:24.015Z
+https://github.com/facebook/create-react-app,OK,npm,https://www.npmjs.com/package/confusing-browser-globals,855,1644562,3172,1652132165,44568847,last-month,2023-08-04T06:59:36.072Z
+https://github.com/jenssegers/agent,OK,packagist,https://packagist.org/packages/jenssegers/agent#,320,7974,33,1916,34357145,total,2023-08-06T07:41:41.752Z
+https://github.com/jenssegers/imagehash,OK,packagist,https://packagist.org/packages/jenssegers/imagehash#,4,49,null,null,1056943,total,2023-07-28T08:57:08.508Z
+https://github.com/jenssegers/date,OK,packagist,https://packagist.org/packages/jenssegers/date#,132,1812,15,24569831,7359164,total,2023-08-03T00:40:28.208Z
+https://github.com/jenssegers/optimus,OK,packagist,https://packagist.org/packages/jenssegers/optimus#,23,93,null,null,2221676,total,2023-07-30T22:23:07.27Z
+https://github.com/jenssegers/blade,OK,packagist,https://packagist.org/packages/jenssegers/blade#,116,381,3,53406535,516466,total,2023-08-03T09:43:37.591Z
+https://github.com/oguzhaninan/Buka,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/ant-design/ant-motion,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/ziishaned/dumper.js,OK,npm,https://www.npmjs.com/package/dumper.js,76,976,null,null,50324,last-month,2023-08-06T10:40:27.807Z
+https://github.com/ziishaned/opus,OK,packagist,https://packagist.org/packages/zeeshanu/opus#,0,0,null,null,2012,total,2023-07-23T01:11:48.814Z
+https://github.com/ziishaned/emoji-awesome,OK,npm,https://www.npmjs.com/package/emoji-awesome,2,47,null,null,1037,last-month,2023-07-23T01:01:23.513Z
+https://github.com/DNSCrypt/dnscrypt-proxy,OK,go,https://pkg.go.dev/github.com/DNSCrypt/dnscrypt-proxy,1,0,1,351,null,null,2023-08-05T11:10:45.592Z
+https://github.com/jedisct1/pure-ftpd,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/qmk/qmk_configurator,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/CirclonGroup/angular-tree-component,OK,npm,https://www.npmjs.com/package/@circlon/angular-tree-component,14,311,7,1692,135448,last-month,2023-08-05T11:10:36.817Z
+https://github.com/jaime-olivares/zipstorer,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/vuejs/vuepress,OK,npm,https://www.npmjs.com/package/@vuepress/shared-utils,114,14372,35,21434451,200095,last-month,2023-08-06T10:08:09.813Z
+https://github.com/delirvfx/Delir,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/dataplat/dbatools,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/vinitkumar/node-twitter,OK,npm,https://www.npmjs.com/package/nwitter,1,1,1,6,14,last-month,2023-07-27T03:34:16.378Z
+https://github.com/vinitkumar/white-paper,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/dhowe/rita,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/lukeed/polka,OK,npm,https://www.npmjs.com/package/@polka/url,26,157279,856,586878385,20274848,last-month,2023-08-02T11:24:08.841Z
+https://github.com/lukeed/pwa,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/cadmiumcr/cadmium,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/kartik-v/dependent-dropdown,OK,packagist,https://packagist.org/packages/kartik-v/dependent-dropdown#,6,1186,5,100407,3186930,total,2023-08-03T00:40:29.238Z
+https://github.com/kartik-v/yii2-grid,OK,packagist,https://packagist.org/packages/kartik-v/yii2-grid#,193,1561,5,321740,4205698,total,2023-08-06T07:21:00.972Z
+https://github.com/kartik-v/yii2-export,OK,packagist,https://packagist.org/packages/kartik-v/yii2-export#,43,569,3,315284,1939302,total,2023-08-01T03:49:46.138Z
+https://github.com/kartik-v/yii2-tree-manager,OK,packagist,https://packagist.org/packages/kartik-v/yii2-tree-manager#,18,149,6,321820,371440,total,2023-08-03T01:20:24.854Z
+https://github.com/kartik-v/yii2-mpdf,OK,packagist,https://packagist.org/packages/kartik-v/yii2-mpdf#,104,1200,3,315284,3399736,total,2023-08-03T09:43:42.254Z
+https://github.com/kartik-v/yii2-widget-fileinput,OK,packagist,https://packagist.org/packages/kartik-v/yii2-widget-fileinput#,103,1680,6,110001,4253166,total,2023-08-03T01:20:25.1Z
+https://github.com/casbin/jcasbin,OK,maven,https://repo.maven.apache.org/maven2/org/casbin/jcasbin/,17,58,3,230,null,null,2023-08-02T15:27:24.42Z
+https://github.com/casbin/node-casbin,OK,npm,https://www.npmjs.com/package/casbin,110,243,16,231,140249,last-month,2023-08-05T14:10:38.13Z
+https://github.com/casbin/pycasbin,OK,pypi,https://pypi.org/project/casbin/,2,56,5,43,71916,last-month,2023-08-02T07:27:26.418Z
+https://github.com/filhodanuvem/gitql,OK,homebrew,https://formulae.brew.sh/formula/gitql,0,1,null,null,41,last-month,2023-08-05T11:11:01.554Z
+https://github.com/typicode/husky,OK,npm,https://www.npmjs.com/package/husky,116994,386105,1286,669812109,43009040,last-month,2023-08-04T06:57:44.088Z
+https://github.com/oskarsh/Yin-Yang,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/awssat/laravel-visits,OK,packagist,https://packagist.org/packages/awssat/laravel-visits#,3,106,null,null,103534,total,2023-07-30T04:53:03.875Z
+https://github.com/hyperf/hyperf,OK,packagist,https://packagist.org/packages/hyperf/hyperf#,0,0,null,null,2036,total,2023-08-05T11:11:12.854Z
+https://github.com/EvotecIT/PSWriteHTML,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/didi/rdebug,OK,packagist,https://packagist.org/packages/rdebug/midi#,0,0,null,null,40,total,2023-07-17T01:31:21.151Z
+https://github.com/doocs/coding-interview,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/doocs/jvm,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/doocs/technical-books,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/0x7c13/Notepads,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/casbin/Casbin.NET,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/ocrmypdf/OCRmyPDF,OK,pypi,https://pypi.org/project/ocrmypdf/,6,108,17,9850159,33540,last-month,2023-08-05T12:29:57.718Z
+https://github.com/RobinCK/vue-gallery,OK,npm,https://www.npmjs.com/package/vue-gallery,9,477,1,7,18998,last-month,2023-07-22T14:56:57.782Z
+https://github.com/RobinCK/vue-popper,OK,npm,https://www.npmjs.com/package/vue-popperjs,80,627,3,118,151158,last-month,2023-08-06T08:20:31.316Z
+https://github.com/prabirshrestha/asyncomplete.vim,OK,go,https://pkg.go.dev/github.com/prabirshrestha/asyncomplete.vim,0,0,null,null,null,null,2023-07-22T21:14:23.219Z
+https://github.com/Wscats/CV,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/passwordless-lib/fido2-net-lib,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/Wscats/piano,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/posquit0/koa-rest-api-boilerplate,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/brickspert/react-family,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/daybrush/scenejs,OK,npm,https://www.npmjs.com/package/scenejs,56,87,null,null,14942,last-month,2023-08-04T10:14:57.957Z
+https://github.com/nzbin/photoviewer,OK,npm,https://www.npmjs.com/package/photoviewer,9,87,null,null,52039,last-month,2023-07-27T16:42:32.289Z
+https://github.com/MurhafSousli/ngx-scrollbar,OK,npm,https://www.npmjs.com/package/ngx-scrollbar,32,418,3,27,171527,last-month,2023-07-27T15:21:09.575Z
+https://github.com/nodevault/node-vault,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/acmesh-official/acme.sh,OK,alpine,https://pkgs.alpinelinux.org/package/edge/community/x86_64/acme.sh,0,0,null,null,null,null,2023-08-05T11:12:01.278Z
+https://github.com/alibaba/rax,OK,npm,https://www.npmjs.com/package/rax,679,219,null,null,6300,last-month,2023-08-04T08:56:02.803Z
+https://github.com/snakers4/open_stt,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/dhruvasagar/vim-dotoo,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/MurhafSousli/ngx-sharebuttons,OK,npm,https://www.npmjs.com/package/@ngx-share/core,7,352,null,null,10990,last-month,2023-07-30T10:53:06.609Z
+https://github.com/hanton/HTYTextField,OK,cocoapods,https://cocoapods.org/pods/HTYTextField,0,2,null,null,null,null,2023-07-18T03:02:40.167Z
+https://github.com/pmndrs/react-three-fiber,OK,npm,https://www.npmjs.com/package/@react-three/fiber,316,6762,32,2076,952799,last-month,2023-08-05T12:30:08.223Z
+https://github.com/Hasnayeen/invobook,OK,packagist,https://packagist.org/packages/iluminar/goodwork#,0,0,null,null,24,total,2023-08-05T11:11:45.295Z
+https://github.com/prettier/plugin-ruby,OK,npm,https://www.npmjs.com/package/@prettier/plugin-ruby,25,897,1,5,372978,last-month,2023-08-01T10:22:13.723Z
+https://github.com/mac-cleanup/mac-cleanup-sh,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/ZhongAnTech/zarm,OK,npm,https://www.npmjs.com/package/@zarm-design/bem,3,1,null,null,259,last-month,2023-08-05T11:12:25.315Z
+https://github.com/jekyll/jekyll-admin,OK,rubygems,https://rubygems.org/gems/jekyll-admin,4,2128,null,null,304020,total,2023-07-27T12:11:16.912Z
+https://github.com/trustwallet/wallet-core,OK,npm,https://www.npmjs.com/package/@trustwallet/wallet-core,9,39,null,null,3016,last-month,2023-08-04T16:54:05.41Z
+https://github.com/mattn/emmet-vim,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/chenhg5/go-admin,OK,go,https://pkg.go.dev/github.com/chenhg5/go-admin,0,1,null,null,null,null,2023-07-17T01:03:01.073Z
+https://github.com/nzbin/magnify,OK,npm,https://www.npmjs.com/package/jquery.magnify,1,8,null,null,65,last-month,2023-08-06T03:59:13.714Z
+https://github.com/voku/portable-utf8,OK,packagist,https://packagist.org/packages/voku/portable-utf8#,47,1201,15,94898371,9942246,total,2023-08-03T15:00:33.526Z
+https://github.com/voku/Arrayy,OK,packagist,https://packagist.org/packages/voku/arrayy#,24,663,1,80162,3246644,total,2023-07-31T03:53:20.023Z
+https://github.com/panjf2000/gnet,OK,go,https://pkg.go.dev/github.com/panjf2000/gnet,109,119,3,23,null,null,2023-07-28T14:40:49.361Z
+https://github.com/RehanSaeed/EditorConfig,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/reach/reach-ui,OK,npm,https://www.npmjs.com/package/@reach/utils,66,49672,99,24859030,3580730,last-month,2023-08-05T12:55:07.621Z
+https://github.com/vivaxy/gacp,OK,npm,https://www.npmjs.com/package/gacp,13,33,1,7,2406,last-month,2023-07-17T09:31:31.91Z
+https://github.com/yanyiwu/cppjieba,OK,go,https://pkg.go.dev/github.com/yanyiwu/cppjieba,0,0,null,null,null,null,2023-07-23T01:04:37.313Z
+https://github.com/yanyiwu/gojieba,OK,go,https://pkg.go.dev/github.com/yanyiwu/gojieba,96,65,null,null,null,null,2023-07-27T17:52:11.54Z
+https://github.com/flutter-webrtc/flutter-webrtc,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/huytd/pomoday-v2,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/adamhalasz/diet,OK,npm,https://www.npmjs.com/package/diet,9,25,null,null,449,last-month,2023-08-04T07:56:58.113Z
+https://github.com/ivanceras/rustorm,OK,cargo,https://crates.io/crates/rustorm/,6,4,null,null,119156,total,2023-07-27T20:52:32.12Z
+https://github.com/RoyalIcing/Lantern,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/dotnetcore/FlubuCore,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/trimstray/nginx-admins-handbook,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/trimstray/the-practical-linux-hardening-guide,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/trimstray/htrace.sh,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/alibaba/x-render,OK,npm,https://www.npmjs.com/package/chart-render,1,1,null,null,177,last-month,2023-08-05T11:13:15.128Z
+https://github.com/softvar/translatr,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/forsigner/fexo,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/randy408/libpng,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/cadCAD-org/cadCAD,OK,pypi,https://pypi.org/project/cadcad/,0,12,null,null,344,last-month,2023-08-05T11:13:16.433Z
+https://github.com/samchon/tstl,OK,npm,https://www.npmjs.com/package/tstl,40,99,1,6,45214,last-month,2023-07-28T18:17:22.931Z
+https://github.com/josephg/statecraft,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/skywinder/GaugeKit,OK,cocoapods,https://cocoapods.org/pods/GaugeKit,1,9,null,null,null,null,2023-07-27T19:37:34.956Z
+https://github.com/doocs/md,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/Lax/traffic-accounting-nginx-module,OK,alpine,https://pkgs.alpinelinux.org/package/v3.16/main/x86_64/nginx-mod-http-accounting,0,0,null,null,null,null,2023-07-22T13:34:57.417Z
+https://github.com/txthinking/zoro,OK,go,https://pkg.go.dev/github.com/txthinking/zoro,0,0,null,null,null,null,2023-08-05T11:13:13.486Z
+https://github.com/sparanoid/almace-scaffolding,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/txthinking/blackwhite,OK,go,https://pkg.go.dev/github.com/txthinking/blackwhite,0,0,null,null,null,null,2023-07-17T09:01:41.168Z
+https://github.com/liriliri/licia,OK,npm,https://www.npmjs.com/package/licia,90,642,3,30,52094,last-month,2023-08-03T12:22:24.357Z
+https://github.com/ionorg/ion,OK,go,https://pkg.go.dev/github.com/ionorg/ion,0,0,null,null,null,null,2023-08-05T11:13:18.487Z
+https://github.com/BlitterStudio/amiberry,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/casbin/casbin-rs,OK,cargo,https://crates.io/crates/casbin/,17,30,null,null,161431,total,2023-07-27T18:11:00.251Z
+https://github.com/vkarpov15/thecodebarbarian.com,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/frejs/fre,OK,deno,https://deno.land/x/fre,0,0,null,null,null,null,2023-07-17T10:31:39.129Z
+https://github.com/yisar/eplayer,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/silicon-hills/react-gtk,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/gjtorikian/commonmarker,OK,rubygems,https://rubygems.org/gems/commonmarker,60,317893,462,587292245,34892365,total,2023-08-02T18:27:54.585Z
+https://github.com/Ascotbe/Medusa,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/yTakkar/Go-Mini-Social-Network,OK,go,https://pkg.go.dev/github.com/ytakkar/go-mini-social-network,0,0,null,null,null,null,2023-07-17T15:50:27.232Z
+https://github.com/thatmattlove/hyperglass,OK,pypi,https://pypi.org/project/hyperglass/,0,1,1,59,443,last-month,2023-08-05T11:13:22.621Z
+https://github.com/moscajs/aedes,OK,npm,https://www.npmjs.com/package/aedes,142,1034,67,20149846,106621,last-month,2023-08-05T12:08:26.008Z
+https://github.com/neka-nat/probreg,OK,pypi,https://pypi.org/project/probreg/,0,1,null,null,1514,last-month,2023-07-22T18:57:59.718Z
+https://github.com/arrow-py/arrow,OK,pypi,https://pypi.org/project/arrow/,266,15768,1601,2166195100,14538057,last-month,2023-08-05T11:13:53.969Z
+https://github.com/wp-graphql/wp-graphql-woocommerce,OK,packagist,https://packagist.org/packages/wp-graphql/wp-graphql-woocommerce#,0,2,null,null,18923,total,2023-08-05T02:41:47.326Z
+https://github.com/selfdefined/web-app,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/ElderJames/ant-design-blazor,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/wechatpy/wechatpy,OK,go,https://pkg.go.dev/github.com/wechatpy/wechatpy,0,0,null,null,null,null,2023-08-05T11:14:12.137Z
+https://github.com/obs-ndi/obs-ndi,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/orhun/kmon,OK,cargo,https://crates.io/crates/kmon/,0,0,null,null,8642,total,2023-07-24T17:53:09.392Z
+https://github.com/spencerwooo/substats,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/remorses/mongoke,OK,pypi,https://pypi.org/project/mongoke/,0,1,null,null,107,last-month,2023-07-22T20:48:01.032Z
+https://github.com/clj-kondo/clj-kondo,OK,clojars,https://clojars.org/clj-kondo/,85,32,null,null,3267273,total,2023-08-05T11:14:15.975Z
+https://github.com/FreeRDP/Remmina,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/wellyshen/react-cool-starter,OK,npm,https://www.npmjs.com/package/react-cool-starter,1,1,null,null,8,last-month,2023-08-04T04:12:34.317Z
+https://github.com/bjornharrtell/jts,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/wellyshen/use-places-autocomplete,OK,npm,https://www.npmjs.com/package/use-places-autocomplete,28,1013,5,59,371240,last-month,2023-08-04T04:12:33.119Z
+https://github.com/wellyshen/react-cool-portal,OK,npm,https://www.npmjs.com/package/react-cool-portal,5,37,null,null,12912,last-month,2023-07-27T16:55:39.978Z
+https://github.com/wellyshen/react-cool-onclickoutside,OK,npm,https://www.npmjs.com/package/react-cool-onclickoutside,45,444,4,53,200513,last-month,2023-07-17T10:02:47.595Z
+https://github.com/wellyshen/react-cool-dimensions,OK,npm,https://www.npmjs.com/package/react-cool-dimensions,46,1096,2,40,207375,last-month,2023-08-02T10:22:24.471Z
+https://github.com/wellyshen/react-cool-img,OK,npm,https://www.npmjs.com/package/react-cool-img,5,135,null,null,19890,last-month,2023-08-04T04:12:32.412Z
+https://github.com/zhaojh329/oui,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/lokesh-coder/blobs.app,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/wellyshen/use-web-animations,OK,npm,https://www.npmjs.com/package/@wellyshen/use-web-animations,3,236,null,null,4619,last-month,2023-07-27T16:37:34.897Z
+https://github.com/dynaconf/dynaconf,OK,pypi,https://pypi.org/project/dynaconf/,61,1102,49,2678315,1934180,last-month,2023-08-06T04:11:57.87Z
+https://github.com/rslint/rslint,OK,cargo,https://crates.io/crates/rslint_lexer/,3,7,null,null,14546,total,2023-08-05T11:16:39.4Z
+https://github.com/xcatliu/pagic,OK,npm,https://www.npmjs.com/package/pagic,15,2,null,null,57,last-month,2023-07-27T03:47:32.636Z
+https://github.com/XPoet/hexo-theme-keep,OK,npm,https://www.npmjs.com/package/hexo-theme-keep,1,52,null,null,14840,last-month,2023-08-04T04:28:27.133Z
+https://github.com/aidenybai/lucia,OK,deno,https://deno.land/x/lucia,0,0,null,null,null,null,2023-07-16T23:31:23.918Z
+https://github.com/OSSPhilippines/covid19-tracker-cli,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/jeffreytse/jekyll-spaceship,OK,rubygems,https://rubygems.org/gems/jekyll-spaceship,5,458,null,null,143116,total,2023-07-27T12:12:50.175Z
+https://github.com/M2TeamArchived/NSudo,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/pmndrs/jotai,OK,npm,https://www.npmjs.com/package/jotai,336,3355,36,1711,2132424,last-month,2023-08-06T02:54:54.762Z
+https://github.com/Charmve/Surface-Defect-Detection,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/xuexiangjys/XUpdate,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/alexmojaki/futurecoder,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/ondrajz/go-callvis,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/creevey/creevey,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/saschaeggi/gin,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/j256/two-factor-auth,OK,maven,https://repo.maven.apache.org/maven2/com/j256/two-factor-auth/two-factor-auth/,3,20,null,null,null,null,2023-07-17T03:31:29.211Z
+https://github.com/pmndr/BookTrackerApp,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/bookwyrm-social/bookwyrm,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/ojack/hydra,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/nicklockwood/SwiftFormat,OK,cocoapods,https://cocoapods.org/pods/SwiftFormat,0,230,null,null,null,null,2023-08-06T01:21:20.751Z
+https://github.com/medyo/hackertab.dev,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/kenangundogan/flexible-grid,OK,packagist,https://packagist.org/packages/kenangundogan/flexiblegrid#,1,2,null,null,10,total,2023-07-17T04:30:40.909Z
+https://github.com/mopsicus/UnityMobileInput,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/SagerNet/sing-box,OK,go,https://pkg.go.dev/github.com/sagernet/sing-box,6,30,11,1410,null,null,2023-08-05T15:24:08.049Z
+https://github.com/OlehKulykov/PLzmaSDK,OK,cocoapods,https://cocoapods.org/pods/PLzmaSDK,0,3,null,null,null,null,2023-08-04T09:58:40.131Z
+https://github.com/apolloconfig/apollo.net,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/bestofjs/bestofjs,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/bvaughn/react-window,OK,npm,https://www.npmjs.com/package/react-window,1497,21701,513,239063992,8122351,last-month,2023-08-06T04:09:00.16Z
+https://github.com/Milkdown/milkdown,OK,npm,https://www.npmjs.com/package/@milkdown/core,57,83,1,4,13534,last-month,2023-08-05T11:18:36.338Z
+https://github.com/wellyshen/react-cool-virtual,OK,npm,https://www.npmjs.com/package/react-cool-virtual,9,19,null,null,63083,last-month,2023-08-04T04:12:33.794Z
+https://github.com/apache/incubator-streampark,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/wellyshen/react-cool-form,OK,npm,https://www.npmjs.com/package/react-cool-form,1,31,null,null,746,last-month,2023-07-17T10:02:50.559Z
+https://github.com/YunYouJun/cook,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/breathe-doc/breathe,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/serayuzgur/crates,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/cinnyapp/cinny,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/ant-design/ant-design-mobile,OK,npm,https://www.npmjs.com/package/antd-mobile,839,6495,14,55714,158058,last-month,2023-08-06T02:38:19.167Z
+https://github.com/vercel/hyper,OK,go,https://pkg.go.dev/github.com/vercel/hyper,0,0,null,null,null,null,2023-08-02T14:09:31.425Z
+https://github.com/sayanarijit/qrcode.show,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/ElMassimo/iles,OK,npm,https://www.npmjs.com/package/iles,10,19,null,null,1063,last-month,2023-07-28T02:39:26.552Z
+https://github.com/lostdesign/linked,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/youzan/vant-weapp,OK,npm,https://www.npmjs.com/package/@vant/weapp,73,684,null,null,11800,last-month,2023-08-05T13:57:40.696Z
+https://github.com/tidory/hello,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/aio-libs/multidict,OK,pypi,https://pypi.org/project/multidict/,134,41832,6003,1590952717,70467633,last-month,2023-08-04T12:55:39.444Z
+https://github.com/shadeed/rtl-styling,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/PyCQA/bandit,OK,pypi,https://pypi.org/project/bandit/,258,14189,279,747253773,3428473,last-month,2023-08-05T11:54:52.387Z
+https://github.com/dotnet/Silk.NET,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/vemel/mypy_boto3_builder,OK,conda,https://anaconda.org/conda-forge/boto3-stubs-essential,0,1,null,null,null,null,2023-07-22T23:50:46.568Z
+https://github.com/gaplo917/GapStyle,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/taufik-nurrohman/tag-picker,OK,npm,https://www.npmjs.com/package/@taufik-nurrohman/tag-picker,1,2,null,null,578,last-month,2023-07-17T08:31:13.044Z
+https://github.com/taufik-nurrohman/option-picker,OK,npm,https://www.npmjs.com/package/@taufik-nurrohman/option-picker,1,1,null,null,82,last-month,2023-07-17T08:31:02.171Z
+https://github.com/taufik-nurrohman/f3h,OK,npm,https://www.npmjs.com/package/@taufik-nurrohman/f3h,1,1,null,null,435,last-month,2023-07-17T08:31:40.47Z
+https://github.com/bitmark-standard/bitmark-grammar,OK,npm,https://www.npmjs.com/package/bitmark-grammar,0,1,null,null,1831,last-month,2023-08-05T11:21:29.569Z
+https://github.com/taufik-nurrohman/text-editor,OK,npm,https://www.npmjs.com/package/@taufik-nurrohman/text-editor,6,6,null,null,80,last-month,2023-08-02T11:40:50.097Z
+https://github.com/cytopia/pwncat,OK,pypi,https://pypi.org/project/pwncat/,0,2,1,65,509,last-month,2023-07-27T18:48:09.241Z
+https://github.com/sparckles/robyn,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/djezzzl/factory_trace,OK,rubygems,https://rubygems.org/gems/factory_trace,0,8,null,null,443507,total,2023-07-21T20:24:58.946Z
+https://github.com/djezzzl/n1_loader,OK,rubygems,https://rubygems.org/gems/n1_loader,0,0,null,null,208914,total,2023-08-04T06:53:12.565Z
+https://github.com/ThaUnknown/pwa-haven,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/HashLoad/boss,OK,go,https://pkg.go.dev/github.com/hashload/boss,0,0,null,null,null,null,2023-07-16T14:46:00.223Z
+https://github.com/stumpapp/stump,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/AtTheRoot/ATR-License,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/creativetimofficial/material-tailwind,OK,npm,https://www.npmjs.com/package/@material-tailwind/react,9,1137,7,24,111987,last-month,2023-08-03T14:40:40.937Z
+https://github.com/LouisMazel/maz-ui,OK,npm,https://www.npmjs.com/package/maz-ui,4,24,null,null,27119,last-month,2023-08-04T14:41:32.563Z
+https://github.com/SukkaW/DisqusJS,OK,npm,https://www.npmjs.com/package/disqusjs,9,49,null,null,5806,last-month,2023-08-03T15:14:48.89Z
+https://github.com/permasigner/permasigner,OK,pypi,https://pypi.org/project/permasigner/,0,0,null,null,54,last-month,2023-08-05T11:22:46.5Z
+https://github.com/saleem-hadad/finance,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/JaxGaussianProcesses/GPJax,OK,pypi,https://pypi.org/project/gpjax/,3,2,null,null,1323,last-month,2023-08-05T11:23:18.915Z
+https://github.com/miroslavpejic85/mirotalk,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/miroslavpejic85/mirotalksfu,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/1c7/Youtube-Auto-Subtitle-Download,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/SeaQL/sea-query,OK,cargo,https://crates.io/crates/sea-query/,22,307,5,25067,1188085,total,2023-08-04T13:54:45.188Z
+https://github.com/SeaQL/sea-schema,OK,cargo,https://crates.io/crates/sea-schema/,5,161,1,12,335821,total,2023-07-22T14:57:59.414Z
+https://github.com/ibericode/koko-analytics,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/sern-handler/handler,OK,npm,https://www.npmjs.com/package/@sern/handler,1,7,null,null,520,last-month,2023-08-06T06:27:27.084Z
+https://github.com/terra-rebels/station,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/browserslist/browserslist-useragent-regexp,OK,npm,https://www.npmjs.com/package/browserslist-useragent-regexp,31,136,2,2267859,538679,last-month,2023-07-27T16:03:01.438Z
+https://github.com/iOSDevSpace/iosdevspace,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/Blazor-School/blazor-school-library,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/codigoencasa/bot-whatsapp,OK,npm,https://www.npmjs.com/package/@bot-whatsapp/bot,4,33,1,5,3826,last-month,2023-08-05T11:11:29.801Z
+https://github.com/cp-algorithms/cp-algorithms,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/module-federation/universe,OK,npm,https://www.npmjs.com/package/@module-federation/nextjs-mf,8,53,1,45,123936,last-month,2023-08-04T21:27:54.614Z
+https://github.com/assegaiphp/core,OK,packagist,https://packagist.org/packages/assegaiphp/core#,4,1,null,null,70,total,2023-07-17T00:03:59.729Z
+https://github.com/BrightfieldTechAcademy/Curriculum,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/OrgOwl/ffmpeg-bat,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/apache/cassandra,OK,spack,https://packages.spack.io/package.html?name=cassandra,0,0,null,null,null,null,2023-07-17T00:04:15.223Z
+https://github.com/tanmoysrt/lumi,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/opentdp/tdp-cloud,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/dint-dev/cryptography,OK,pub,https://pub.dev/packages/cryptography,89,409,null,null,null,null,2023-07-22T16:35:13.506Z
+https://github.com/ShootingKing-AM/PhoneVR,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/listr2/listr2,OK,npm,https://www.npmjs.com/package/listr2,389,188948,975,911260849,54085410,last-month,2023-08-05T05:08:54.56Z
+https://github.com/web-infra-dev/modern.js,OK,npm,https://www.npmjs.com/package/@modern-js/tsconfig,71,26,1,8,103552,last-month,2023-08-05T14:10:00.869Z
+https://github.com/lyy289065406/re0-web,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/dagu-dev/dagu,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/OpenStitching/stitching,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/XcodesOrg/xcodes,OK,swiftpm,https://swiftpackageindex.com/XcodesOrg/xcodes,0,0,null,null,null,null,2023-07-28T14:19:38.042Z
+https://github.com/EcomPHP/tiktokshop-php,OK,packagist,https://packagist.org/packages/nvuln/tiktokshop-php#,0,1,null,null,2308,total,2023-08-05T11:24:27.627Z
+https://github.com/WasmEdge/docs,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/graphql-kit/graphql-apis,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/graphql-kit/graphql-faker,OK,npm,https://www.npmjs.com/package/gql-faker,0,0,null,null,274,last-month,2023-08-05T10:43:28.324Z
+https://github.com/graphql-kit/graphql-lodash,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/sigstore/docs,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/RustMagazine/rustmagazine,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/forgoer/thinkgo,OK,go,https://pkg.go.dev/github.com/forgoer/thinkgo,0,0,null,null,null,null,2023-07-17T02:31:33.957Z
+https://github.com/MariaDB4j/MariaDB4j,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/easystats/easystats,OK,cran,https://cran.r-project.org/package=easystats,0,1,null,null,1808,last-month,2023-08-05T11:25:02.025Z
+https://github.com/cookiecutter/cookiecutter-django,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/4awpawz/fusion.ssg,OK,npm,https://www.npmjs.com/package/@4awpawz/fusion.ssg,0,0,null,null,136,last-month,2023-08-05T11:25:06.455Z
+https://github.com/Kurozora/kurozora-app,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/lyralang/lyra,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/planetary-social/nos,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/blacksky-algorithms/rsky,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/slawkens/myaac,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/linkwarden/linkwarden,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/nextapps-de/winbox,OK,npm,https://www.npmjs.com/package/winbox,15,69,null,null,13710,last-month,2023-08-05T11:25:39.3Z
+https://github.com/prismaneui/prismane,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/SkriptLang/Skript,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/openpracticelibrary/openpracticelibrary,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/axe-api/axe-api,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/Memmy-App/memmy,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/ctrl-f-plus/ctrl-f-plus-chrome-extension,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/FiguraMC/Figura,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/microcks/microcks,OK,maven,https://repo.maven.apache.org/maven2/io/github/microcks/microcks-model/,4,5,null,null,null,null,2023-08-05T11:25:45.787Z
+https://github.com/cmderdev/cmder,OK,go,https://pkg.go.dev/github.com/cmderdev/cmder,0,0,null,null,null,null,2023-08-05T11:25:47.613Z
+https://github.com/dxatscale/sfpowerscripts,OK,npm,https://www.npmjs.com/package/@dxatscale/sfp-logger,7,5,2,4248,49939,last-month,2023-08-05T11:25:54.451Z
+https://github.com/TheOdinProject/theodinproject,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/chdb-io/chdb,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/kuma-ui/kuma-ui,No lookups,null,null,null,null,null,null,null,null,null
+https://github.com/ContextLab/chatify,No lookups,null,null,null,null,null,null,null,null,null

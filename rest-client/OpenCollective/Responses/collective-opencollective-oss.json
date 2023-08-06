@@ -1,0 +1,76 @@
+{
+  "data": {
+    "collective": {
+      "id": "0n4gx0br-ov5m96n0-l8qd8lk3-ey7jzwan",
+      "legacyId": 811,
+      "slug": "opencollective-oss",
+      "type": "COLLECTIVE",
+      "name": "Open Collective OSS",
+      "legalName": null,
+      "description": "We are on a mission to create a new generation of association transparent by design",
+      "longDescription": "<p>We are building an open source software to enable associations to operate in full transparency.</p>\n<p>Our code is released under MIT License on Github: https://github.com/opencollective.</p>\n<p>You can come chat with us on Slack: https://slack.opencollective.org</p>",
+      "tags": ["open source"],
+      "website": "https://opencollective.com",
+      "twitterHandle": "opencollect",
+      "githubHandle": "opencollective/opencollective",
+      "repositoryUrl": "https://github.com/opencollective/opencollective",
+      "socialLinks": [
+        {
+          "type": "WEBSITE",
+          "url": "https://opencollective.com",
+          "createdAt": "2023-01-06T12:16:03.418Z",
+          "updatedAt": "2023-01-06T12:16:03.418Z"
+        },
+        {
+          "type": "TWITTER",
+          "url": "https://twitter.com/opencollect",
+          "createdAt": "2023-01-06T12:16:05.848Z",
+          "updatedAt": "2023-01-06T12:16:05.848Z"
+        },
+        {
+          "type": "GITHUB",
+          "url": "https://github.com/opencollective/opencollective",
+          "createdAt": "2023-01-06T12:16:07.349Z",
+          "updatedAt": "2023-01-06T12:16:07.349Z"
+        }
+      ],
+      "isArchived": false,
+      "isFrozen": false,
+      "isActive": true,
+      "isHost": false,
+      "isAdmin": false,
+      "location": null,
+      "categories": [],
+      "stats": {
+        "id": "0n4gx0br-ov5m96n0-l8qd8lk3-ey7jzwan",
+        "activeRecurringContributions": {
+          "CollectiveId": 811,
+          "monthly": 0,
+          "yearly": 0,
+          "currency": null
+        },
+        "contributionsCount": 54,
+        "contributorsCount": 15
+      },
+      "host": {
+        "id": "8a47byg9-nxozdp80-xm6mjlv0-3rek5w8k",
+        "slug": "opensource",
+        "type": "ORGANIZATION",
+        "name": "Open Source Collective",
+        "tags": ["open source", "nonprofit"],
+        "website": "https://oscollective.org",
+        "twitterHandle": "opencollect",
+        "githubHandle": null,
+        "repositoryUrl": null,
+        "createdAt": "2017-12-11T00:00:00.000Z",
+        "updatedAt": "2023-05-09T20:51:33.030Z",
+        "isArchived": false,
+        "isFrozen": false,
+        "isActive": true,
+        "isHost": true,
+        "isAdmin": false
+      },
+      "isApproved": true
+    }
+  }
+}

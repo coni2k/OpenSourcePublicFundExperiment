@@ -1,5 +1,15 @@
 ###
+POST https://localhost:7007/Ecosystems/GetRepositoryDetails
+Accept: application/json
+Content-Type: application/json
+
+[
+    "https://github.com/babel/babel"
+]
+
+###
 POST https://localhost:7007/Ecosystems/GetTopLookupsByRepositoryUrl
+Accept: application/json
 Content-Type: application/json
 
 [
