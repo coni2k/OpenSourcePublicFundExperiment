@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Octokit;
 using PublicFundExperimentAPI.Controllers.Models;
+using System.Text.Json;
 
 namespace PublicFundExperimentAPI.Controllers
 {
@@ -21,96 +22,77 @@ namespace PublicFundExperimentAPI.Controllers
             return await _client.User.Current();
         }
 
-        [HttpPost(Name = "GetTopRepositoryBySearch")]
-        public async Task<List<GitHubRepository>> GetTopRepositoryBySearch([FromBody] List<string> users, CancellationToken cancellationToken)
+        [HttpPost(Name = "GetRepositoryByUrl")]
+        public async Task<GetRepositoryByUrlResult> GetRepositoryByUrl([FromBody] List<Uri> repositoryUrls, CancellationToken cancellationToken)
         {
-            if (users is null || !users.Any()) throw new ArgumentException($"'{nameof(users)}' cannot be null or empty.", nameof(users));
+            if (repositoryUrls is null || !repositoryUrls.Any()) throw new ArgumentException($"'{nameof(repositoryUrls)}' cannot be null or empty.", nameof(repositoryUrls));
 
-            users = users
-                .Where(item => !string.IsNullOrWhiteSpace(item))
-                .Select(item => item.ToLowerInvariant().Replace("https://github.com/", ""))
+            var uniqueRepositoryUrls = repositoryUrls
+                .Where(item => !string.IsNullOrWhiteSpace(item.AbsoluteUri))
                 .DistinctBy(item => item)
                 .ToList();
 
-            var repositories = new List<GitHubRepository>();
+            int okCount = 0, errorCount = 0;
+            var startedOn = DateTime.UtcNow;
+            Console.WriteLine($"{DateTime.UtcNow:T} - Starting the process.\r\n" +
+                $"Request: {repositoryUrls.Count}\r\n" +
+                $"Unique: {uniqueRepositoryUrls.Count}");
 
-            foreach (var user in users)
+            var repositoryResults = new List<GitHubRepositoryResult>();
+
+            foreach (var url in uniqueRepositoryUrls)
             {
-                Console.WriteLine($"user: {user}");
+                Console.WriteLine($"{DateTime.UtcNow:T} - Url: {url}");
 
-                var request = new SearchRepositoriesRequest
+                var result = new GitHubRepositoryResult(url);
+                repositoryResults.Add(result);
+
+                var owner = url.Segments[1].Replace("/", "");
+                var name = url.Segments[2].Replace("/", "");
+
+                if (owner == string.Empty || name == string.Empty)
                 {
-                    User = user,
-                    SortField = RepoSearchSort.Stars,
-                    Order = SortDirection.Descending,
-                    PerPage = 1
-                };
+                    result.Status = "Error: owner or name cannot be null";
 
-                SearchRepositoryResult? searchResult = null;
-
-                var status = "OK";
+                    errorCount++;
+                    continue;
+                }
 
                 try
                 {
-                    searchResult = await _client.Search.SearchRepo(request);
-                }
-                catch (ApiValidationException ex)
-                {
-                    ApiErrorDetail? error = ex.ApiError.Errors.Any() ? ex.ApiError.Errors[0] : null;
-                    if (error?.Message == "The listed users and repositories cannot be searched either because the resources do not exist or you do not have permission to view them.")
-                        status = "User not found";
-                    //else if (error?.Message == "API Rate limit?")
-                    //    repository.Status = "Rate limit...";
-                    else
-                    {
-                        Console.WriteLine(ex.Message);
-                    }
-                }
-                catch (Exception ex)
-                {
-                    // Retry?
-                    Console.WriteLine(ex.Message);
-                }
+                    var repository = await _client.Repository.Get(owner, name);
 
-                Repository? topRepo = null;
-                if (searchResult != null)
-                {
-                    if (searchResult.Items.Any())
-                        topRepo = searchResult.Items[0];
-                    else
-                        status = "No repositories";
+                    result.UrlGitHub = new Uri(repository.HtmlUrl);
+                    result.Status = url.AbsoluteUri == repository.HtmlUrl ? "Same" : "Different";
+                    okCount++;
                 }
-
-                repositories.Add(new GitHubRepository(
-                    $"https://github.com/{user}",
-                    topRepo?.HtmlUrl,
-                    topRepo?.Language,
-                    topRepo?.License?.Name,
-                    topRepo?.StargazersCount,
-                    status
-                ));
-
-                // Rate limits
-                // https://octokitnet.readthedocs.io/en/latest/getting-started/#too-much-of-a-good-thing-dealing-with-api-rate-limits
-                // https://docs.github.com/en/rest/search?apiVersion=2022-11-28
-                var rateLimits = await _client.RateLimit.GetRateLimits();
-                var searchLimits = rateLimits.Resources.Search;
-                if (searchLimits != null && searchLimits.Remaining == 0)
+                catch (NotFoundException)
                 {
-                    var resetTime = searchLimits.Reset.ToUniversalTime().AddMicroseconds(500);
-                    var waitTime = (int)(resetTime - DateTime.UtcNow).TotalMilliseconds;
+                    result.Status = "Repo not found";
 
-                    if (waitTime > 0)
-                    {
-                        Console.WriteLine($"Waiting until {resetTime}");
-                        Task.Delay(waitTime, cancellationToken).Wait(cancellationToken);
-                    }
+                    errorCount++;
                 }
             }
 
+            var endedOn = DateTime.UtcNow;
+            var operationTimeMinutes = (int)(endedOn - startedOn).TotalMinutes;
+            var operationTimeSeconds = (int)(endedOn - startedOn).TotalSeconds;
+            var operationTimeText = operationTimeMinutes > 1 ? $"{operationTimeMinutes} minutes" : $"{operationTimeSeconds} seconds";
 
+            var results = new GetRepositoryByUrlResult(repositoryUrls.Count, uniqueRepositoryUrls.Count, okCount, errorCount, startedOn, endedOn, repositoryResults);
 
-            return repositories;
+            Console.WriteLine($"{DateTime.UtcNow:T} - Finishing the process.\r\n" +
+                $"Request: {results.requestCount}\r\n" +
+                $"Unique: {results.uniqueCount}\r\n" +
+                $"Ok: {results.okCount}\r\n" +
+                $"Error: {results.errorCount}\r\n" +
+                $"Duration: {operationTimeText}");
+
+            var json = JsonSerializer.Serialize(results);
+            var fileName = @$".\output\{nameof(GetRepositoryByUrl)}.json";
+            System.IO.File.WriteAllText(fileName, json);
+
+            return results;
         }
 
         [HttpPost(Name = "GetTopRepositoryByUser")]
@@ -123,7 +105,7 @@ namespace PublicFundExperimentAPI.Controllers
                 .Select(item => item.ToLowerInvariant().Replace("https://github.com/", ""))
                 .DistinctBy(item => item)
                 .ToList();
-            
+
             var startedOn = DateTime.UtcNow;
             Console.WriteLine($"{DateTime.UtcNow:T} - Starting the process with {users.Count} users");
 
@@ -133,40 +115,35 @@ namespace PublicFundExperimentAPI.Controllers
             {
                 Console.WriteLine($"{DateTime.UtcNow:T} - User: {user}");
 
-                var status = "OK";
-                Repository? topRepo = null;
+                var repository = new GitHubRepository($"https://github.com/{user}");
+                repositories.Add(repository);
 
                 try
                 {
                     var allRepos = await _client.Repository.GetAllForUser(user);
                     if (allRepos.Any())
-                        topRepo = allRepos.OrderByDescending(item => item.StargazersCount).FirstOrDefault();
+                    {
+                        var topRepo = allRepos.OrderByDescending(item => item.StargazersCount).FirstOrDefault();
+                        repository.Url = topRepo?.HtmlUrl;
+                        repository.Status = "OK";
+                    }
                     else
-                        status = "No repositories";
+                        repository.Status = "No repositories";
                 }
                 catch (NotFoundException)
                 {
-                    status = "User not found";
+                    repository.Status = "User not found";
                 }
                 catch (ApiValidationException ex)
                 {
-                    status = ex.Message;
+                    repository.Status = ex.Message;
                     Console.WriteLine(ex.Message);
                 }
                 catch (Exception ex)
                 {
-                    status = ex.Message;
+                    repository.Status = ex.Message;
                     Console.WriteLine(ex.Message);
                 }
-
-                repositories.Add(new GitHubRepository(
-                    $"https://github.com/{user}",
-                    topRepo?.HtmlUrl,
-                    topRepo?.Language,
-                    topRepo?.License?.Name,
-                    topRepo?.StargazersCount,
-                    status
-                ));
 
                 // Rate limits
                 // https://octokitnet.readthedocs.io/en/latest/getting-started/#too-much-of-a-good-thing-dealing-with-api-rate-limits
@@ -188,8 +165,12 @@ namespace PublicFundExperimentAPI.Controllers
 
             var operationTimeMinutes = (int)(DateTime.UtcNow - startedOn).TotalMinutes;
             var operationTimeSeconds = (int)(DateTime.UtcNow - startedOn).TotalSeconds;
-            var operationTimeText = operationTimeMinutes > 1 ? $"{operationTimeMinutes} minutes": $"{operationTimeSeconds} seconds";
+            var operationTimeText = operationTimeMinutes > 1 ? $"{operationTimeMinutes} minutes" : $"{operationTimeSeconds} seconds";
             Console.WriteLine($"{DateTime.UtcNow:T} - Finishing the process, took {operationTimeText}");
+
+            var json = JsonSerializer.Serialize(repositories);
+            var fileName = @$".\output\{nameof(GetTopRepositoryByUser)}.json";
+            System.IO.File.WriteAllText(fileName, json);
 
             return repositories;
         }
