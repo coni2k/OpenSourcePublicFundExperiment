@@ -137,7 +137,7 @@
     {
       "urlInput": "https://github.com/opentechfund/hypha",
       "urlGitHub": "https://github.com/OpenTechFund/apply-app",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/preactjs/preact",
@@ -167,7 +167,7 @@
     {
       "urlInput": "https://github.com/grapesjs/grapesjs",
       "urlGitHub": "https://github.com/GrapesJS/grapesjs",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/rubocop/rubocop",
@@ -467,7 +467,7 @@
     {
       "urlInput": "https://github.com/xuri/excelize",
       "urlGitHub": "https://github.com/qax-os/excelize",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/openfl/openfl",
@@ -637,12 +637,12 @@
     {
       "urlInput": "https://github.com/Erxes/Erxes",
       "urlGitHub": "https://github.com/erxes/erxes",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/AutoSpotting/AutoSpotting",
       "urlGitHub": "https://github.com/LeanerCloud/AutoSpotting",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/rollup/rollup",
@@ -842,7 +842,7 @@
     {
       "urlInput": "https://github.com/lidarr/lidarr",
       "urlGitHub": "https://github.com/Lidarr/Lidarr",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/pact-foundation/pact-ruby",
@@ -917,7 +917,7 @@
     {
       "urlInput": "https://github.com/maticzav/graphql-shield",
       "urlGitHub": "https://github.com/dimatill/graphql-shield",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/vanilla-rtb/awesome-rtb",
@@ -942,7 +942,7 @@
     {
       "urlInput": "https://github.com/catel/catel",
       "urlGitHub": "https://github.com/Catel/Catel",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/Binaryify/OneDark-Pro",
@@ -987,7 +987,7 @@
     {
       "urlInput": "https://github.com/codeuino/Social-Platform-Donut",
       "urlGitHub": "https://github.com/codeuino/social-platform-donut-frontend",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/ariakit/ariakit",
@@ -1017,7 +1017,7 @@
     {
       "urlInput": "https://github.com/catfan/medoo",
       "urlGitHub": "https://github.com/catfan/Medoo",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/pastelsky/bundlephobia",
@@ -1077,7 +1077,7 @@
     {
       "urlInput": "https://github.com/24OI/OI-wiki",
       "urlGitHub": "https://github.com/OI-wiki/OI-wiki",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/backyourstack/backyourstack",
@@ -1102,7 +1102,7 @@
     {
       "urlInput": "https://github.com/davidkpiano/xstate",
       "urlGitHub": "https://github.com/statelyai/xstate",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/staltz/manyverse",
@@ -1112,7 +1112,7 @@
     {
       "urlInput": "https://github.com/smooth-code/svgr",
       "urlGitHub": "https://github.com/gregberge/svgr",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/vuetifyjs/vuetify",
@@ -1127,7 +1127,7 @@
     {
       "urlInput": "https://github.com/smooth-code/jest-puppeteer",
       "urlGitHub": "https://github.com/argos-ci/jest-puppeteer",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/AlchemyCMS/alchemy_cms",
@@ -1172,12 +1172,12 @@
     {
       "urlInput": "https://github.com/jfoenixadmin/JFoenix",
       "urlGitHub": "https://github.com/sshahine/JFoenix",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/s4n7h0/Halcyon",
       "urlGitHub": "https://github.com/s4n7h0/Halcyon-IDE",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/sous-chefs/docker",
@@ -1492,7 +1492,7 @@
     {
       "urlInput": "https://github.com/tootsuite/mastodon",
       "urlGitHub": "https://github.com/mastodon/mastodon",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/miscord/miscord",
@@ -1517,7 +1517,7 @@
     {
       "urlInput": "https://github.com/chriso/validator.js",
       "urlGitHub": "https://github.com/validatorjs/validator.js",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/nuke-build/nuke",
@@ -1572,7 +1572,7 @@
     {
       "urlInput": "https://github.com/canner/canner",
       "urlGitHub": "https://github.com/CannerCMS/cannercms",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/chenjiahan/rodal",
@@ -1752,7 +1752,7 @@
     {
       "urlInput": "https://github.com/artpolikarpov/Fotorama",
       "urlGitHub": "https://github.com/artpolikarpov/fotorama",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/saleem-hadad/larecipe",
@@ -1767,7 +1767,7 @@
     {
       "urlInput": "https://github.com/wexond/wexond",
       "urlGitHub": "https://github.com/wexond/browser-base",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/peachcloud/meta",
@@ -1857,7 +1857,7 @@
     {
       "urlInput": "https://github.com/expede/witchcraft",
       "urlGitHub": "https://github.com/witchcrafters/witchcraft",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/Stellarium/tellarium",
@@ -1882,7 +1882,7 @@
     {
       "urlInput": "https://github.com/pavjacko/renative",
       "urlGitHub": "https://github.com/flexn-io/renative",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/ant-design/ant-design-mobile-rn",
@@ -1947,7 +1947,7 @@
     {
       "urlInput": "https://github.com/ReactTraining/react-router",
       "urlGitHub": "https://github.com/remix-run/react-router",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/julienrf/endpoint",
@@ -1992,7 +1992,7 @@
     {
       "urlInput": "https://github.com/QUANTAXIS/QUANTAXIS",
       "urlGitHub": "https://github.com/yutiansut/QUANTAXIS",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/sindresorhus/awesome",
@@ -2007,7 +2007,7 @@
     {
       "urlInput": "https://github.com/wisp-x/lsky-pro",
       "urlGitHub": "https://github.com/lsky-org/lsky-pro",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/HookyQR/VSCodeBeautify",
@@ -2047,7 +2047,7 @@
     {
       "urlInput": "https://github.com/jschr/vscodethemes",
       "urlGitHub": "https://github.com/vscodethemes/web",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/OrkoHunter/pep8peaks",
@@ -2312,7 +2312,7 @@
     {
       "urlInput": "https://github.com/Wechaty/wechaty",
       "urlGitHub": "https://github.com/wechaty/wechaty",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/EasyHexo/Easy-Hexo",
@@ -2322,7 +2322,7 @@
     {
       "urlInput": "https://github.com/smooth-code/loadable-components",
       "urlGitHub": "https://github.com/gregberge/loadable-components",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/marcelklehr/floccu",
@@ -2437,7 +2437,7 @@
     {
       "urlInput": "https://github.com/davidesantangelo/feedi",
       "urlGitHub": "https://github.com/davidesantangelo/api.rss",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/casbin/casbin",
@@ -2492,7 +2492,7 @@
     {
       "urlInput": "https://github.com/theacodes/nox",
       "urlGitHub": "https://github.com/wntrblm/nox",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/ZhuPeng/mp-githubtrending",
@@ -2576,8 +2576,8 @@
     },
     {
       "urlInput": "https://github.com/jenssegers/laravel-mongodb",
-      "urlGitHub": "https://github.com/jenssegers/laravel-mongodb",
-      "status": "OK"
+      "urlGitHub": "https://github.com/mongodb/laravel-mongodb",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/jenssegers/imagehash",
@@ -2767,7 +2767,7 @@
     {
       "urlInput": "https://github.com/Kaiyuan/donate-page",
       "urlGitHub": "https://github.com/Kaiyuan/sponsor-page",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/streamich/react-use",
@@ -2797,7 +2797,7 @@
     {
       "urlInput": "https://github.com/jedisct1/dnscrypt-proxy",
       "urlGitHub": "https://github.com/DNSCrypt/dnscrypt-proxy",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/jedisct1/pure-ftpd",
@@ -2832,7 +2832,7 @@
     {
       "urlInput": "https://github.com/500tech/angular-tree-component",
       "urlGitHub": "https://github.com/CirclonGroup/angular-tree-component",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/peachpiecompiler/peachpie",
@@ -2897,7 +2897,7 @@
     {
       "urlInput": "https://github.com/ra-gg/Delir",
       "urlGitHub": "https://github.com/delirvfx/Delir",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/MSPaintIDE/MSPaintIDE",
@@ -2922,7 +2922,7 @@
     {
       "urlInput": "https://github.com/sqlcollaborative/dbatools",
       "urlGitHub": "https://github.com/dataplat/dbatools",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/zalelion/cqr",
@@ -2982,7 +2982,7 @@
     {
       "urlInput": "https://github.com/dhowe/RiTa",
       "urlGitHub": "https://github.com/dhowe/rita",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/lukeed/polka",
@@ -3032,7 +3032,7 @@
     {
       "urlInput": "https://github.com/watzon/cadmium",
       "urlGitHub": "https://github.com/cadmiumcr/cadmium",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/pomber/code-urfer",
@@ -3172,7 +3172,7 @@
     {
       "urlInput": "https://github.com/cloudson/gitql",
       "urlGitHub": "https://github.com/filhodanuvem/gitql",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/typescript-eslint/typescript-eslint",
@@ -3227,7 +3227,7 @@
     {
       "urlInput": "https://github.com/daehruoydeef/Yin-Yang",
       "urlGitHub": "https://github.com/oskarsh/Yin-Yang",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/Jurabek/Retaurant-App",
@@ -3262,7 +3262,7 @@
     {
       "urlInput": "https://github.com/Simonwep/pickr",
       "urlGitHub": "https://github.com/simonwep/pickr",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/rubyconfig/config",
@@ -3302,7 +3302,7 @@
     {
       "urlInput": "https://github.com/hyperf-cloud/hyperf",
       "urlGitHub": "https://github.com/hyperf/hyperf",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/HenryQW/Aweome-TTRSS",
@@ -3437,7 +3437,7 @@
     {
       "urlInput": "https://github.com/JasonStein/Notepads",
       "urlGitHub": "https://github.com/0x7c13/Notepads",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/vardius/go-api-boilerplate",
@@ -3452,7 +3452,7 @@
     {
       "urlInput": "https://github.com/jbarlow83/OCRmyPDF",
       "urlGitHub": "https://github.com/ocrmypdf/OCRmyPDF",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/css-doodle/css-doodle",
@@ -3587,7 +3587,7 @@
     {
       "urlInput": "https://github.com/abergs/fido2-net-lib",
       "urlGitHub": "https://github.com/passwordless-lib/fido2-net-lib",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/harttle/liquidjs",
@@ -3642,7 +3642,7 @@
     {
       "urlInput": "https://github.com/wangkanai/Detection",
       "urlGitHub": "https://github.com/wangkanai/wangkanai",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/posquit0/Awesome-CV",
@@ -3762,7 +3762,7 @@
     {
       "urlInput": "https://github.com/kr1sp1n/node-vault",
       "urlGitHub": "https://github.com/nodevault/node-vault",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/tauri-apps/tauri",
@@ -3812,7 +3812,7 @@
     {
       "urlInput": "https://github.com/Neilpang/acme.sh",
       "urlGitHub": "https://github.com/acmesh-official/acme.sh",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/alibaba/rax",
@@ -3877,7 +3877,7 @@
     {
       "urlInput": "https://github.com/hanton/HTY360Player",
       "urlGitHub": "https://github.com/hanton/Fisheye",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/hanton/HTYTextField",
@@ -3902,7 +3902,7 @@
     {
       "urlInput": "https://github.com/react-spring/react-three-fiber",
       "urlGitHub": "https://github.com/pmndrs/react-three-fiber",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/propjockey/augmented-ui",
@@ -3927,7 +3927,7 @@
     {
       "urlInput": "https://github.com/iluminar/goodwork",
       "urlGitHub": "https://github.com/Hasnayeen/invobook",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/antonybudianto/cra-univeral",
@@ -3977,7 +3977,7 @@
     {
       "urlInput": "https://github.com/fwartner/mac-cleanup",
       "urlGitHub": "https://github.com/mac-cleanup/mac-cleanup-sh",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/survivejs/webpack-merge",
@@ -3992,7 +3992,7 @@
     {
       "urlInput": "https://github.com/ZhonganTechENG/zarm",
       "urlGitHub": "https://github.com/ZhongAnTech/zarm",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/SDWebImage/SDWebImage",
@@ -4077,7 +4077,7 @@
     {
       "urlInput": "https://github.com/ai-techsystems/dnnCompiler",
       "urlGitHub": "https://github.com/ai-techsystems/deepC",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/mattn/go-qlite3",
@@ -4107,7 +4107,7 @@
     {
       "urlInput": "https://github.com/ethicalSource/contributor_covenant",
       "urlGitHub": "https://github.com/EthicalSource/contributor_covenant",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/nunomaduro/phpinights",
@@ -4307,7 +4307,7 @@
     {
       "urlInput": "https://github.com/cloudwebrtc/flutter-webrtc",
       "urlGitHub": "https://github.com/flutter-webrtc/flutter-webrtc",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/rolling-scopes/rsschool-app",
@@ -4462,7 +4462,7 @@
     {
       "urlInput": "https://github.com/umputun/remark",
       "urlGitHub": "https://github.com/umputun/remark42",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/ivanceras/rustorm",
@@ -4577,7 +4577,7 @@
     {
       "urlInput": "https://github.com/alibaba/form-render",
       "urlGitHub": "https://github.com/alibaba/x-render",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/softvar/enhanced-github",
@@ -4632,7 +4632,7 @@
     {
       "urlInput": "https://github.com/BlockScience/cadCAD",
       "urlGitHub": "https://github.com/cadCAD-org/cadCAD",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/jaele-project/jaeles",
@@ -4757,7 +4757,7 @@
     {
       "urlInput": "https://github.com/yohsii/puck-core",
       "urlGitHub": "https://github.com/yohsii/puck-cms",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/novalagung/dasarpemrogramangolang",
@@ -4782,7 +4782,7 @@
     {
       "urlInput": "https://github.com/553899811/NewBie-Plan",
       "urlGitHub": "https://github.com/553899811/Java-Programmer-Advancement-Program",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/doocs/md",
@@ -4822,7 +4822,7 @@
     {
       "urlInput": "https://github.com/txthinking/mr2",
       "urlGitHub": "https://github.com/txthinking/zoro",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/txthinking/brook",
@@ -4882,7 +4882,7 @@
     {
       "urlInput": "https://github.com/pion/ion",
       "urlGitHub": "https://github.com/ionorg/ion",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/monicahq/monica",
@@ -4897,7 +4897,7 @@
     {
       "urlInput": "https://github.com/midwan/amiberry",
       "urlGitHub": "https://github.com/BlitterStudio/amiberry",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/astrit/css.gg",
@@ -4937,7 +4937,7 @@
     {
       "urlInput": "https://github.com/yisar/fre",
       "urlGitHub": "https://github.com/frejs/fre",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/yisar/eplayer",
@@ -4987,7 +4987,7 @@
     {
       "urlInput": "https://github.com/codejamninja/react-gtk",
       "urlGitHub": "https://github.com/silicon-hills/react-gtk",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/cabal-club/cabal-desktop",
@@ -5092,7 +5092,7 @@
     {
       "urlInput": "https://github.com/checktheroads/hyperglass",
       "urlGitHub": "https://github.com/thatmattlove/hyperglass",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/botika/yarte",
@@ -5267,7 +5267,7 @@
     {
       "urlInput": "https://github.com/crsmithdev/arrow",
       "urlGitHub": "https://github.com/arrow-py/arrow",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/dotnetGame/MineCae",
@@ -5282,7 +5282,7 @@
     {
       "urlInput": "https://github.com/maxence-charriere/app",
       "urlGitHub": "https://github.com/maxence-charriere/go-app",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/facebookreearch/hydra",
@@ -5322,7 +5322,7 @@
     {
       "urlInput": "https://github.com/tatianamac/SelfDefined",
       "urlGitHub": "https://github.com/selfdefined/web-app",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/OpenIPC/firmware",
@@ -5457,7 +5457,7 @@
     {
       "urlInput": "https://github.com/jxtech/wechatpy",
       "urlGitHub": "https://github.com/wechatpy/wechatpy",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/dry-python/returns",
@@ -5487,7 +5487,7 @@
     {
       "urlInput": "https://github.com/Palakis/obs-ndi",
       "urlGitHub": "https://github.com/obs-ndi/obs-ndi",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/orhun/kmon",
@@ -5522,7 +5522,7 @@
     {
       "urlInput": "https://github.com/spencerwooo/Substats",
       "urlGitHub": "https://github.com/spencerwooo/substats",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/OpenCOVID19CoughCheck/CoughCheckApp",
@@ -5532,7 +5532,7 @@
     {
       "urlInput": "https://github.com/cloud-cv/evalai",
       "urlGitHub": "https://github.com/Cloud-CV/EvalAI",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/remorses/mongoke",
@@ -5547,7 +5547,7 @@
     {
       "urlInput": "https://github.com/borkdude/clj-kondo",
       "urlGitHub": "https://github.com/clj-kondo/clj-kondo",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/babashka/babashka",
@@ -6192,7 +6192,7 @@
     {
       "urlInput": "https://github.com/jxom/bumbag",
       "urlGitHub": "https://github.com/jxom/bumbag-ui",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/mamunhpath/josh.js",
@@ -6232,7 +6232,7 @@
     {
       "urlInput": "https://github.com/kovah/linkace",
       "urlGitHub": "https://github.com/Kovah/LinkAce",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/blleng/hexo-theme-lx",
@@ -6247,7 +6247,7 @@
     {
       "urlInput": "https://github.com/pufferpanel/pufferpanel",
       "urlGitHub": "https://github.com/PufferPanel/PufferPanel",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/deltachat/deltachat-android",
@@ -6272,7 +6272,7 @@
     {
       "urlInput": "https://github.com/orbitdb/orbit-db",
       "urlGitHub": "https://github.com/orbitdb/orbitdb",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/shdown/luastatus",
@@ -6407,7 +6407,7 @@
     {
       "urlInput": "https://github.com/sequel-ace/sequel-ace",
       "urlGitHub": "https://github.com/Sequel-Ace/Sequel-Ace",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/simplex-chat/simplex-chat",
@@ -6452,7 +6452,7 @@
     {
       "urlInput": "https://github.com/oct16/timecat",
       "urlGitHub": "https://github.com/oct16/TimeCat",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/techlab/jquery-martwizard",
@@ -6532,7 +6532,7 @@
     {
       "urlInput": "https://github.com/talelin/lin-ui",
       "urlGitHub": "https://github.com/TaleLin/lin-ui",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/coronasafe/care",
@@ -6612,7 +6612,7 @@
     {
       "urlInput": "https://github.com/rochaCbruno/dynaconf",
       "urlGitHub": "https://github.com/dynaconf/dynaconf",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/arkmanager/ark-server-tools",
@@ -7007,7 +7007,7 @@
     {
       "urlInput": "https://github.com/RDambrosio016/RSLint",
       "urlGitHub": "https://github.com/rslint/rslint",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/balmjs/balm-ui",
@@ -7117,11 +7117,6 @@
     {
       "urlInput": "https://github.com/ooni/probe",
       "urlGitHub": "https://github.com/ooni/probe",
-      "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/haozi/New-Bing-Anywhere",
-      "urlGitHub": "https://github.com/haozi/New-Bing-Anywhere",
       "status": "OK"
     },
     {
@@ -7352,7 +7347,7 @@
     {
       "urlInput": "https://github.com/trackercli/covid19-tracker-cli",
       "urlGitHub": "https://github.com/OSSPhilippines/covid19-tracker-cli",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/node-opcua/node-opcua",
@@ -7407,7 +7402,7 @@
     {
       "urlInput": "https://github.com/M2Team/NSudo",
       "urlGitHub": "https://github.com/M2TeamArchived/NSudo",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/deepjyoti30/ytmdl",
@@ -7437,7 +7432,7 @@
     {
       "urlInput": "https://github.com/roman-rr/cupertino-pane",
       "urlGitHub": "https://github.com/tech-systems/panes",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/pmndrs/jotai",
@@ -7507,7 +7502,7 @@
     {
       "urlInput": "https://github.com/ifcopenshell/ifcopenshell",
       "urlGitHub": "https://github.com/IfcOpenShell/IfcOpenShell",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/corona10/goimagehah",
@@ -7562,7 +7557,7 @@
     {
       "urlInput": "https://github.com/ofabry/go-callvis",
       "urlGitHub": "https://github.com/ondrajz/go-callvis",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/lakinduakash/linux-wifi-hotspot",
@@ -7627,7 +7622,7 @@
     {
       "urlInput": "https://github.com/wKich/creevey",
       "urlGitHub": "https://github.com/creevey/creevey",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/saschaeggi/gin",
@@ -7687,7 +7682,7 @@
     {
       "urlInput": "https://github.com/Shen-Yu/hexo-theme-ayer",
       "urlGitHub": "https://github.com/shen-yu/hexo-theme-ayer",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/hydro-sdk/hydro-sdk",
@@ -7762,11 +7757,6 @@
     {
       "urlInput": "https://github.com/anonaddy/anonaddy",
       "urlGitHub": "https://github.com/anonaddy/anonaddy",
-      "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/icosa-gallery/open-brush",
-      "urlGitHub": "https://github.com/icosa-gallery/open-brush",
       "status": "OK"
     },
     {
@@ -7882,7 +7872,7 @@
     {
       "urlInput": "https://github.com/mouse-reeve/bookwyrm",
       "urlGitHub": "https://github.com/bookwyrm-social/bookwyrm",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/MihaelIsaev/UIKitPlus",
@@ -8052,7 +8042,7 @@
     {
       "urlInput": "https://github.com/sfx101/docker-stacks",
       "urlGitHub": "https://github.com/sfx101/deck",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/mariorodeghiero/vue-theme-vcode",
@@ -8312,7 +8302,7 @@
     {
       "urlInput": "https://github.com/JiHong88/SunEditor",
       "urlGitHub": "https://github.com/JiHong88/suneditor",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/omgovich/react-colorful",
@@ -8672,7 +8662,7 @@
     {
       "urlInput": "https://github.com/ctripcorp/apollo.net",
       "urlGitHub": "https://github.com/apolloconfig/apollo.net",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/chinesedfan/parrot-mocker-web",
@@ -8807,7 +8797,7 @@
     {
       "urlInput": "https://github.com/Saul-Mirone/milkdown",
       "urlGitHub": "https://github.com/Milkdown/milkdown",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/EdgeTranslate/EdgeTranslate",
@@ -8817,7 +8807,7 @@
     {
       "urlInput": "https://github.com/suenot/kupi-terminal",
       "urlGitHub": "https://github.com/suenot/profitmaker",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/cannlytics/cannabis-data-science",
@@ -8972,7 +8962,7 @@
     {
       "urlInput": "https://github.com/streamxhub/streamx",
       "urlGitHub": "https://github.com/apache/incubator-streampark",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/Cecilapp/Cecil",
@@ -9187,7 +9177,7 @@
     {
       "urlInput": "https://github.com/michaeljones/breathe",
       "urlGitHub": "https://github.com/breathe-doc/breathe",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/Charmve/computer-viion-in-action",
@@ -9362,7 +9352,7 @@
     {
       "urlInput": "https://github.com/ajbura/cinny",
       "urlGitHub": "https://github.com/cinnyapp/cinny",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/07akioni/xicons",
@@ -9402,7 +9392,7 @@
     {
       "urlInput": "https://github.com/h-REA/hrea",
       "urlGitHub": "https://github.com/h-REA/hREA",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/recp/asetkit",
@@ -9472,7 +9462,7 @@
     {
       "urlInput": "https://github.com/ViewTube/viewtube-vue",
       "urlGitHub": "https://github.com/ViewTube/viewtube",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/fullstackhero/dotnet-webapi-boilerplate",
@@ -9487,7 +9477,7 @@
     {
       "urlInput": "https://github.com/khanmanan/automod-bot",
       "urlGitHub": "https://github.com/Khanmanan/automod-bot",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/estruyf/vscode-front-matter",
@@ -9732,7 +9722,7 @@
     {
       "urlInput": "https://github.com/ananto30/zero",
       "urlGitHub": "https://github.com/Ananto30/zero",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/playframework/playframework",
@@ -9942,7 +9932,7 @@
     {
       "urlInput": "https://github.com/buggregator/app",
       "urlGitHub": "https://github.com/buggregator/laravel-app",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/thesayyn/protoc-gen-ts",
@@ -9977,7 +9967,7 @@
     {
       "urlInput": "https://github.com/tistory-projects/tistory-skin-hELLO",
       "urlGitHub": "https://github.com/tidory/hello",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/Saleor-Multi-Vendor/saleor-multi-vendor",
@@ -10731,8 +10721,8 @@
     },
     {
       "urlInput": "https://github.com/shopperlabs/framework",
-      "urlGitHub": "https://github.com/shopperlabs/framework",
-      "status": "OK"
+      "urlGitHub": "https://github.com/shopperlabs/shopper",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/PolyMC/PolyMC",
@@ -10912,7 +10902,7 @@
     {
       "urlInput": "https://github.com/sansyrox/robyn",
       "urlGitHub": "https://github.com/sparckles/robyn",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/niccokunzmann/open-web-calendar",
@@ -10942,7 +10932,7 @@
     {
       "urlInput": "https://github.com/tracardi/tracardi",
       "urlGitHub": "https://github.com/Tracardi/tracardi",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/djezzzl/factory_trace",
@@ -11022,7 +11012,7 @@
     {
       "urlInput": "https://github.com/flow-launcher/flow.launcher",
       "urlGitHub": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/Just-Moh-it/Pckd",
@@ -11182,7 +11172,7 @@
     {
       "urlInput": "https://github.com/aaronleopold/stump",
       "urlGitHub": "https://github.com/stumpapp/stump",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/ShafSpecs/Remix-FakeShop",
@@ -11197,7 +11187,7 @@
     {
       "urlInput": "https://github.com/Open-Data-Product-Initiative/open-data-product-spec",
       "urlGitHub": "https://github.com/Open-Data-Product-Initiative/open-data-product-spec-1.0",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/razonyang/hugo-theme-bootstrap",
@@ -11241,8 +11231,8 @@
     },
     {
       "urlInput": "https://github.com/matteobruni/tsparticles",
-      "urlGitHub": "https://github.com/matteobruni/tsparticles",
-      "status": "OK"
+      "urlGitHub": "https://github.com/tsparticles/tsparticles",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/Cap-go/capacitor-updater",
@@ -11252,7 +11242,7 @@
     {
       "urlInput": "https://github.com/VE4TM/ATR-License",
       "urlGitHub": "https://github.com/AtTheRoot/ATR-License",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/kigster/cmake-project-template",
@@ -11402,7 +11392,7 @@
     {
       "urlInput": "https://github.com/itsnebulalol/permasigner",
       "urlGitHub": "https://github.com/permasigner/permasigner",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/ZaneH/piano-trainer",
@@ -11507,7 +11497,7 @@
     {
       "urlInput": "https://github.com/thomaspinder/GPJax",
       "urlGitHub": "https://github.com/JaxGaussianProcesses/GPJax",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/atomicdata-dev/atomic-server",
@@ -11967,7 +11957,7 @@
     {
       "urlInput": "https://github.com/heyjaywilson/iosdevspace",
       "urlGitHub": "https://github.com/iOSDevSpace/iosdevspace",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/dao-xyz/peerbit",
@@ -12042,12 +12032,12 @@
     {
       "urlInput": "https://github.com/leifermendez/bot-whatsapp",
       "urlGitHub": "https://github.com/codigoencasa/bot-whatsapp",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/e-maxx-eng/e-maxx-eng",
       "urlGitHub": "https://github.com/cp-algorithms/cp-algorithms",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/pacstall/pacstall",
@@ -12067,7 +12057,7 @@
     {
       "urlInput": "https://github.com/libredirect/libredirect",
       "urlGitHub": "https://github.com/libredirect/browser_extension",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/SynapseMedia/nucleus",
@@ -12197,7 +12187,7 @@
     {
       "urlInput": "https://github.com/Brightfield-Tech-Academy/Curriculum",
       "urlGitHub": "https://github.com/BrightfieldTechAcademy/Curriculum",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/privacytests/privacytests.org",
@@ -12372,12 +12362,12 @@
     {
       "urlInput": "https://github.com/Tanmoy741127/lumi",
       "urlGitHub": "https://github.com/tanmoysrt/lumi",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/open-tdp/tdp-cloud",
       "urlGitHub": "https://github.com/opentdp/tdp-cloud",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/RentadroneCL/AI-Agro",
@@ -12402,7 +12392,7 @@
     {
       "urlInput": "https://github.com/starlite-api/starlite",
       "urlGitHub": "https://github.com/litestar-org/litestar",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/esm-dev/esm.sh",
@@ -12462,7 +12452,7 @@
     {
       "urlInput": "https://github.com/cenk1cenk2/listr2",
       "urlGitHub": "https://github.com/listr2/listr2",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/bowphp/framework",
@@ -12542,7 +12532,7 @@
     {
       "urlInput": "https://github.com/IvanGoncharov/graphql-voyager",
       "urlGitHub": "https://github.com/graphql-kit/graphql-voyager",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/gdm-settings/gdm-settings",
@@ -12577,7 +12567,7 @@
     {
       "urlInput": "https://github.com/yohamta/dagu",
       "urlGitHub": "https://github.com/dagu-dev/dagu",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/unocss/unocss",
@@ -12602,7 +12592,7 @@
     {
       "urlInput": "https://github.com/lukasalexanderweber/stitching",
       "urlGitHub": "https://github.com/OpenStitching/stitching",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/XcodesOrg/XcodesApp",
@@ -12622,7 +12612,7 @@
     {
       "urlInput": "https://github.com/nVuln/tiktokshop-php",
       "urlGitHub": "https://github.com/EcomPHP/tiktokshop-php",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/gorse-io/gorse",
@@ -12692,7 +12682,7 @@
     {
       "urlInput": "https://github.com/rustmagazine/rustmagazine",
       "urlGitHub": "https://github.com/RustMagazine/rustmagazine",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/forgoer/thinkgo",
@@ -12702,7 +12692,7 @@
     {
       "urlInput": "https://github.com/vorburger/MariaDB4j",
       "urlGitHub": "https://github.com/MariaDB4j/MariaDB4j",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/AlfaazPlus/QuranApp",
@@ -12827,12 +12817,12 @@
     {
       "urlInput": "https://github.com/override-sh/open-press",
       "urlGitHub": "https://github.com/override-sh/aetheria",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/trustless-engineering/solpanel",
       "urlGitHub": "https://github.com/trustless-engineering/sol-panel",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/Skoice/skoice",
@@ -12887,7 +12877,7 @@
     {
       "urlInput": "https://github.com/hugofara/lwt",
       "urlGitHub": "https://github.com/HugoFara/lwt",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/exeme-project/exeme-lang",
@@ -12912,7 +12902,7 @@
     {
       "urlInput": "https://github.com/otsoft/myaac",
       "urlGitHub": "https://github.com/slawkens/myaac",
-      "status": "OK - Redirect"
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/LiberMall/tnt",

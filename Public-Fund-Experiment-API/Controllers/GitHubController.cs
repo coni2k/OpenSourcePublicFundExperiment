@@ -16,12 +16,6 @@ namespace PublicFundExperimentAPI.Controllers
             _client = client;
         }
 
-        [HttpGet(Name = "GetUser")]
-        public async Task<User> GetUser(CancellationToken cancellationToken)
-        {
-            return await _client.User.Current();
-        }
-
         [HttpPost(Name = "GetRepositoryByUrl")]
         public async Task<GetRepositoryByUrlResult> GetRepositoryByUrl([FromBody] List<Uri> repositoryUrls, CancellationToken cancellationToken)
         {
@@ -63,7 +57,7 @@ namespace PublicFundExperimentAPI.Controllers
                     var repository = await _client.Repository.Get(owner, name);
 
                     result.UrlGitHub = new Uri(repository.HtmlUrl);
-                    result.Status = url.AbsoluteUri == repository.HtmlUrl ? "Same" : "Different";
+                    result.Status = url.AbsoluteUri == repository.HtmlUrl ? "OK" : "Redirect";
                     okCount++;
                 }
                 catch (NotFoundException)
@@ -173,6 +167,12 @@ namespace PublicFundExperimentAPI.Controllers
             System.IO.File.WriteAllText(fileName, json);
 
             return repositories;
+        }
+
+        [HttpGet(Name = "GetUser")]
+        public async Task<User> GetUser(CancellationToken cancellationToken)
+        {
+            return await _client.User.Current();
         }
     }
 }
