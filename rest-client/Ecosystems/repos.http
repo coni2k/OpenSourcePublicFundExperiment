@@ -5,6 +5,10 @@ GET https://repos.ecosyste.ms/api/v1/topics
 Accept: application/json
 
 ###
+GET https://repos.ecosyste.ms/api/v1/repositories/lookup?url=https://github.com/babel/babel
+Accept: application/json
+
+###
 GET https://repos.ecosyste.ms/api/v1/usage
 Accept: application/json
 

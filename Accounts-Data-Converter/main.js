@@ -8,6 +8,7 @@ window.convert = function convert() {
     .map((item) => {
       const repositoryUrl = new URL(item.repositoryUrl);
       const paths = repositoryUrl.pathname.split('/');
+      // TODO status === !isGitHub ? 'Non-GitHub' : ...;
       const isGitHub = repositoryUrl.host === 'github.com';
       const gitHubUserPath = paths[1] || '';
       const gitHubRepoPath = paths[2] || '';
@@ -19,7 +20,7 @@ window.convert = function convert() {
           : '';
       const repositoryStatus = repositoryStatuses.find((item) => item.urlInput === gitHubRepositoryInput) || null;
       const gitHubRepository = repositoryStatus !== null ? repositoryStatus.status === 'Repo not found' ? '' : repositoryStatus.urlGitHub : '';
-      const gitHubStatus = repositoryStatus !== null ? repositoryStatus.status === 'Repo not found' ? 'Repo not found' : 'OK' : 'No status';
+      const gitHubStatus = repositoryStatus !== null ? repositoryStatus.status === 'Repo not found' ? 'Repo not found' : 'Repo found' : 'Has no repo URL';
 
       return {
         Id: item.id,

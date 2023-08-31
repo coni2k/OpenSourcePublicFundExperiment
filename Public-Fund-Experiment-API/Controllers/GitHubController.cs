@@ -125,7 +125,7 @@ namespace PublicFundExperimentAPI.Controllers
                     {
                         var topRepo = allRepos.OrderByDescending(item => item.StargazersCount).FirstOrDefault();
                         repository.Url = topRepo?.HtmlUrl;
-                        repository.Status = "OK";
+                        repository.Status = "Has top repo";
                     }
                     else
                         repository.Status = "No repositories";
