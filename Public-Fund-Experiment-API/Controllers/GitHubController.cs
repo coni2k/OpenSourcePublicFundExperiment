@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Octokit;
 using PublicFundExperimentAPI.Controllers.Models;
+using System.Net;
 using System.Text.Json;
 
 namespace PublicFundExperimentAPI.Controllers
@@ -114,6 +115,10 @@ namespace PublicFundExperimentAPI.Controllers
 
                 try
                 {
+                    // Exceptional case: GitHub API returns repositories for "-" user, but it doesn't refer to an actual user on GitHub: https://github.com/-
+                    if (user == "-")
+                        throw new NotFoundException("Invalid user", HttpStatusCode.NotFound);
+
                     var allRepos = await _client.Repository.GetAllForUser(user);
                     if (allRepos.Any())
                     {
