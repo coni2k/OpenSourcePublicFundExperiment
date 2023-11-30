@@ -15,11 +15,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/kriaoft/react-starter-kit",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/kriasoft/react-firebase-starter",
       "urlGitHub": "https://github.com/kriasoft/react-firebase-starter",
       "status": "OK"
@@ -115,11 +110,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/rampatra/animatecroll.js",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/QubesOS/qubes-issues",
       "urlGitHub": "https://github.com/QubesOS/qubes-issues",
       "status": "OK"
@@ -135,9 +125,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/opentechfund/hypha",
+      "urlInput": "https://github.com/OpenTechFund/apply-app",
       "urlGitHub": "https://github.com/OpenTechFund/apply-app",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/preactjs/preact",
@@ -165,9 +155,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/grapesjs/grapesjs",
+      "urlInput": "https://github.com/GrapesJS/grapesjs",
       "urlGitHub": "https://github.com/GrapesJS/grapesjs",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/rubocop/rubocop",
@@ -220,11 +210,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/openchemitry/avogadrolibs",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/faker-js/faker",
       "urlGitHub": "https://github.com/faker-js/faker",
       "status": "OK"
@@ -270,11 +255,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/react-native-element/react-native-elements",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/YOURLS/YOURLS",
       "urlGitHub": "https://github.com/YOURLS/YOURLS",
       "status": "OK"
@@ -288,11 +268,6 @@
       "urlInput": "https://github.com/cssinjs/jss",
       "urlGitHub": "https://github.com/cssinjs/jss",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/dhowe/AdNaueam",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/socketio/socket.io",
@@ -353,11 +328,6 @@
       "urlInput": "https://github.com/PokeAPI/pokeapi",
       "urlGitHub": "https://github.com/PokeAPI/pokeapi",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/onevcat/Kingfiher",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/xmake-io/xmake",
@@ -445,11 +415,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/Apollonyan/Developing-iOS-11-App-with-Swift",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/ellie-app/ellie",
       "urlGitHub": "https://github.com/ellie-app/ellie",
       "status": "OK"
@@ -465,9 +430,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/xuri/excelize",
+      "urlInput": "https://github.com/qax-os/excelize",
       "urlGitHub": "https://github.com/qax-os/excelize",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/openfl/openfl",
@@ -545,11 +510,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/vbauer/android-arenal.com",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/ActivityWatch/activitywatch",
       "urlGitHub": "https://github.com/ActivityWatch/activitywatch",
       "status": "OK"
@@ -558,11 +518,6 @@
       "urlInput": "https://github.com/mybb/mybb",
       "urlGitHub": "https://github.com/mybb/mybb",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/nathancahill/plit",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/anticensority/runet-censorship-bypass",
@@ -625,24 +580,19 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/jaywcjlove/aweome-mac",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/Fody/Fody",
       "urlGitHub": "https://github.com/Fody/Fody",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/Erxes/Erxes",
+      "urlInput": "https://github.com/erxes/erxes",
       "urlGitHub": "https://github.com/erxes/erxes",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
-      "urlInput": "https://github.com/AutoSpotting/AutoSpotting",
+      "urlInput": "https://github.com/LeanerCloud/AutoSpotting",
       "urlGitHub": "https://github.com/LeanerCloud/AutoSpotting",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/rollup/rollup",
@@ -695,19 +645,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/mzlogin/aweome-adb",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/accounts-js/accounts",
       "urlGitHub": "https://github.com/accounts-js/accounts",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/t4t5/weetalert",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/redom/redom",
@@ -740,11 +680,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/symfony/diversity",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/lusaxweb/vuesax",
       "urlGitHub": "https://github.com/lusaxweb/vuesax",
       "status": "OK"
@@ -758,11 +693,6 @@
       "urlInput": "https://github.com/electron/electron",
       "urlGitHub": "https://github.com/electron/electron",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/TypedProject/ted",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/SpaceVim/SpaceVim",
@@ -820,11 +750,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/developerdo/emplea_do",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/marktext/marktext",
       "urlGitHub": "https://github.com/marktext/marktext",
       "status": "OK"
@@ -835,14 +760,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/android-pasword-store/Android-Password-Store",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/lidarr/lidarr",
+      "urlInput": "https://github.com/Lidarr/Lidarr",
       "urlGitHub": "https://github.com/Lidarr/Lidarr",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/pact-foundation/pact-ruby",
@@ -915,9 +835,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/maticzav/graphql-shield",
+      "urlInput": "https://github.com/dimatill/graphql-shield",
       "urlGitHub": "https://github.com/dimatill/graphql-shield",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/vanilla-rtb/awesome-rtb",
@@ -940,9 +860,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/catel/catel",
+      "urlInput": "https://github.com/Catel/Catel",
       "urlGitHub": "https://github.com/Catel/Catel",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/Binaryify/OneDark-Pro",
@@ -985,9 +905,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/codeuino/Social-Platform-Donut",
+      "urlInput": "https://github.com/codeuino/social-platform-donut-frontend",
       "urlGitHub": "https://github.com/codeuino/social-platform-donut-frontend",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/ariakit/ariakit",
@@ -1000,34 +920,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/pmndr/react-spring",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/btargac/excel-parer-processor",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/vueComponent/ant-deign-vue",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/catfan/medoo",
+      "urlInput": "https://github.com/catfan/Medoo",
       "urlGitHub": "https://github.com/catfan/Medoo",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/pastelsky/bundlephobia",
       "urlGitHub": "https://github.com/pastelsky/bundlephobia",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/RichardLitt/tandard-readme",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/cheton/infinite-tree",
@@ -1060,11 +960,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/ujjwalguptaofficial/JStore",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/dooboolab-community/react-native-iap",
       "urlGitHub": "https://github.com/dooboolab-community/react-native-iap",
       "status": "OK"
@@ -1075,9 +970,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/24OI/OI-wiki",
+      "urlInput": "https://github.com/OI-wiki/OI-wiki",
       "urlGitHub": "https://github.com/OI-wiki/OI-wiki",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/backyourstack/backyourstack",
@@ -1100,9 +995,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/davidkpiano/xstate",
+      "urlInput": "https://github.com/statelyai/xstate",
       "urlGitHub": "https://github.com/statelyai/xstate",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/staltz/manyverse",
@@ -1110,9 +1005,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/smooth-code/svgr",
+      "urlInput": "https://github.com/gregberge/svgr",
       "urlGitHub": "https://github.com/gregberge/svgr",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/vuetifyjs/vuetify",
@@ -1125,9 +1020,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/smooth-code/jest-puppeteer",
+      "urlInput": "https://github.com/argos-ci/jest-puppeteer",
       "urlGitHub": "https://github.com/argos-ci/jest-puppeteer",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/AlchemyCMS/alchemy_cms",
@@ -1135,19 +1030,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/okonet/lint-taged",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/imiphp/imi",
       "urlGitHub": "https://github.com/imiphp/imi",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/intelligo-ystems/intelligo",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/solidusio/solidus",
@@ -1170,14 +1055,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/jfoenixadmin/JFoenix",
+      "urlInput": "https://github.com/sshahine/JFoenix",
       "urlGitHub": "https://github.com/sshahine/JFoenix",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
-      "urlInput": "https://github.com/s4n7h0/Halcyon",
+      "urlInput": "https://github.com/s4n7h0/Halcyon-IDE",
       "urlGitHub": "https://github.com/s4n7h0/Halcyon-IDE",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/sous-chefs/docker",
@@ -1213,11 +1098,6 @@
       "urlInput": "https://github.com/scorelab/Bassa",
       "urlGitHub": "https://github.com/scorelab/Bassa",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/tom-englert/ReXResourceManager",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/kblok/WhatsAppBot",
@@ -1340,11 +1220,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/kera-team/autokeras",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/zxing-js/library",
       "urlGitHub": "https://github.com/zxing-js/library",
       "status": "OK"
@@ -1360,19 +1235,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/helio-fm/helio-worktation",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/floating-ui/floating-ui",
       "urlGitHub": "https://github.com/floating-ui/floating-ui",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/nervj/taro",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/colorswall/CSS-file-icons",
@@ -1408,11 +1273,6 @@
       "urlInput": "https://github.com/deep-cover/deep-cover",
       "urlGitHub": "https://github.com/deep-cover/deep-cover",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/MithrilJS/mithril.j",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/RicoSuter/NSwag",
@@ -1475,11 +1335,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/jacobwgillepie/styled-icons",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/bagisto/bagisto",
       "urlGitHub": "https://github.com/bagisto/bagisto",
       "status": "OK"
@@ -1490,9 +1345,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/tootsuite/mastodon",
+      "urlInput": "https://github.com/mastodon/mastodon",
       "urlGitHub": "https://github.com/mastodon/mastodon",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/miscord/miscord",
@@ -1505,19 +1360,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/racaljk/EffectiveModernCppChinee",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/nrepl/nrepl",
       "urlGitHub": "https://github.com/nrepl/nrepl",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/chriso/validator.js",
+      "urlInput": "https://github.com/validatorjs/validator.js",
       "urlGitHub": "https://github.com/validatorjs/validator.js",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/nuke-build/nuke",
@@ -1540,26 +1390,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/pavlov99/jon-rpc",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/fluffo/fluffos",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/octobercm/october",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/browehandsfree/handsfreejs",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/os-js/OS.js",
       "urlGitHub": "https://github.com/os-js/OS.js",
       "status": "OK"
@@ -1570,9 +1400,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/canner/canner",
+      "urlInput": "https://github.com/CannerCMS/cannercms",
       "urlGitHub": "https://github.com/CannerCMS/cannercms",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/chenjiahan/rodal",
@@ -1608,11 +1438,6 @@
       "urlInput": "https://github.com/graphql-dotnet/graphql-dotnet",
       "urlGitHub": "https://github.com/graphql-dotnet/graphql-dotnet",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/alibaba/artha",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/libremesh/lime-packages",
@@ -1695,16 +1520,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/ericalli/tatic-site-boilerplate",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/vedetta-com/caeonia",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/grantjenks/python-sortedcontainers",
       "urlGitHub": "https://github.com/grantjenks/python-sortedcontainers",
       "status": "OK"
@@ -1725,11 +1540,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/rampatra/wedding-webite",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/skywind3000/kcp",
       "urlGitHub": "https://github.com/skywind3000/kcp",
       "status": "OK"
@@ -1745,14 +1555,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/eata/seata",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/artpolikarpov/Fotorama",
+      "urlInput": "https://github.com/artpolikarpov/fotorama",
       "urlGitHub": "https://github.com/artpolikarpov/fotorama",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/saleem-hadad/larecipe",
@@ -1765,9 +1570,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/wexond/wexond",
+      "urlInput": "https://github.com/wexond/browser-base",
       "urlGitHub": "https://github.com/wexond/browser-base",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/peachcloud/meta",
@@ -1810,19 +1615,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/ohmyzh/ohmyzsh",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/swc-project/swc",
       "urlGitHub": "https://github.com/swc-project/swc",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/Zizzamia/perfume.j",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/anforaProject/anfora",
@@ -1840,29 +1635,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/pomber/git-hitory",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/arzzen/git-quick-tats",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/go-hep/hep",
       "urlGitHub": "https://github.com/go-hep/hep",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/expede/witchcraft",
+      "urlInput": "https://github.com/witchcrafters/witchcraft",
       "urlGitHub": "https://github.com/witchcrafters/witchcraft",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/Stellarium/tellarium",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/yiisoft/yii2",
@@ -1870,19 +1650,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/dmlc/xgboot",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/Bogdan-Lyashenko/codecrumbs",
       "urlGitHub": "https://github.com/Bogdan-Lyashenko/codecrumbs",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/pavjacko/renative",
+      "urlInput": "https://github.com/flexn-io/renative",
       "urlGitHub": "https://github.com/flexn-io/renative",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/ant-design/ant-design-mobile-rn",
@@ -1898,11 +1673,6 @@
       "urlInput": "https://github.com/bonigarcia/webdrivermanager",
       "urlGitHub": "https://github.com/bonigarcia/webdrivermanager",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/gregjacob/Autolinker.js",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/swaggo/swag",
@@ -1925,11 +1695,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/ColinEberhardt/applaue-button",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/ubiety/xmpp",
       "urlGitHub": "https://github.com/ubiety/xmpp",
       "status": "OK"
@@ -1945,14 +1710,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/ReactTraining/react-router",
+      "urlInput": "https://github.com/remix-run/react-router",
       "urlGitHub": "https://github.com/remix-run/react-router",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/julienrf/endpoint",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/mnater/Hyphenopoly",
@@ -1975,11 +1735,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/MoienTajik/ApNetCore-Developer-Roadmap",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/ua-parser/uap-core",
       "urlGitHub": "https://github.com/ua-parser/uap-core",
       "status": "OK"
@@ -1990,9 +1745,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/QUANTAXIS/QUANTAXIS",
+      "urlInput": "https://github.com/yutiansut/QUANTAXIS",
       "urlGitHub": "https://github.com/yutiansut/QUANTAXIS",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/sindresorhus/awesome",
@@ -2005,19 +1760,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/wisp-x/lsky-pro",
+      "urlInput": "https://github.com/lsky-org/lsky-pro",
       "urlGitHub": "https://github.com/lsky-org/lsky-pro",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/HookyQR/VSCodeBeautify",
       "urlGitHub": "https://github.com/HookyQR/VSCodeBeautify",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/givanz/VvvebJ",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/axios/axios",
@@ -2045,14 +1795,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/jschr/vscodethemes",
+      "urlInput": "https://github.com/vscodethemes/web",
       "urlGitHub": "https://github.com/vscodethemes/web",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/OrkoHunter/pep8peaks",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/svartalf/rust-battery",
@@ -2070,16 +1815,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/meteorlxy/vsue",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/amilajack/elint-plugin-compat",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/glacials/whatsinstandard",
       "urlGitHub": "https://github.com/glacials/whatsinstandard",
       "status": "OK"
@@ -2088,26 +1823,6 @@
       "urlInput": "https://github.com/mukeshsolanki/android-otpview-pinview",
       "urlGitHub": "https://github.com/mukeshsolanki/android-otpview-pinview",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/xiaodaigh/dik.frame",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/Paxa/potbird",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/WangYihang/Platypu",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/WangYihang/Webhell-Sniper",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/WangYihang/Exploit-Framework",
@@ -2175,11 +1890,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/mohitk05/react-inta-stories",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/pizzaql/pizzaql",
       "urlGitHub": "https://github.com/pizzaql/pizzaql",
       "status": "OK"
@@ -2195,16 +1905,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/renyuneyun/Eaer",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/SaiGonSoftware/Aweome-CMS-Core",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/hemerajs/hemera",
       "urlGitHub": "https://github.com/hemerajs/hemera",
       "status": "OK"
@@ -2218,11 +1918,6 @@
       "urlInput": "https://github.com/GeoJSON-Net/GeoJSON.Net",
       "urlGitHub": "https://github.com/GeoJSON-Net/GeoJSON.Net",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/myliang/x-preadsheet",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/orchidhq/Orchid",
@@ -2270,11 +1965,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/aierui/tp-admin",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/NdagiStanley/vue-django",
       "urlGitHub": "https://github.com/NdagiStanley/vue-django",
       "status": "OK"
@@ -2305,14 +1995,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/eligrey/FileSaver.j",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/Wechaty/wechaty",
+      "urlInput": "https://github.com/wechaty/wechaty",
       "urlGitHub": "https://github.com/wechaty/wechaty",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/EasyHexo/Easy-Hexo",
@@ -2320,19 +2005,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/smooth-code/loadable-components",
+      "urlInput": "https://github.com/gregberge/loadable-components",
       "urlGitHub": "https://github.com/gregberge/loadable-components",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/marcelklehr/floccu",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/w3c/repec",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/gpujs/gpu.js",
@@ -2390,11 +2065,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/avelino/aweome-go",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/serialport/node-serialport",
       "urlGitHub": "https://github.com/serialport/node-serialport",
       "status": "OK"
@@ -2415,29 +2085,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/bkimminich/juice-hop",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit",
       "urlGitHub": "https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/AI-Sphere/Aweome-Noah",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/nlpjoe/daguan-clasify-2018",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/davidesantangelo/feedi",
+      "urlInput": "https://github.com/davidesantangelo/api.rss",
       "urlGitHub": "https://github.com/davidesantangelo/api.rss",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/casbin/casbin",
@@ -2470,11 +2125,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/CanopyTax/ingle-spa",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/maoberlehner/vue-lazy-hydration",
       "urlGitHub": "https://github.com/maoberlehner/vue-lazy-hydration",
       "status": "OK"
@@ -2490,9 +2140,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/theacodes/nox",
+      "urlInput": "https://github.com/wntrblm/nox",
       "urlGitHub": "https://github.com/wntrblm/nox",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/ZhuPeng/mp-githubtrending",
@@ -2575,9 +2225,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/jenssegers/laravel-mongodb",
+      "urlInput": "https://github.com/mongodb/laravel-mongodb",
       "urlGitHub": "https://github.com/mongodb/laravel-mongodb",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/jenssegers/imagehash",
@@ -2600,11 +2250,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/alikinvv/tepper",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/jenssegers/blade",
       "urlGitHub": "https://github.com/jenssegers/blade",
       "status": "OK"
@@ -2618,11 +2263,6 @@
       "urlInput": "https://github.com/chrisnager/ungrid",
       "urlGitHub": "https://github.com/chrisnager/ungrid",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/newpanjing/impleui",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/oguzhaninan/Stacer",
@@ -2695,11 +2335,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/mickael-kerjean/filetash",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/eXpandFramework/eXpand",
       "urlGitHub": "https://github.com/eXpandFramework/eXpand",
       "status": "OK"
@@ -2708,11 +2343,6 @@
       "urlInput": "https://github.com/manzinello/mailgo",
       "urlGitHub": "https://github.com/manzinello/mailgo",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/alexanmtz/material-ense",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/gureum/gureum",
@@ -2735,21 +2365,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/edent/SuperTinyIcon",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/erverless-nextjs/serverless-nextjs",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/hedzr/android-file-chooer",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/awes-io/awes-io",
       "urlGitHub": "https://github.com/awes-io/awes-io",
       "status": "OK"
@@ -2760,14 +2375,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/Brooooooklyn/t-import-plugin",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/Kaiyuan/donate-page",
+      "urlInput": "https://github.com/Kaiyuan/sponsor-page",
       "urlGitHub": "https://github.com/Kaiyuan/sponsor-page",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/streamich/react-use",
@@ -2785,19 +2395,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/naptha/teseract.js",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/jedisct1/libsodium",
       "urlGitHub": "https://github.com/jedisct1/libsodium",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/jedisct1/dnscrypt-proxy",
+      "urlInput": "https://github.com/DNSCrypt/dnscrypt-proxy",
       "urlGitHub": "https://github.com/DNSCrypt/dnscrypt-proxy",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/jedisct1/pure-ftpd",
@@ -2830,9 +2435,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/500tech/angular-tree-component",
+      "urlInput": "https://github.com/CirclonGroup/angular-tree-component",
       "urlGitHub": "https://github.com/CirclonGroup/angular-tree-component",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/peachpiecompiler/peachpie",
@@ -2860,19 +2465,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/vinta/aweome-python",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/SeongBrave/gckit",
       "urlGitHub": "https://github.com/SeongBrave/gckit",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/kartik-v/boottrap-fileinput",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/jasonday/printThis",
@@ -2885,29 +2480,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/zhuyingda/webter",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/antonbabenko/module.tf-lambda",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/ra-gg/Delir",
+      "urlInput": "https://github.com/delirvfx/Delir",
       "urlGitHub": "https://github.com/delirvfx/Delir",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/MSPaintIDE/MSPaintIDE",
       "urlGitHub": "https://github.com/MSPaintIDE/MSPaintIDE",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/opt-out-tool/start-here",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/vivaxy/react-native-auto-height-image",
@@ -2920,14 +2500,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/sqlcollaborative/dbatools",
+      "urlInput": "https://github.com/dataplat/dbatools",
       "urlGitHub": "https://github.com/dataplat/dbatools",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/zalelion/cqr",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/yatima1460/Drill",
@@ -2980,9 +2555,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/dhowe/RiTa",
+      "urlInput": "https://github.com/dhowe/rita",
       "urlGitHub": "https://github.com/dhowe/rita",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/lukeed/polka",
@@ -3030,14 +2605,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/watzon/cadmium",
+      "urlInput": "https://github.com/cadmiumcr/cadmium",
       "urlGitHub": "https://github.com/cadmiumcr/cadmium",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/pomber/code-urfer",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/antest1/kcanotify",
@@ -3055,19 +2625,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/quaarframework/quasar",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/iNDS-Team/iNDS",
       "urlGitHub": "https://github.com/iNDS-Team/iNDS",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/kartik-v/boottrap-popover-x",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/kartik-v/dependent-dropdown",
@@ -3085,19 +2645,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/kartik-v/boottrap-star-rating",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/kartik-v/yii2-tree-manager",
       "urlGitHub": "https://github.com/kartik-v/yii2-tree-manager",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/kartik-v/yii2-widget-elect2",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/kartik-v/yii2-mpdf",
@@ -3108,11 +2658,6 @@
       "urlInput": "https://github.com/kartik-v/yii2-widget-fileinput",
       "urlGitHub": "https://github.com/kartik-v/yii2-widget-fileinput",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/kartik-v/yii2-widget",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/olivia-ai/olivia",
@@ -3140,19 +2685,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/joelibaceta/video-to-acii",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/Vouk/voukoder",
       "urlGitHub": "https://github.com/Vouk/voukoder",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/Shipow/earchstone",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/casbin/jcasbin",
@@ -3170,19 +2705,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/cloudson/gitql",
+      "urlInput": "https://github.com/filhodanuvem/gitql",
       "urlGitHub": "https://github.com/filhodanuvem/gitql",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/typescript-eslint/typescript-eslint",
       "urlGitHub": "https://github.com/typescript-eslint/typescript-eslint",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/TheNetAdmin/zjutheis",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/oblac/jodd",
@@ -3215,24 +2745,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/apereo/ca",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/Kenshin/simpread",
       "urlGitHub": "https://github.com/Kenshin/simpread",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/daehruoydeef/Yin-Yang",
+      "urlInput": "https://github.com/oskarsh/Yin-Yang",
       "urlGitHub": "https://github.com/oskarsh/Yin-Yang",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/Jurabek/Retaurant-App",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/libretime/libretime",
@@ -3250,19 +2770,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/terrylinooo/hieldon",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/TechFortres/GriefPrevention",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/Simonwep/pickr",
+      "urlInput": "https://github.com/simonwep/pickr",
       "urlGitHub": "https://github.com/simonwep/pickr",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/rubyconfig/config",
@@ -3271,8 +2781,8 @@
     },
     {
       "urlInput": "https://github.com/lancedikson/bowser",
-      "urlGitHub": "https://github.com/lancedikson/bowser",
-      "status": "OK"
+      "urlGitHub": "https://github.com/bowser-js/bowser",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/reixs/reixs",
@@ -3295,19 +2805,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/lauthieb/code-note",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/hyperf-cloud/hyperf",
+      "urlInput": "https://github.com/hyperf/hyperf",
       "urlGitHub": "https://github.com/hyperf/hyperf",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/HenryQW/Aweome-TTRSS",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/OpenZWave/open-zwave",
@@ -3333,16 +2833,6 @@
       "urlInput": "https://github.com/huchenme/github-trending-api",
       "urlGitHub": "https://github.com/huchenme/github-trending-api",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/aloneguid/torage",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/darwin-education/reium",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/CircuitVerse/CircuitVerse",
@@ -3395,29 +2885,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/huextrat/TheGorgeouLogin",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/ajv-validator/ajv",
       "urlGitHub": "https://github.com/ajv-validator/ajv",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/moul/shportal",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/moul/ash",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/remarkablemark/html-react-parer",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/manuelbieh/geolib",
@@ -3425,19 +2895,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/ivaylokenov/MyTeted.AspNetCore.Mvc",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/Musish/Musish",
       "urlGitHub": "https://github.com/Musish/Musish",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/JasonStein/Notepads",
+      "urlInput": "https://github.com/0x7c13/Notepads",
       "urlGitHub": "https://github.com/0x7c13/Notepads",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/vardius/go-api-boilerplate",
@@ -3450,24 +2915,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/jbarlow83/OCRmyPDF",
+      "urlInput": "https://github.com/ocrmypdf/OCRmyPDF",
       "urlGitHub": "https://github.com/ocrmypdf/OCRmyPDF",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/css-doodle/css-doodle",
       "urlGitHub": "https://github.com/css-doodle/css-doodle",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/bonigarcia/elenium-jupiter",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/RobinCK/typeorm-fixture",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/RobinCK/vue-gallery",
@@ -3480,19 +2935,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/RobinCK/vue-l",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/prabirshrestha/asyncomplete.vim",
       "urlGitHub": "https://github.com/prabirshrestha/asyncomplete.vim",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/Brooooooklyn/learning-rxj",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/izhangzhihao/intellij-rainbow-brackets",
@@ -3503,11 +2948,6 @@
       "urlInput": "https://github.com/madlabsinc/mevn-cli",
       "urlGitHub": "https://github.com/madlabsinc/mevn-cli",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/uNmAnNeR/imakjs",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/garrylachman/ElectroCRUD",
@@ -3528,11 +2968,6 @@
       "urlInput": "https://github.com/luwes/sinuous",
       "urlGitHub": "https://github.com/luwes/sinuous",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/heckj/wiftui-notes",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/j3ssie/osmedeus",
@@ -3560,11 +2995,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/ZhiXiao-Lin/netify",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/php-service-bus/service-bus",
       "urlGitHub": "https://github.com/php-service-bus/service-bus",
       "status": "OK"
@@ -3585,9 +3015,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/abergs/fido2-net-lib",
+      "urlInput": "https://github.com/passwordless-lib/fido2-net-lib",
       "urlGitHub": "https://github.com/passwordless-lib/fido2-net-lib",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/harttle/liquidjs",
@@ -3605,11 +3035,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/jdneo/vcode-leetcode",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/theme-next/hexo-theme-next",
       "urlGitHub": "https://github.com/theme-next/hexo-theme-next",
       "status": "OK"
@@ -3620,29 +3045,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/zdharma/zplugin",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/dmjio/mio",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/Wscats/piano",
       "urlGitHub": "https://github.com/Wscats/piano",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/dmjio/tripe",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/wangkanai/Detection",
+      "urlInput": "https://github.com/wangkanai/wangkanai",
       "urlGitHub": "https://github.com/wangkanai/wangkanai",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/posquit0/Awesome-CV",
@@ -3725,11 +3135,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/nzbin/three-dot",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/nzbin/photoviewer",
       "urlGitHub": "https://github.com/nzbin/photoviewer",
       "status": "OK"
@@ -3745,11 +3150,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/xxczaki/cahify",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/manjaro/pamac",
       "urlGitHub": "https://github.com/manjaro/pamac",
       "status": "OK"
@@ -3760,9 +3160,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/kr1sp1n/node-vault",
+      "urlInput": "https://github.com/nodevault/node-vault",
       "urlGitHub": "https://github.com/nodevault/node-vault",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/tauri-apps/tauri",
@@ -3773,11 +3173,6 @@
       "urlInput": "https://github.com/maxisam/ngx-clipboard",
       "urlGitHub": "https://github.com/maxisam/ngx-clipboard",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/lmcq/firebae-firestorm",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/rize/UriTemplate",
@@ -3800,19 +3195,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/dubzzz/fat-check",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/entropic-dev/entropic",
       "urlGitHub": "https://github.com/entropic-dev/entropic",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/Neilpang/acme.sh",
+      "urlInput": "https://github.com/acmesh-official/acme.sh",
       "urlGitHub": "https://github.com/acmesh-official/acme.sh",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/alibaba/rax",
@@ -3865,29 +3255,19 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/TerryZ/v-electpage",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/aQuaYi/LeetCode-in-Go",
       "urlGitHub": "https://github.com/aQuaYi/LeetCode-in-Go",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/hanton/HTY360Player",
+      "urlInput": "https://github.com/hanton/Fisheye",
       "urlGitHub": "https://github.com/hanton/Fisheye",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/hanton/HTYTextField",
       "urlGitHub": "https://github.com/hanton/HTYTextField",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/hanton/CopyIsue-Xcode-Plugin",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/advancedfx/advancedfx",
@@ -3900,9 +3280,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/react-spring/react-three-fiber",
+      "urlInput": "https://github.com/pmndrs/react-three-fiber",
       "urlGitHub": "https://github.com/pmndrs/react-three-fiber",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/propjockey/augmented-ui",
@@ -3925,14 +3305,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/iluminar/goodwork",
+      "urlInput": "https://github.com/Hasnayeen/invobook",
       "urlGitHub": "https://github.com/Hasnayeen/invobook",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/antonybudianto/cra-univeral",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/flc1125/alidayu",
@@ -3965,19 +3340,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/googlechromelab/adaptive-loading",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/yanyiwu/nodejieba",
       "urlGitHub": "https://github.com/yanyiwu/nodejieba",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/fwartner/mac-cleanup",
+      "urlInput": "https://github.com/mac-cleanup/mac-cleanup-sh",
       "urlGitHub": "https://github.com/mac-cleanup/mac-cleanup-sh",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/survivejs/webpack-merge",
@@ -3990,9 +3360,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/ZhonganTechENG/zarm",
+      "urlInput": "https://github.com/ZhongAnTech/zarm",
       "urlGitHub": "https://github.com/ZhongAnTech/zarm",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/SDWebImage/SDWebImage",
@@ -4025,11 +3395,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/michelon/dante",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/airform/airform",
       "urlGitHub": "https://github.com/airform/airform",
       "status": "OK"
@@ -4045,11 +3410,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/bmkmanoj/j-by-examples",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/dimpu/ngx-md",
       "urlGitHub": "https://github.com/dimpu/ngx-md",
       "status": "OK"
@@ -4060,29 +3420,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/brittanyrw/emojicreen",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/extinctionrebellion/RebelManager",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/node-fetch/node-fetch",
       "urlGitHub": "https://github.com/node-fetch/node-fetch",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/ai-techsystems/dnnCompiler",
+      "urlInput": "https://github.com/ai-techsystems/deepC",
       "urlGitHub": "https://github.com/ai-techsystems/deepC",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/mattn/go-qlite3",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/mattn/emmet-vim",
@@ -4105,14 +3450,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/ethicalSource/contributor_covenant",
+      "urlInput": "https://github.com/EthicalSource/contributor_covenant",
       "urlGitHub": "https://github.com/EthicalSource/contributor_covenant",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/nunomaduro/phpinights",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/chenhg5/go-admin",
@@ -4140,11 +3480,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/voku/anti-xs",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/voku/Arrayy",
       "urlGitHub": "https://github.com/voku/Arrayy",
       "status": "OK"
@@ -4160,19 +3495,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/panjf2000/ant",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/panjf2000/gnet",
       "urlGitHub": "https://github.com/panjf2000/gnet",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/meinto/react-native-event-liteners",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/Codeception/Codeception",
@@ -4195,11 +3520,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/RehanSaeed/Serilog.Exception",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/Dotnet-Boxed/Templates",
       "urlGitHub": "https://github.com/Dotnet-Boxed/Templates",
       "status": "OK"
@@ -4213,16 +3533,6 @@
       "urlInput": "https://github.com/gbdev/awesome-gbdev",
       "urlGitHub": "https://github.com/gbdev/awesome-gbdev",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/mifi/hl-vod",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/mifi/losless-cut",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/less/less.js",
@@ -4250,24 +3560,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/alibaba/pring-cloud-alibaba",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/vivaxy/gacp",
       "urlGitHub": "https://github.com/vivaxy/gacp",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/fkhadra/react-toatify",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/tunl/cat-sh",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/lando/lando",
@@ -4295,19 +3590,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/bluebill1049/react-imple-animate",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/colour-science/colour",
       "urlGitHub": "https://github.com/colour-science/colour",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/cloudwebrtc/flutter-webrtc",
+      "urlInput": "https://github.com/flutter-webrtc/flutter-webrtc",
       "urlGitHub": "https://github.com/flutter-webrtc/flutter-webrtc",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/rolling-scopes/rsschool-app",
@@ -4318,11 +3608,6 @@
       "urlInput": "https://github.com/mbrn/material-table",
       "urlGitHub": "https://github.com/mbrn/material-table",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/rechart/recharts",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/ctrlplusb/easy-peasy",
@@ -4385,24 +3670,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/prim-rb/prism",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/samdenty/gqless",
       "urlGitHub": "https://github.com/samdenty/gqless",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/netmix/radio-tation",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/elect2/select2",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/antvis/G2",
@@ -4413,11 +3683,6 @@
       "urlInput": "https://github.com/silexlabs/Silex",
       "urlGitHub": "https://github.com/silexlabs/Silex",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/hezhongfeng/vue-page-tack",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/chatwoot/chatwoot",
@@ -4460,9 +3725,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/umputun/remark",
+      "urlInput": "https://github.com/umputun/remark42",
       "urlGitHub": "https://github.com/umputun/remark42",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/ivanceras/rustorm",
@@ -4483,11 +3748,6 @@
       "urlInput": "https://github.com/RoyalIcing/Lantern",
       "urlGitHub": "https://github.com/RoyalIcing/Lantern",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/youngjuning/wx-promie-pro",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/walletpass/json-schemas",
@@ -4575,9 +3835,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/alibaba/form-render",
+      "urlInput": "https://github.com/alibaba/x-render",
       "urlGitHub": "https://github.com/alibaba/x-render",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/softvar/enhanced-github",
@@ -4630,14 +3890,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/BlockScience/cadCAD",
+      "urlInput": "https://github.com/cadCAD-org/cadCAD",
       "urlGitHub": "https://github.com/cadCAD-org/cadCAD",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/jaele-project/jaeles",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/gpietro/react-numpad",
@@ -4665,34 +3920,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/trapexit/mergerf",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/clinical-meteor/cookbook",
       "urlGitHub": "https://github.com/clinical-meteor/cookbook",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/xrOxygen/xray-oxygen",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/algum1114/react-design-editor",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/BrikerMan/Kahgari",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/geekdada/urgio",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/LawnchairLauncher/lawnchair",
@@ -4735,19 +3965,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/JaeYeopHan/gatby-starter-bee",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/franciscolourenco/done",
       "urlGitHub": "https://github.com/franciscolourenco/done",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/ItalyPaleAle/velte-spa-router",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/react-figma/react-figma",
@@ -4755,8 +3975,8 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/yohsii/puck-core",
-      "urlGitHub": "https://github.com/yohsii/puck-cms",
+      "urlInput": "https://github.com/yohsii/puck-cms",
+      "urlGitHub": "https://github.com/yohsii/puck-cms-platform",
       "status": "Redirect"
     },
     {
@@ -4780,9 +4000,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/553899811/NewBie-Plan",
+      "urlInput": "https://github.com/553899811/Java-Programmer-Advancement-Program",
       "urlGitHub": "https://github.com/553899811/Java-Programmer-Advancement-Program",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/doocs/md",
@@ -4805,24 +4025,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/wuchangming/py-debugger",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/jinliming2/Chrome-Charet",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/ManukMinasyan/vue-functional-calendar",
       "urlGitHub": "https://github.com/ManukMinasyan/vue-functional-calendar",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/txthinking/mr2",
+      "urlInput": "https://github.com/txthinking/zoro",
       "urlGitHub": "https://github.com/txthinking/zoro",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/txthinking/brook",
@@ -4835,16 +4045,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/dynamooe/dynamoose",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/foxundermoon/v-shell-format",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/sparanoid/almace-scaffolding",
       "urlGitHub": "https://github.com/sparanoid/almace-scaffolding",
       "status": "OK"
@@ -4853,11 +4053,6 @@
       "urlInput": "https://github.com/txthinking/blackwhite",
       "urlGitHub": "https://github.com/txthinking/blackwhite",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/txthinking/google-hots",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/zws-im/zws",
@@ -4880,9 +4075,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/pion/ion",
+      "urlInput": "https://github.com/ionorg/ion",
       "urlGitHub": "https://github.com/ionorg/ion",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/monicahq/monica",
@@ -4895,9 +4090,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/midwan/amiberry",
+      "urlInput": "https://github.com/BlitterStudio/amiberry",
       "urlGitHub": "https://github.com/BlitterStudio/amiberry",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/astrit/css.gg",
@@ -4920,11 +4115,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/antfu/vueue",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/the-via/releases",
       "urlGitHub": "https://github.com/the-via/releases",
       "status": "OK"
@@ -4935,9 +4125,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/yisar/fre",
+      "urlInput": "https://github.com/frejs/fre",
       "urlGitHub": "https://github.com/frejs/fre",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/yisar/eplayer",
@@ -4975,19 +4165,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/hiyali/vue-mooth-picker",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/btzr-io/Villain",
       "urlGitHub": "https://github.com/btzr-io/Villain",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/codejamninja/react-gtk",
+      "urlInput": "https://github.com/silicon-hills/react-gtk",
       "urlGitHub": "https://github.com/silicon-hills/react-gtk",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/cabal-club/cabal-desktop",
@@ -4998,11 +4183,6 @@
       "urlInput": "https://github.com/vjeantet/alerter",
       "urlGitHub": "https://github.com/vjeantet/alerter",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/andstorm-io/sandstorm",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/KumbiaPHP/KumbiaPHP",
@@ -5040,11 +4220,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/nobrainr/morphim",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/Ascotbe/Medusa",
       "urlGitHub": "https://github.com/Ascotbe/Medusa",
       "status": "OK"
@@ -5070,29 +4245,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/xmlking/ngx-tarter-kit",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/yTakkar/React-Intagram-Clone-2.0",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/yTakkar/Intagram-clone",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/yTakkar/Go-Mini-Social-Network",
       "urlGitHub": "https://github.com/yTakkar/Go-Mini-Social-Network",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/checktheroads/hyperglass",
+      "urlInput": "https://github.com/thatmattlove/hyperglass",
       "urlGitHub": "https://github.com/thatmattlove/hyperglass",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/botika/yarte",
@@ -5107,16 +4267,6 @@
     {
       "urlInput": "https://github.com/regolith-linux/regolith-desktop",
       "urlGitHub": "https://github.com/regolith-linux/regolith-desktop",
-      "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/Gherciu/graphiql-torm",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/Gherciu/react-p5",
-      "urlGitHub": "https://github.com/Gherciu/react-p5",
       "status": "OK"
     },
     {
@@ -5138,16 +4288,6 @@
       "urlInput": "https://github.com/ossia/score",
       "urlGitHub": "https://github.com/ossia/score",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/koddr/goodhare.js",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/koddr/vue-goodhare",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/f-droid/fdroidclient",
@@ -5200,19 +4340,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/EthicalSource/contributor_covenant",
-      "urlGitHub": "https://github.com/EthicalSource/contributor_covenant",
-      "status": "OK"
-    },
-    {
       "urlInput": "https://github.com/Usbac/wolff",
       "urlGitHub": "https://github.com/Usbac/wolff",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/ukrbublik/react-aweome-query-builder",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/jbetancur/react-data-table-component",
@@ -5240,11 +4370,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/llamaret/MytiQ",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/typedclojure/typedclojure",
       "urlGitHub": "https://github.com/typedclojure/typedclojure",
       "status": "OK"
@@ -5265,14 +4390,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/crsmithdev/arrow",
+      "urlInput": "https://github.com/arrow-py/arrow",
       "urlGitHub": "https://github.com/arrow-py/arrow",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/dotnetGame/MineCae",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/wp-graphql/wp-graphql-woocommerce",
@@ -5280,14 +4400,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/maxence-charriere/app",
+      "urlInput": "https://github.com/maxence-charriere/go-app",
       "urlGitHub": "https://github.com/maxence-charriere/go-app",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/facebookreearch/hydra",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/sifrr/sifrr",
@@ -5320,9 +4435,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/tatianamac/SelfDefined",
+      "urlInput": "https://github.com/selfdefined/web-app",
       "urlGitHub": "https://github.com/selfdefined/web-app",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/OpenIPC/firmware",
@@ -5350,11 +4465,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/leoding86/webextenion-pixiv-toolkit",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/pgRouting/pgrouting",
       "urlGitHub": "https://github.com/pgRouting/pgrouting",
       "status": "OK"
@@ -5378,11 +4488,6 @@
       "urlInput": "https://github.com/prevwong/craft.js",
       "urlGitHub": "https://github.com/prevwong/craft.js",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/JPeer264/node-emantic-git-commit-cli",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/micjahn/ZXing.Net",
@@ -5410,11 +4515,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/mfranzke/datalit-polyfill",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/mfranzke/loading-attribute-polyfill",
       "urlGitHub": "https://github.com/mfranzke/loading-attribute-polyfill",
       "status": "OK"
@@ -5423,11 +4523,6 @@
       "urlInput": "https://github.com/django-extensions/django-extensions",
       "urlGitHub": "https://github.com/django-extensions/django-extensions",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/dotnetcore/Magicode.IE",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/wearebraid/vue-formulate",
@@ -5450,14 +4545,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/timocov/dt-bundle-generator",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/jxtech/wechatpy",
+      "urlInput": "https://github.com/wechatpy/wechatpy",
       "urlGitHub": "https://github.com/wechatpy/wechatpy",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/dry-python/returns",
@@ -5485,9 +4575,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/Palakis/obs-ndi",
+      "urlInput": "https://github.com/obs-ndi/obs-ndi",
       "urlGitHub": "https://github.com/obs-ndi/obs-ndi",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/orhun/kmon",
@@ -5510,19 +4600,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/asimp/assimp",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/AmruthPillai/Reactive-Resume",
       "urlGitHub": "https://github.com/AmruthPillai/Reactive-Resume",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/spencerwooo/Substats",
+      "urlInput": "https://github.com/spencerwooo/substats",
       "urlGitHub": "https://github.com/spencerwooo/substats",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/OpenCOVID19CoughCheck/CoughCheckApp",
@@ -5530,9 +4615,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/cloud-cv/evalai",
+      "urlInput": "https://github.com/Cloud-CV/EvalAI",
       "urlGitHub": "https://github.com/Cloud-CV/EvalAI",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/remorses/mongoke",
@@ -5545,9 +4630,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/borkdude/clj-kondo",
+      "urlInput": "https://github.com/clj-kondo/clj-kondo",
       "urlGitHub": "https://github.com/clj-kondo/clj-kondo",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/babashka/babashka",
@@ -5568,16 +4653,6 @@
       "urlInput": "https://github.com/gtk-rs/gtk4-rs",
       "urlGitHub": "https://github.com/gtk-rs/gtk4-rs",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/YIZHUANG/react-multi-carouel",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/chakravala/Grasmann.jl",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/UnigramDev/Unigram",
@@ -5603,11 +4678,6 @@
       "urlInput": "https://github.com/ohmyform/ohmyform",
       "urlGitHub": "https://github.com/ohmyform/ohmyform",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/ffMathy/FluffySpoon.JavaScript.Teting.Faking",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/ffMathy/Shapeshifter",
@@ -5653,11 +4723,6 @@
       "urlInput": "https://github.com/huihut/interview",
       "urlGitHub": "https://github.com/huihut/interview",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/ickrage/sickrage",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/revapi/revapi",
@@ -5708,16 +4773,6 @@
       "urlInput": "https://github.com/falahati/LiteDBViewer",
       "urlGitHub": "https://github.com/falahati/LiteDBViewer",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/liuyib/hexo-theme-tun",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/w3c/webidl2.j",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/xz/new.css",
@@ -5850,11 +4905,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/web-crobbler/web-scrobbler",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/optics-dev/Monocle",
       "urlGitHub": "https://github.com/optics-dev/Monocle",
       "status": "OK"
@@ -5863,11 +4913,6 @@
       "urlInput": "https://github.com/sitespeedio/sitespeed.io",
       "urlGitHub": "https://github.com/sitespeedio/sitespeed.io",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/arkntool/arknights-toolbox",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/STEllAR-GROUP/hpx",
@@ -6050,19 +5095,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/MRtrix3/mrtrix3.git",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/thebuggenie/thebuggenie",
       "urlGitHub": "https://github.com/thebuggenie/thebuggenie",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/factn/reilience-app",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/EngineHub/WorldEdit",
@@ -6125,11 +5160,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/juliandavidmr/aweome-nestjs",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/gotson/komga",
       "urlGitHub": "https://github.com/gotson/komga",
       "status": "OK"
@@ -6160,11 +5190,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/TZG-official/Jvav",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/ramda/ramda",
       "urlGitHub": "https://github.com/ramda/ramda",
       "status": "OK"
@@ -6173,11 +5198,6 @@
       "urlInput": "https://github.com/uTensor/uTensor",
       "urlGitHub": "https://github.com/uTensor/uTensor",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/Jinxianen/SwiftUI",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/OpenHD/OpenHD",
@@ -6190,9 +5210,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/jxom/bumbag",
+      "urlInput": "https://github.com/jxom/bumbag-ui",
       "urlGitHub": "https://github.com/jxom/bumbag-ui",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/mamunhpath/josh.js",
@@ -6230,9 +5250,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/kovah/linkace",
+      "urlInput": "https://github.com/Kovah/LinkAce",
       "urlGitHub": "https://github.com/Kovah/LinkAce",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/blleng/hexo-theme-lx",
@@ -6245,9 +5265,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/pufferpanel/pufferpanel",
+      "urlInput": "https://github.com/PufferPanel/PufferPanel",
       "urlGitHub": "https://github.com/PufferPanel/PufferPanel",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/deltachat/deltachat-android",
@@ -6270,9 +5290,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/orbitdb/orbit-db",
+      "urlInput": "https://github.com/orbitdb/orbitdb",
       "urlGitHub": "https://github.com/orbitdb/orbitdb",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/shdown/luastatus",
@@ -6405,9 +5425,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/sequel-ace/sequel-ace",
+      "urlInput": "https://github.com/Sequel-Ace/Sequel-Ace",
       "urlGitHub": "https://github.com/Sequel-Ace/Sequel-Ace",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/simplex-chat/simplex-chat",
@@ -6450,14 +5470,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/oct16/timecat",
+      "urlInput": "https://github.com/oct16/TimeCat",
       "urlGitHub": "https://github.com/oct16/TimeCat",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/techlab/jquery-martwizard",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/dr5hn/countries-states-cities-database",
@@ -6530,9 +5545,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/talelin/lin-ui",
+      "urlInput": "https://github.com/TaleLin/lin-ui",
       "urlGitHub": "https://github.com/TaleLin/lin-ui",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/coronasafe/care",
@@ -6595,11 +5610,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/aaaguirrep/pentet",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/docksal/docksal",
       "urlGitHub": "https://github.com/docksal/docksal",
       "status": "OK"
@@ -6610,9 +5620,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/rochaCbruno/dynaconf",
+      "urlInput": "https://github.com/dynaconf/dynaconf",
       "urlGitHub": "https://github.com/dynaconf/dynaconf",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/arkmanager/ark-server-tools",
@@ -6698,11 +5708,6 @@
       "urlInput": "https://github.com/nsfw-filter/nsfw-filter",
       "urlGitHub": "https://github.com/nsfw-filter/nsfw-filter",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/antvi/x6",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/ml4a/ml4a",
@@ -6825,11 +5830,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/zauberware/rail-devise-graphql",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/ice/framework",
       "urlGitHub": "https://github.com/ice/framework",
       "status": "OK"
@@ -6848,16 +5848,6 @@
       "urlInput": "https://github.com/mirai-mamori/Sakurairo",
       "urlGitHub": "https://github.com/mirai-mamori/Sakurairo",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/liphilar/covid19-sir",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/azlux/botamuique",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/ash-project/ash",
@@ -6888,11 +5878,6 @@
       "urlInput": "https://github.com/mixxxdj/mixxx",
       "urlGitHub": "https://github.com/mixxxdj/mixxx",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/nodkz/mongodb-memory-erver",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/FluentValidation/FluentValidation",
@@ -6985,16 +5970,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/nickvidal/anniv.co",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/reyas-sreelal/malluscript",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/saltbo/zpan",
       "urlGitHub": "https://github.com/saltbo/zpan",
       "status": "OK"
@@ -7005,9 +5980,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/RDambrosio016/RSLint",
+      "urlInput": "https://github.com/rslint/rslint",
       "urlGitHub": "https://github.com/rslint/rslint",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/balmjs/balm-ui",
@@ -7033,11 +6008,6 @@
       "urlInput": "https://github.com/panders/Test",
       "urlGitHub": "https://github.com/panders/Test",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/ServeRet/ServeRest",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/flybywiresim/aircraft",
@@ -7117,6 +6087,11 @@
     {
       "urlInput": "https://github.com/ooni/probe",
       "urlGitHub": "https://github.com/ooni/probe",
+      "status": "OK"
+    },
+    {
+      "urlInput": "https://github.com/haozi/xss-demo",
+      "urlGitHub": "https://github.com/haozi/xss-demo",
       "status": "OK"
     },
     {
@@ -7250,16 +6225,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/vlio20/util-decorators",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/formium/tdx",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/bodymovin/bodymovin-extension",
       "urlGitHub": "https://github.com/bodymovin/bodymovin-extension",
       "status": "OK"
@@ -7325,11 +6290,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/ixcode/spring-oxygen",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/schemathesis/schemathesis",
       "urlGitHub": "https://github.com/schemathesis/schemathesis",
       "status": "OK"
@@ -7345,9 +6305,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/trackercli/covid19-tracker-cli",
+      "urlInput": "https://github.com/OSSPhilippines/covid19-tracker-cli",
       "urlGitHub": "https://github.com/OSSPhilippines/covid19-tracker-cli",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/node-opcua/node-opcua",
@@ -7385,24 +6345,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/JunzhouLiu/BILIBILI-HELPER",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/joe223/tiny-wiper",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/rizinorg/cutter",
       "urlGitHub": "https://github.com/rizinorg/cutter",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/M2Team/NSudo",
+      "urlInput": "https://github.com/M2TeamArchived/NSudo",
       "urlGitHub": "https://github.com/M2TeamArchived/NSudo",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/deepjyoti30/ytmdl",
@@ -7430,9 +6380,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/roman-rr/cupertino-pane",
+      "urlInput": "https://github.com/tech-systems/panes",
       "urlGitHub": "https://github.com/tech-systems/panes",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/pmndrs/jotai",
@@ -7453,11 +6403,6 @@
       "urlInput": "https://github.com/nolimits4web/swiper",
       "urlGitHub": "https://github.com/nolimits4web/swiper",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/beercs/beercss",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/Charmve/Surface-Defect-Detection",
@@ -7500,14 +6445,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/ifcopenshell/ifcopenshell",
+      "urlInput": "https://github.com/IfcOpenShell/IfcOpenShell",
       "urlGitHub": "https://github.com/IfcOpenShell/IfcOpenShell",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/corona10/goimagehah",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/wger-project/wger",
@@ -7523,11 +6463,6 @@
       "urlInput": "https://github.com/cimplec/sim-c",
       "urlGitHub": "https://github.com/cimplec/sim-c",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/SvenVD/rpiurv",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/alvr-org/ALVR",
@@ -7550,14 +6485,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/gregberge/xtyled",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/ofabry/go-callvis",
+      "urlInput": "https://github.com/ondrajz/go-callvis",
       "urlGitHub": "https://github.com/ondrajz/go-callvis",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/lakinduakash/linux-wifi-hotspot",
@@ -7620,9 +6550,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/wKich/creevey",
+      "urlInput": "https://github.com/creevey/creevey",
       "urlGitHub": "https://github.com/creevey/creevey",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/saschaeggi/gin",
@@ -7675,14 +6605,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/joaomlourenco/novatheis",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/Shen-Yu/hexo-theme-ayer",
+      "urlInput": "https://github.com/shen-yu/hexo-theme-ayer",
       "urlGitHub": "https://github.com/shen-yu/hexo-theme-ayer",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/hydro-sdk/hydro-sdk",
@@ -7708,11 +6633,6 @@
       "urlInput": "https://github.com/XuanchenLin/NanUI",
       "urlGitHub": "https://github.com/XuanchenLin/NanUI",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/pavlobu/dekreen",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/hoffstadt/DearPyGui",
@@ -7743,11 +6663,6 @@
       "urlInput": "https://github.com/opendexnetwork/opendex.network",
       "urlGitHub": "https://github.com/opendexnetwork/opendex.network",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/Anidetrix/rollup-plugin-tyles",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/edualgo/eduAlgo",
@@ -7845,11 +6760,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/mingrammer/diagram",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/cdli-gh/data",
       "urlGitHub": "https://github.com/cdli-gh/data",
       "status": "OK"
@@ -7870,9 +6780,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/mouse-reeve/bookwyrm",
+      "urlInput": "https://github.com/bookwyrm-social/bookwyrm",
       "urlGitHub": "https://github.com/bookwyrm-social/bookwyrm",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/MihaelIsaev/UIKitPlus",
@@ -7950,11 +6860,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/godofredoninja/imply",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/dylech30th/NvidiaMonitor",
       "urlGitHub": "https://github.com/dylech30th/NvidiaMonitor",
       "status": "OK"
@@ -7980,11 +6885,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/mwjs/msw",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/svg/svgo",
       "urlGitHub": "https://github.com/svg/svgo",
       "status": "OK"
@@ -8003,11 +6903,6 @@
       "urlInput": "https://github.com/LiveTL/LiveTL",
       "urlGitHub": "https://github.com/LiveTL/LiveTL",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/mglaman/phptan-drupal",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/hubblo-org/scaphandre",
@@ -8035,19 +6930,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/orchidj/tom-select",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/sfx101/docker-stacks",
+      "urlInput": "https://github.com/sfx101/deck",
       "urlGitHub": "https://github.com/sfx101/deck",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/mariorodeghiero/vue-theme-vcode",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/dazinator/DotNet.Glob",
@@ -8155,11 +7040,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/Enime-Project/api.enime.moe",
-      "urlGitHub": "https://github.com/Enime-Project/api.enime.moe",
-      "status": "OK"
-    },
-    {
       "urlInput": "https://github.com/ilinsky/xmlhttprequest",
       "urlGitHub": "https://github.com/ilinsky/xmlhttprequest",
       "status": "OK"
@@ -8185,11 +7065,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/apache/netbean",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/xyzzy/qrpicture",
       "urlGitHub": "https://github.com/xyzzy/qrpicture",
       "status": "OK"
@@ -8200,19 +7075,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/epicmaxco/vuetic-admin",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/tone-row/flowchart-fun",
       "urlGitHub": "https://github.com/tone-row/flowchart-fun",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/DanielAbalde/Sunglases",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/public-transport/hafas-client",
@@ -8228,11 +7093,6 @@
       "urlInput": "https://github.com/KaliedaRik/Scrawl-canvas",
       "urlGitHub": "https://github.com/KaliedaRik/Scrawl-canvas",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/gkbrk/lowloris",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/cawa-93/vite-electron-builder",
@@ -8260,11 +7120,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/kenangundogan/fontito",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/kenangundogan/flexible-grid",
       "urlGitHub": "https://github.com/kenangundogan/flexible-grid",
       "status": "OK"
@@ -8285,11 +7140,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/umneko/lua-language",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/ihucos/counter.dev",
       "urlGitHub": "https://github.com/ihucos/counter.dev",
       "status": "OK"
@@ -8300,29 +7150,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/JiHong88/SunEditor",
+      "urlInput": "https://github.com/JiHong88/suneditor",
       "urlGitHub": "https://github.com/JiHong88/suneditor",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/omgovich/react-colorful",
       "urlGitHub": "https://github.com/omgovich/react-colorful",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/epicmaxco/vuetic-ui",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/blakmatrix/node-zendek",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/organicmap/organicmaps",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/jsayol/FireSQL",
@@ -8355,11 +7190,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/elrumo/macOS_Big_Sur_icon_replacement",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/mopsicus/UnityMobileInput",
       "urlGitHub": "https://github.com/mopsicus/UnityMobileInput",
       "status": "OK"
@@ -8386,13 +7216,8 @@
     },
     {
       "urlInput": "https://github.com/simplysecure/dots-patterns",
-      "urlGitHub": "https://github.com/simplysecure/dots-patterns",
-      "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/greyli/apiflak",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "urlGitHub": "https://github.com/sprblm/dots-patterns",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/Shabinder/SpotiFlyer",
@@ -8403,11 +7228,6 @@
       "urlInput": "https://github.com/actually-colab/desktop",
       "urlGitHub": "https://github.com/actually-colab/desktop",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/djyde/cudis",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/OpenMS/OpenMS",
@@ -8535,11 +7355,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/olid/test-suite",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/aofdev/vue-firebase-auth-vuex",
       "urlGitHub": "https://github.com/aofdev/vue-firebase-auth-vuex",
       "status": "OK"
@@ -8605,11 +7420,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/yezyilomo/django-retql",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/funk-team/funkLang",
       "urlGitHub": "https://github.com/funk-team/funkLang",
       "status": "OK"
@@ -8660,9 +7470,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/ctripcorp/apollo.net",
+      "urlInput": "https://github.com/apolloconfig/apollo.net",
       "urlGitHub": "https://github.com/apolloconfig/apollo.net",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/chinesedfan/parrot-mocker-web",
@@ -8708,11 +7518,6 @@
       "urlInput": "https://github.com/RomanSoloweow/Rider-Visual-Studio-2019-Dark-Theme",
       "urlGitHub": "https://github.com/RomanSoloweow/Rider-Visual-Studio-2019-Dark-Theme",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/mehdihadeli/aweome-software-architecture",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/burhanrashid52/PhotoEditor",
@@ -8795,9 +7600,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/Saul-Mirone/milkdown",
+      "urlInput": "https://github.com/Milkdown/milkdown",
       "urlGitHub": "https://github.com/Milkdown/milkdown",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/EdgeTranslate/EdgeTranslate",
@@ -8805,9 +7610,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/suenot/kupi-terminal",
+      "urlInput": "https://github.com/suenot/profitmaker",
       "urlGitHub": "https://github.com/suenot/profitmaker",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/cannlytics/cannabis-data-science",
@@ -8818,16 +7623,6 @@
       "urlInput": "https://github.com/Airsaid/AndroidLocalizePlugin",
       "urlGitHub": "https://github.com/Airsaid/AndroidLocalizePlugin",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/nortikin/verchok",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
-      "urlInput": "https://github.com/DEgITx/rat-search",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/compose-museum/jetpack-compose-book",
@@ -8858,11 +7653,6 @@
       "urlInput": "https://github.com/Coding-Coach/find-a-mentor",
       "urlGitHub": "https://github.com/Coding-Coach/find-a-mentor",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/azjezz/pl",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/virtualvivek/react-windows-ui",
@@ -8910,11 +7700,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/external-ecrets/external-secrets",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/AirenSoft/OvenMediaEngine",
       "urlGitHub": "https://github.com/AirenSoft/OvenMediaEngine",
       "status": "OK"
@@ -8960,9 +7745,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/streamxhub/streamx",
+      "urlInput": "https://github.com/apache/incubator-streampark",
       "urlGitHub": "https://github.com/apache/incubator-streampark",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/Cecilapp/Cecil",
@@ -9070,11 +7855,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/418ec/huntr",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/masumsoft/express-cassandra",
       "urlGitHub": "https://github.com/masumsoft/express-cassandra",
       "status": "OK"
@@ -9175,14 +7955,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/michaeljones/breathe",
+      "urlInput": "https://github.com/breathe-doc/breathe",
       "urlGitHub": "https://github.com/breathe-doc/breathe",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/Charmve/computer-viion-in-action",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/GeyserMC/Geyser",
@@ -9203,11 +7978,6 @@
       "urlInput": "https://github.com/nadeesha/ts-prune",
       "urlGitHub": "https://github.com/nadeesha/ts-prune",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/h-enk/dok",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/numldesign/nextjs-numl-template",
@@ -9235,19 +8005,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/dev-capertheghost/ghostybot",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/mcbedrock/bedrock-headers",
       "urlGitHub": "https://github.com/mcbedrock/bedrock-headers",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/TaKO8Ki/aweome-alternatives-in-rust",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/PseudoTV/PseudoTV_Live",
@@ -9285,11 +8045,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/Dexecure/dexecure",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/BlockathonMC/.github",
       "urlGitHub": "https://github.com/BlockathonMC/.github",
       "status": "OK"
@@ -9298,11 +8053,6 @@
       "urlInput": "https://github.com/dipu-bd/lightnovel-crawler",
       "urlGitHub": "https://github.com/dipu-bd/lightnovel-crawler",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/darkmatter18/cheatheet",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/tsolucio/corebos",
@@ -9316,8 +8066,8 @@
     },
     {
       "urlInput": "https://github.com/jimbethancourt/RefactorFirst",
-      "urlGitHub": "https://github.com/jimbethancourt/RefactorFirst",
-      "status": "OK"
+      "urlGitHub": "https://github.com/refactorfirst/RefactorFirst",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/ZsgsDesign/NOJ",
@@ -9350,9 +8100,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/ajbura/cinny",
+      "urlInput": "https://github.com/cinnyapp/cinny",
       "urlGitHub": "https://github.com/cinnyapp/cinny",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/07akioni/xicons",
@@ -9370,11 +8120,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/hakell/ghcup-hs",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/netless-io/flat",
       "urlGitHub": "https://github.com/netless-io/flat",
       "status": "OK"
@@ -9390,14 +8135,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/h-REA/hrea",
+      "urlInput": "https://github.com/h-REA/hREA",
       "urlGitHub": "https://github.com/h-REA/hREA",
-      "status": "Redirect"
-    },
-    {
-      "urlInput": "https://github.com/recp/asetkit",
-      "urlGitHub": null,
-      "status": "Repo not found"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/breamware/sidekiq-batch",
@@ -9460,9 +8200,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/ViewTube/viewtube-vue",
+      "urlInput": "https://github.com/ViewTube/viewtube",
       "urlGitHub": "https://github.com/ViewTube/viewtube",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/fullstackhero/dotnet-webapi-boilerplate",
@@ -9475,9 +8215,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/khanmanan/automod-bot",
+      "urlInput": "https://github.com/Khanmanan/automod-bot",
       "urlGitHub": "https://github.com/Khanmanan/automod-bot",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/estruyf/vscode-front-matter",
@@ -9493,11 +8233,6 @@
       "urlInput": "https://github.com/regel/loudml",
       "urlGitHub": "https://github.com/regel/loudml",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/greyli/boottrap-flask",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/naen-nae/naen-nae",
@@ -9590,11 +8325,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/Megabit/Blazorie",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/RandomCoderOrg/ubuntu-on-android",
       "urlGitHub": "https://github.com/RandomCoderOrg/ubuntu-on-android",
       "status": "OK"
@@ -9623,11 +8353,6 @@
       "urlInput": "https://github.com/avmnu-sng/rspec-tracer",
       "urlGitHub": "https://github.com/avmnu-sng/rspec-tracer",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/vivaxy/vcode-conventional-commits",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/KinectToVR/KinectToVR",
@@ -9675,11 +8400,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/ynrc/n2o",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/pyodide/pyodide",
       "urlGitHub": "https://github.com/pyodide/pyodide",
       "status": "OK"
@@ -9693,11 +8413,6 @@
       "urlInput": "https://github.com/skylicht-lab/skylicht-engine",
       "urlGitHub": "https://github.com/skylicht-lab/skylicht-engine",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/romanithere/measureland",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/stevermeister/ngx-cookie-service",
@@ -9720,9 +8435,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/ananto30/zero",
+      "urlInput": "https://github.com/Ananto30/zero",
       "urlGitHub": "https://github.com/Ananto30/zero",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/playframework/playframework",
@@ -9800,11 +8515,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/zhiqwang/yolov5-rt-tack",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5",
       "urlGitHub": "https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5",
       "status": "OK"
@@ -9843,11 +8553,6 @@
       "urlInput": "https://github.com/top-think/think",
       "urlGitHub": "https://github.com/top-think/think",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/gongfuxiang/hopxo",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/lostdesign/linked",
@@ -9895,11 +8600,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/bazel-contrib/SIG-rule-authors",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/llvm/llvm-project",
       "urlGitHub": "https://github.com/llvm/llvm-project",
       "status": "OK"
@@ -9920,19 +8620,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/osrs/srs",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/Typetura/Typetura",
       "urlGitHub": "https://github.com/Typetura/Typetura",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/buggregator/app",
+      "urlInput": "https://github.com/buggregator/laravel-app",
       "urlGitHub": "https://github.com/buggregator/laravel-app",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/thesayyn/protoc-gen-ts",
@@ -9950,11 +8645,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/MehediH/wintall",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/Xtao-Labs/GCAuth-OAuth",
       "urlGitHub": "https://github.com/Xtao-Labs/GCAuth-OAuth",
       "status": "OK"
@@ -9965,9 +8655,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/tistory-projects/tistory-skin-hELLO",
+      "urlInput": "https://github.com/tidory/hello",
       "urlGitHub": "https://github.com/tidory/hello",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/Saleor-Multi-Vendor/saleor-multi-vendor",
@@ -10015,11 +8705,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/thetrukture/ide",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/actix/actix-web",
       "urlGitHub": "https://github.com/actix/actix-web",
       "status": "OK"
@@ -10043,11 +8728,6 @@
       "urlInput": "https://github.com/pylabel-project/pylabel",
       "urlGitHub": "https://github.com/pylabel-project/pylabel",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/olidinvoice/solidinvoice",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/contour-terminal/contour",
@@ -10125,11 +8805,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/dmbaturin/oupault",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/jkirkcaldy/plex-utills",
       "urlGitHub": "https://github.com/jkirkcaldy/plex-utills",
       "status": "OK"
@@ -10205,11 +8880,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/treetsidesoftware/cspell",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/streetsidesoftware/vscode-spell-checker",
       "urlGitHub": "https://github.com/streetsidesoftware/vscode-spell-checker",
       "status": "OK"
@@ -10243,11 +8913,6 @@
       "urlInput": "https://github.com/typeddjango/awesome-python-typing",
       "urlGitHub": "https://github.com/typeddjango/awesome-python-typing",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/inikulin/pare5",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/BuddiesOfBudgie/budgie-desktop",
@@ -10365,11 +9030,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/victorakap/Profile.md",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/XFox111/TabsAsideExtension",
       "urlGitHub": "https://github.com/XFox111/TabsAsideExtension",
       "status": "OK"
@@ -10410,19 +9070,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/oceanroleplay/dicord.ts",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/thysultan/stylis",
       "urlGitHub": "https://github.com/thysultan/stylis",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/h-enk/hya",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/JustFly1984/react-google-maps-api",
@@ -10458,11 +9108,6 @@
       "urlInput": "https://github.com/virejdasani/pythOwO",
       "urlGitHub": "https://github.com/virejdasani/pythOwO",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/openframework/openFrameworks",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/Project-Books/book-project",
@@ -10510,11 +9155,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/pavankataria/SwiftDataTable",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/SonicCloudOrg/sonic-server",
       "urlGitHub": "https://github.com/SonicCloudOrg/sonic-server",
       "status": "OK"
@@ -10523,11 +9163,6 @@
       "urlInput": "https://github.com/boa-dev/boa",
       "urlGitHub": "https://github.com/boa-dev/boa",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/marton-balaz-kovacs/tenzing",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/FlechazoPh/QLDependency",
@@ -10580,11 +9215,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/paramiddharth/rema",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/Rapptz/discord.py",
       "urlGitHub": "https://github.com/Rapptz/discord.py",
       "status": "OK"
@@ -10598,11 +9228,6 @@
       "urlInput": "https://github.com/landley/toybox",
       "urlGitHub": "https://github.com/landley/toybox",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/kelthuzadx/Cpp17TheCompleteGuideChinee",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/anjoy8/Blog.Core",
@@ -10638,11 +9263,6 @@
       "urlInput": "https://github.com/hanami/hanami",
       "urlGitHub": "https://github.com/hanami/hanami",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/minlearn/onedevdek",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/hopyo/data",
@@ -10720,9 +9340,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/shopperlabs/framework",
+      "urlInput": "https://github.com/shopperlabs/shopper",
       "urlGitHub": "https://github.com/shopperlabs/shopper",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/PolyMC/PolyMC",
@@ -10845,11 +9465,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/geomtats/geomstats",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/adarsh-goel/FileStreamBot-pro",
       "urlGitHub": "https://github.com/adarsh-goel/FileStreamBot-pro",
       "status": "OK"
@@ -10890,18 +9505,13 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/Drag13/react-learning-coure-short",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/RustPython/RustPython",
       "urlGitHub": "https://github.com/RustPython/RustPython",
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/sansyrox/robyn",
-      "urlGitHub": "https://github.com/sparckles/robyn",
+      "urlInput": "https://github.com/sparckles/robyn",
+      "urlGitHub": "https://github.com/sparckles/Robyn",
       "status": "Redirect"
     },
     {
@@ -10930,9 +9540,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/tracardi/tracardi",
+      "urlInput": "https://github.com/Tracardi/tracardi",
       "urlGitHub": "https://github.com/Tracardi/tracardi",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/djezzzl/factory_trace",
@@ -11010,9 +9620,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/flow-launcher/flow.launcher",
+      "urlInput": "https://github.com/Flow-Launcher/Flow.Launcher",
       "urlGitHub": "https://github.com/Flow-Launcher/Flow.Launcher",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/Just-Moh-it/Pckd",
@@ -11028,11 +9638,6 @@
       "urlInput": "https://github.com/ThaUnknown/pwa-haven",
       "urlGitHub": "https://github.com/ThaUnknown/pwa-haven",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/PKUFlyingPig/c-self-learning",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/mumuki/mumuki-laboratory",
@@ -11130,11 +9735,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/betula/ue-between",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/duguying/parsing-techniques",
       "urlGitHub": "https://github.com/duguying/parsing-techniques",
       "status": "OK"
@@ -11170,9 +9770,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/aaronleopold/stump",
+      "urlInput": "https://github.com/stumpapp/stump",
       "urlGitHub": "https://github.com/stumpapp/stump",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/ShafSpecs/Remix-FakeShop",
@@ -11185,9 +9785,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/Open-Data-Product-Initiative/open-data-product-spec",
+      "urlInput": "https://github.com/Open-Data-Product-Initiative/open-data-product-spec-1.0",
       "urlGitHub": "https://github.com/Open-Data-Product-Initiative/open-data-product-spec-1.0",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/razonyang/hugo-theme-bootstrap",
@@ -11230,9 +9830,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/matteobruni/tsparticles",
+      "urlInput": "https://github.com/tsparticles/tsparticles",
       "urlGitHub": "https://github.com/tsparticles/tsparticles",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/Cap-go/capacitor-updater",
@@ -11240,9 +9840,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/VE4TM/ATR-License",
+      "urlInput": "https://github.com/AtTheRoot/ATR-License",
       "urlGitHub": "https://github.com/AtTheRoot/ATR-License",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/kigster/cmake-project-template",
@@ -11390,9 +9990,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/itsnebulalol/permasigner",
+      "urlInput": "https://github.com/permasigner/permasigner",
       "urlGitHub": "https://github.com/permasigner/permasigner",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/ZaneH/piano-trainer",
@@ -11495,9 +10095,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/thomaspinder/GPJax",
+      "urlInput": "https://github.com/JaxGaussianProcesses/GPJax",
       "urlGitHub": "https://github.com/JaxGaussianProcesses/GPJax",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/atomicdata-dev/atomic-server",
@@ -11750,19 +10350,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/terra-rebels/station",
-      "urlGitHub": "https://github.com/terra-rebels/station",
-      "status": "OK"
-    },
-    {
       "urlInput": "https://github.com/reactdeveloperske/reactdevske-website",
       "urlGitHub": "https://github.com/reactdeveloperske/reactdevske-website",
       "status": "OK"
     },
     {
       "urlInput": "https://github.com/odroe/prisma-dart",
-      "urlGitHub": "https://github.com/odroe/prisma-dart",
-      "status": "OK"
+      "urlGitHub": "https://github.com/medz/prisma-dart",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/rchain-community/rchain-api",
@@ -11955,9 +10550,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/heyjaywilson/iosdevspace",
+      "urlInput": "https://github.com/iOSDevSpace/iosdevspace",
       "urlGitHub": "https://github.com/iOSDevSpace/iosdevspace",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/dao-xyz/peerbit",
@@ -11973,11 +10568,6 @@
       "urlInput": "https://github.com/Together-Java/TJ-Bot",
       "urlGitHub": "https://github.com/Together-Java/TJ-Bot",
       "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/katherineheadshall/simple-storage",
-      "urlGitHub": null,
-      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/vexip-ui/vexip-ui",
@@ -11996,8 +10586,8 @@
     },
     {
       "urlInput": "https://github.com/Blazor-School/blazor-school-library",
-      "urlGitHub": "https://github.com/Blazor-School/blazor-school-library",
-      "status": "OK"
+      "urlGitHub": null,
+      "status": "Repo not found"
     },
     {
       "urlInput": "https://github.com/jenkins-x/jx",
@@ -12030,14 +10620,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/leifermendez/bot-whatsapp",
+      "urlInput": "https://github.com/codigoencasa/bot-whatsapp",
       "urlGitHub": "https://github.com/codigoencasa/bot-whatsapp",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
-      "urlInput": "https://github.com/e-maxx-eng/e-maxx-eng",
+      "urlInput": "https://github.com/cp-algorithms/cp-algorithms",
       "urlGitHub": "https://github.com/cp-algorithms/cp-algorithms",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/pacstall/pacstall",
@@ -12055,9 +10645,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/libredirect/libredirect",
+      "urlInput": "https://github.com/libredirect/browser_extension",
       "urlGitHub": "https://github.com/libredirect/browser_extension",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/SynapseMedia/nucleus",
@@ -12166,7 +10756,7 @@
     },
     {
       "urlInput": "https://github.com/hiddify/hiddify-config",
-      "urlGitHub": "https://github.com/hiddify/Hiddify-Server",
+      "urlGitHub": "https://github.com/hiddify/Hiddify-Manager",
       "status": "Redirect"
     },
     {
@@ -12185,9 +10775,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/Brightfield-Tech-Academy/Curriculum",
+      "urlInput": "https://github.com/BrightfieldTechAcademy/Curriculum",
       "urlGitHub": "https://github.com/BrightfieldTechAcademy/Curriculum",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/privacytests/privacytests.org",
@@ -12270,11 +10860,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/sponsors/pika-backup",
-      "urlGitHub": null,
-      "status": "Repo not found"
-    },
-    {
       "urlInput": "https://github.com/drogonframework/drogon",
       "urlGitHub": "https://github.com/drogonframework/drogon",
       "status": "OK"
@@ -12326,8 +10911,8 @@
     },
     {
       "urlInput": "https://github.com/LiteLDev/LiteLoaderBDS",
-      "urlGitHub": "https://github.com/LiteLDev/LiteLoaderBDS",
-      "status": "OK"
+      "urlGitHub": "https://github.com/LiteLDev/LeviLamina",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/openwebf/webf",
@@ -12360,14 +10945,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/Tanmoy741127/lumi",
+      "urlInput": "https://github.com/tanmoysrt/lumi",
       "urlGitHub": "https://github.com/tanmoysrt/lumi",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
-      "urlInput": "https://github.com/open-tdp/tdp-cloud",
+      "urlInput": "https://github.com/opentdp/tdp-cloud",
       "urlGitHub": "https://github.com/opentdp/tdp-cloud",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/RentadroneCL/AI-Agro",
@@ -12390,9 +10975,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/starlite-api/starlite",
+      "urlInput": "https://github.com/litestar-org/litestar",
       "urlGitHub": "https://github.com/litestar-org/litestar",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/esm-dev/esm.sh",
@@ -12450,9 +11035,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/cenk1cenk2/listr2",
+      "urlInput": "https://github.com/listr2/listr2",
       "urlGitHub": "https://github.com/listr2/listr2",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/bowphp/framework",
@@ -12530,9 +11115,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/IvanGoncharov/graphql-voyager",
+      "urlInput": "https://github.com/graphql-kit/graphql-voyager",
       "urlGitHub": "https://github.com/graphql-kit/graphql-voyager",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/gdm-settings/gdm-settings",
@@ -12565,9 +11150,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/yohamta/dagu",
+      "urlInput": "https://github.com/dagu-dev/dagu",
       "urlGitHub": "https://github.com/dagu-dev/dagu",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/unocss/unocss",
@@ -12585,14 +11170,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/litestar-org/litestar",
-      "urlGitHub": "https://github.com/litestar-org/litestar",
-      "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/lukasalexanderweber/stitching",
+      "urlInput": "https://github.com/OpenStitching/stitching",
       "urlGitHub": "https://github.com/OpenStitching/stitching",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/XcodesOrg/XcodesApp",
@@ -12610,9 +11190,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/nVuln/tiktokshop-php",
+      "urlInput": "https://github.com/EcomPHP/tiktokshop-php",
       "urlGitHub": "https://github.com/EcomPHP/tiktokshop-php",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/gorse-io/gorse",
@@ -12680,9 +11260,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/rustmagazine/rustmagazine",
+      "urlInput": "https://github.com/RustMagazine/rustmagazine",
       "urlGitHub": "https://github.com/RustMagazine/rustmagazine",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/forgoer/thinkgo",
@@ -12690,9 +11270,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/vorburger/MariaDB4j",
+      "urlInput": "https://github.com/MariaDB4j/MariaDB4j",
       "urlGitHub": "https://github.com/MariaDB4j/MariaDB4j",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/AlfaazPlus/QuranApp",
@@ -12815,14 +11395,14 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/override-sh/open-press",
+      "urlInput": "https://github.com/override-sh/aetheria",
       "urlGitHub": "https://github.com/override-sh/aetheria",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
-      "urlInput": "https://github.com/trustless-engineering/solpanel",
+      "urlInput": "https://github.com/trustless-engineering/sol-panel",
       "urlGitHub": "https://github.com/trustless-engineering/sol-panel",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/Skoice/skoice",
@@ -12875,9 +11455,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/hugofara/lwt",
+      "urlInput": "https://github.com/HugoFara/lwt",
       "urlGitHub": "https://github.com/HugoFara/lwt",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/exeme-project/exeme-lang",
@@ -12900,9 +11480,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/otsoft/myaac",
+      "urlInput": "https://github.com/slawkens/myaac",
       "urlGitHub": "https://github.com/slawkens/myaac",
-      "status": "Redirect"
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/LiberMall/tnt",
