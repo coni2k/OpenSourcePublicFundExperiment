@@ -3851,8 +3851,8 @@
     },
     {
       "urlInput": "https://github.com/HimasRafeek/butterCake",
-      "urlGitHub": "https://github.com/HimasRafeek/butterCake",
-      "status": "OK"
+      "urlGitHub": "https://github.com/HimasRafeek/butterCake-Legacy",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/javrasya/django-river",
@@ -4171,8 +4171,8 @@
     },
     {
       "urlInput": "https://github.com/silicon-hills/react-gtk",
-      "urlGitHub": "https://github.com/silicon-hills/react-gtk",
-      "status": "OK"
+      "urlGitHub": "https://github.com/clayrisser/react-gtk",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/cabal-club/cabal-desktop",
@@ -4256,8 +4256,8 @@
     },
     {
       "urlInput": "https://github.com/botika/yarte",
-      "urlGitHub": "https://github.com/botika/yarte",
-      "status": "OK"
+      "urlGitHub": "https://github.com/zzau13/yarte",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/swarmpit/swarmpit",
@@ -7906,8 +7906,8 @@
     },
     {
       "urlInput": "https://github.com/troyeguo/koodo-reader",
-      "urlGitHub": "https://github.com/troyeguo/koodo-reader",
-      "status": "OK"
+      "urlGitHub": "https://github.com/koodo-reader/koodo-reader",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/Dreamacro/clash",
@@ -10036,8 +10036,8 @@
     },
     {
       "urlInput": "https://github.com/communitycontributorgroup/ccg",
-      "urlGitHub": "https://github.com/communitycontributorgroup/ccg",
-      "status": "OK"
+      "urlGitHub": "https://github.com/fosscontributors/fosscontributors",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/fullstack-build/tslog",
@@ -10456,8 +10456,8 @@
     },
     {
       "urlInput": "https://github.com/fastjs-team/fastjs-next",
-      "urlGitHub": "https://github.com/fastjs-team/fastjs-next",
-      "status": "OK"
+      "urlGitHub": "https://github.com/fastjs-team/core",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/projectsend/projectsend",
@@ -10561,8 +10561,8 @@
     },
     {
       "urlInput": "https://github.com/KwickerHub/frontend",
-      "urlGitHub": "https://github.com/KwickerHub/frontend",
-      "status": "OK"
+      "urlGitHub": "https://github.com/KwickerHub/WebCraftifyAI",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/Together-Java/TJ-Bot",
@@ -10881,8 +10881,8 @@
     },
     {
       "urlInput": "https://github.com/centerofci/mathesar",
-      "urlGitHub": "https://github.com/centerofci/mathesar",
-      "status": "OK"
+      "urlGitHub": "https://github.com/mathesar-foundation/mathesar",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/bluez/bluez",
@@ -11321,8 +11321,8 @@
     },
     {
       "urlInput": "https://github.com/casdoor/casdoor",
-      "urlGitHub": "https://github.com/casdoor/casdoor",
-      "status": "OK"
+      "urlGitHub": "https://github.com/casbin/casdoor",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/Breakthrough-Development/smtpts",
