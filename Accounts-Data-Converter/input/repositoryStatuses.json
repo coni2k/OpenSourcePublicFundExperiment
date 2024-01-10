@@ -3861,8 +3861,8 @@
     },
     {
       "urlInput": "https://github.com/forsigner/fexo",
-      "urlGitHub": "https://github.com/forsigner/fexo",
-      "status": "OK"
+      "urlGitHub": "https://github.com/ink-zone/fexo",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/stashapp/stash",
@@ -6341,8 +6341,8 @@
     },
     {
       "urlInput": "https://github.com/protontypes/awesome-robotic-tooling",
-      "urlGitHub": "https://github.com/protontypes/awesome-robotic-tooling",
-      "status": "OK"
+      "urlGitHub": "https://github.com/Ly0n/awesome-robotic-tooling",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/rizinorg/cutter",
@@ -8206,8 +8206,8 @@
     },
     {
       "urlInput": "https://github.com/fullstackhero/dotnet-webapi-boilerplate",
-      "urlGitHub": "https://github.com/fullstackhero/dotnet-webapi-boilerplate",
-      "status": "OK"
+      "urlGitHub": "https://github.com/fullstackhero/dotnet-webapi-starter-kit",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/innocces/taro-hooks",
@@ -9086,8 +9086,8 @@
     },
     {
       "urlInput": "https://github.com/yihui-he/channel-pruning",
-      "urlGitHub": "https://github.com/yihui-he/channel-pruning",
-      "status": "OK"
+      "urlGitHub": "https://github.com/ethanhe42/channel-pruning",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/linearmouse/linearmouse",
