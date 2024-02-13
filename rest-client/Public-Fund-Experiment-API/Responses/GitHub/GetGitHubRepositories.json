@@ -3978,8 +3978,8 @@
     },
     {
       "urlInput": "https://github.com/yanyiwu/nodejieba",
-      "urlGitHub": "https://github.com/yanyiwu/nodejieba",
-      "status": "Same"
+      "urlGitHub": "https://github.com/luckykaiyi/nodejieba",
+      "status": "Different"
     },
     {
       "urlInput": "https://github.com/fwartner/mac-cleanup",
@@ -9147,8 +9147,8 @@
       "status": "Same"
     },
     {
-      "urlInput": "https://github.com/Dreamacro/clash",
-      "urlGitHub": "https://github.com/Dreamacro/clash",
+      "urlInput": "https://github.com/Dreamacro/maxmind-geoip",
+      "urlGitHub": "https://github.com/Dreamacro/maxmind-geoip",
       "status": "Same"
     },
     {
@@ -10867,8 +10867,8 @@
       "status": "Repo not found"
     },
     {
-      "urlInput": "https://github.com/adarsh-goel/FileStreamBot-pro",
-      "urlGitHub": "https://github.com/adarsh-goel/FileStreamBot-pro",
+      "urlInput": "https://github.com/adarsh-goel/spotiboost",
+      "urlGitHub": "https://github.com/adarsh-goel/spotiboost",
       "status": "Same"
     },
     {
@@ -10989,11 +10989,6 @@
     {
       "urlInput": "https://github.com/Leaflet/Leaflet",
       "urlGitHub": "https://github.com/Leaflet/Leaflet",
-      "status": "Same"
-    },
-    {
-      "urlInput": "https://github.com/junina-de/next.js",
-      "urlGitHub": "https://github.com/junina-de/next.js",
       "status": "Same"
     },
     {
@@ -12537,8 +12532,8 @@
       "status": "Same"
     },
     {
-      "urlInput": "https://github.com/vlang-association/docs",
-      "urlGitHub": "https://github.com/vlang-association/docs",
+      "urlInput": "https://github.com/vlang-association/v-tutorial-stars",
+      "urlGitHub": "https://github.com/vlang-association/v-tutorial-stars",
       "status": "Same"
     },
     {
