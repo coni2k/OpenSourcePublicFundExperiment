@@ -8985,11 +8985,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/IFCjs/web-ifc-viewer",
-      "urlGitHub": "https://github.com/IFCjs/web-ifc-viewer",
-      "status": "OK"
-    },
-    {
       "urlInput": "https://github.com/dotnet/Silk.NET",
       "urlGitHub": "https://github.com/dotnet/Silk.NET",
       "status": "OK"
@@ -9462,11 +9457,6 @@
     {
       "urlInput": "https://github.com/highlightjs/highlight.js",
       "urlGitHub": "https://github.com/highlightjs/highlight.js",
-      "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/adarsh-goel/FileStreamBot-pro",
-      "urlGitHub": "https://github.com/adarsh-goel/FileStreamBot-pro",
       "status": "OK"
     },
     {
@@ -11321,8 +11311,8 @@
     },
     {
       "urlInput": "https://github.com/casdoor/casdoor",
-      "urlGitHub": "https://github.com/casbin/casdoor",
-      "status": "Redirect"
+      "urlGitHub": "https://github.com/casdoor/casdoor",
+      "status": "OK"
     },
     {
       "urlInput": "https://github.com/Breakthrough-Development/smtpts",
@@ -11400,11 +11390,6 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/trustless-engineering/sol-panel",
-      "urlGitHub": "https://github.com/trustless-engineering/sol-panel",
-      "status": "OK"
-    },
-    {
       "urlInput": "https://github.com/Skoice/skoice",
       "urlGitHub": "https://github.com/Skoice/skoice",
       "status": "OK"
@@ -11442,11 +11427,6 @@
     {
       "urlInput": "https://github.com/TeamHarTex/HarTex",
       "urlGitHub": "https://github.com/TeamHarTex/HarTex",
-      "status": "OK"
-    },
-    {
-      "urlInput": "https://github.com/lyralang/lyra",
-      "urlGitHub": "https://github.com/lyralang/lyra",
       "status": "OK"
     },
     {
