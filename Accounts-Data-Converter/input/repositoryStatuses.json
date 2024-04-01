@@ -2101,8 +2101,8 @@
     },
     {
       "urlInput": "https://github.com/Cezerin2/cezerin2-api",
-      "urlGitHub": "https://github.com/Cezerin2/cezerin2-api",
-      "status": "OK"
+      "urlGitHub": "https://github.com/Cezerin2/Server",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/jianfengye/collection",
@@ -3236,8 +3236,8 @@
     },
     {
       "urlInput": "https://github.com/mxplusb/cloudflare-sync",
-      "urlGitHub": "https://github.com/mxplusb/cloudflare-sync",
-      "status": "OK"
+      "urlGitHub": "https://github.com/siennathesane/cloudflare-sync",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/pycontribs/jira",
@@ -4946,8 +4946,8 @@
     },
     {
       "urlInput": "https://github.com/rekit/rekit",
-      "urlGitHub": "https://github.com/rekit/rekit",
-      "status": "OK"
+      "urlGitHub": "https://github.com/supnate/rekit",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/FreeRDP/Remmina",
@@ -7191,8 +7191,8 @@
     },
     {
       "urlInput": "https://github.com/mopsicus/UnityMobileInput",
-      "urlGitHub": "https://github.com/mopsicus/UnityMobileInput",
-      "status": "OK"
+      "urlGitHub": "https://github.com/mopsicus/umi",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/mollyim/mollyim-android",
@@ -10386,8 +10386,8 @@
     },
     {
       "urlInput": "https://github.com/ansible-semaphore/semaphore",
-      "urlGitHub": "https://github.com/ansible-semaphore/semaphore",
-      "status": "OK"
+      "urlGitHub": "https://github.com/semaphoreui/semaphore",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/datreeio/datree",
