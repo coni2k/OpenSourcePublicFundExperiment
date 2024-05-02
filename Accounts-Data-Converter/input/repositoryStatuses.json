@@ -835,8 +835,8 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/dimatill/graphql-shield",
-      "urlGitHub": "https://github.com/dimatill/graphql-shield",
+      "urlInput": "https://github.com/maticzav/graphql-shield",
+      "urlGitHub": "https://github.com/maticzav/graphql-shield",
       "status": "OK"
     },
     {
@@ -3861,7 +3861,7 @@
     },
     {
       "urlInput": "https://github.com/forsigner/fexo",
-      "urlGitHub": "https://github.com/ink-zone/fexo",
+      "urlGitHub": "https://github.com/0x-leen/fexo",
       "status": "Redirect"
     },
     {
@@ -8655,9 +8655,9 @@
       "status": "OK"
     },
     {
-      "urlInput": "https://github.com/tidory/hello",
-      "urlGitHub": "https://github.com/tidory/hello",
-      "status": "OK"
+      "urlInput": "https://github.com/tistory-projects/tistory-skin-hELLO",
+      "urlGitHub": "https://github.com/pronist/hello",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/Saleor-Multi-Vendor/saleor-multi-vendor",
@@ -9791,8 +9791,8 @@
     },
     {
       "urlInput": "https://github.com/GrabarzUndPartner/nuxt-speedkit",
-      "urlGitHub": "https://github.com/GrabarzUndPartner/nuxt-speedkit",
-      "status": "OK"
+      "urlGitHub": "https://github.com/basics/nuxt-booster",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/jeffreylanters/react-unity-webgl",
@@ -10041,8 +10041,8 @@
     },
     {
       "urlInput": "https://github.com/saleem-hadad/finance",
-      "urlGitHub": "https://github.com/saleem-hadad/finance",
-      "status": "OK"
+      "urlGitHub": "https://github.com/hisabi-app/hisabi",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/automation-co/husky",
@@ -10676,8 +10676,8 @@
     },
     {
       "urlInput": "https://github.com/module-federation/universe",
-      "urlGitHub": "https://github.com/module-federation/universe",
-      "status": "OK"
+      "urlGitHub": "https://github.com/module-federation/core",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/singlelink-co/Singlelink",
@@ -11041,8 +11041,8 @@
     },
     {
       "urlInput": "https://github.com/hadronepoch/python-ffmpeg-video-streaming",
-      "urlGitHub": "https://github.com/hadronepoch/python-ffmpeg-video-streaming",
-      "status": "OK"
+      "urlGitHub": "https://github.com/quasarstream/python-ffmpeg-video-streaming",
+      "status": "Redirect"
     },
     {
       "urlInput": "https://github.com/Apparence-io/CamerAwesome",
